@@ -124,7 +124,7 @@ ja: {
     eyebrow:"CONTACT", title:"お問い合わせ・エントリー", lead:"2027年イベントへの参加相談、資格・経験についてのご質問、取材・メディアのお問い合わせなど、お気軽にご連絡ください。",
     success:{ title:"送信しました。", body:"お問い合わせありがとうございます。内容を確認のうえ、担当より折り返しご連絡いたします。" },
     form:{ name:"お名前", email:"メールアドレス", country:"国・地域", cert:"フリーダイビング資格・団体", type:"お問い合わせ内容", type1:"2027年イベントエントリー相談", type2:"参加資格・経験についての質問", type3:"取材・メディアのお問い合わせ", type4:"その他", message:"メッセージ", messageNote:"潜水経験年数、これまでの潜水環境（冷水経験の有無）などもあわせてお書きいただけるとスムーズです。", submit:"送信する", privacy:"ご入力いただいた内容はお問い合わせ対応の目的以外には使用しません。" },
-    direct:{ title:"直接ご連絡される場合", body:"フォームのご利用が難しい場合は、メールまたはInstagramのDMでもお問い合わせいただけます。" },
+    direct:{ title:"直接ご連絡される場合", body:"フォームのご利用が難しい場合は、InstagramのDMでもお問い合わせいただけます。" },
     reply:{ title:"返信について", body:"内容を確認のうえ、通常5営業日以内に返信いたします。流氷シーズン中（1〜3月）は現地対応のため、お時間をいただく場合があります。あらかじめご了承ください。" }
   }
 },
@@ -250,7 +250,7 @@ en: {
     eyebrow:"CONTACT", title:"Contact & Entry", lead:"Whether you're considering joining the 2027 event, have a question about certification and experience, or are reaching out from the press, we'd love to hear from you.",
     success:{ title:"Message sent.", body:"Thank you for reaching out. We'll review your message and get back to you soon." },
     form:{ name:"Name", email:"Email", country:"Country / region", cert:"Freediving certification / agency", type:"Inquiry type", type1:"Interested in the 2027 event", type2:"Question about requirements / experience", type3:"Press / media inquiry", type4:"Other", message:"Message", messageNote:"It helps to include your years of freediving experience and any cold-water diving background.", submit:"Send", privacy:"Information submitted here is used only to respond to your inquiry." },
-    direct:{ title:"Prefer to reach us directly?", body:"If the form doesn't work for you, feel free to email us or send a DM on Instagram." },
+    direct:{ title:"Prefer to reach us directly?", body:"If the form doesn't work for you, feel free to send us a DM on Instagram." },
     reply:{ title:"Response time", body:"We usually reply within 5 business days. During drift ice season (January–March) we're on site in the field, so please allow extra time." }
   }
 },
@@ -376,7 +376,7 @@ zh: {
     eyebrow:"聯絡我們", title:"聯絡我們・報名", lead:"無論是考慮參加2027年活動、關於資格與經驗的問題，或是採訪與媒體聯繫，歡迎隨時與我們聯絡。",
     success:{ title:"已送出。", body:"感謝您的洽詢，我們確認內容後將盡快回覆。" },
     form:{ name:"姓名", email:"電子郵件", country:"國家・地區", cert:"自由潛水證照・發證機構", type:"洽詢內容", type1:"2027年活動參加洽詢", type2:"關於參加資格・經驗的問題", type3:"採訪・媒體聯繫", type4:"其他", message:"訊息內容", messageNote:"若能一併告知潛水經驗年數、過去的潛水環境（是否有冷水經驗）等，將有助於我們更快回覆。", submit:"送出", privacy:"您所填寫的內容僅用於回覆本次洽詢，不做其他用途。" },
-    direct:{ title:"若希望直接聯絡", body:"若不便使用表單，也歡迎透過電子郵件或Instagram私訊與我們聯絡。" },
+    direct:{ title:"若希望直接聯絡", body:"若不便使用表單，也歡迎透過Instagram私訊與我們聯絡。" },
     reply:{ title:"關於回覆時間", body:"確認內容後，通常於5個工作天內回覆。流冰季節期間（1〜3月）因需在現場作業，回覆可能需要較長時間，敬請見諒。" }
   }
 },
@@ -502,7 +502,7 @@ ko: {
     eyebrow:"CONTACT", title:"문의・참가 신청", lead:"2027년 이벤트 참가 상담, 자격・경험에 대한 질문, 취재・미디어 문의 등 편하게 연락해 주세요.",
     success:{ title:"전송되었습니다.", body:"문의해 주셔서 감사합니다. 내용을 확인한 후 담당자가 회신해 드리겠습니다." },
     form:{ name:"성함", email:"이메일 주소", country:"국가・지역", cert:"프리다이빙 자격・단체", type:"문의 내용", type1:"2027년 이벤트 참가 상담", type2:"참가 자격・경험에 대한 질문", type3:"취재・미디어 문의", type4:"기타", message:"메시지", messageNote:"잠수 경력 연수, 그동안의 잠수 환경(냉수 경험 유무) 등을 함께 적어 주시면 원활하게 진행됩니다.", submit:"보내기", privacy:"입력하신 내용은 문의 대응 목적 외에는 사용하지 않습니다." },
-    direct:{ title:"직접 연락을 원하시는 경우", body:"양식 이용이 어려우신 경우, 이메일 또는 인스타그램 DM으로도 문의하실 수 있습니다." },
+    direct:{ title:"직접 연락을 원하시는 경우", body:"양식 이용이 어려우신 경우, 인스타그램 DM으로도 문의하실 수 있습니다." },
     reply:{ title:"회신에 대하여", body:"내용 확인 후 통상 영업일 기준 5일 이내에 회신해 드립니다. 유빙 시즌 중(1~3월)에는 현지 대응으로 인해 시간이 걸릴 수 있습니다. 양해 부탁드립니다." }
   }
 }

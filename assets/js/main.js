@@ -91,7 +91,7 @@
           form.reset();
           form.style.display = "none";
         }).catch(function(){
-          window.location.href = "mailto:volcanocuporg@gmail.com";
+          window.open("https://www.instagram.com/icefreediving_shiretoko","_blank");
         }).finally(function(){
           if(submitBtn){ submitBtn.disabled = false; submitBtn.textContent = originalText; }
         });
