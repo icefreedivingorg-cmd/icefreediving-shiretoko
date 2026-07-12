@@ -86,7 +86,9 @@ ja: {
     eyebrow:"RESULTS & MEDIA", title:"実績・ギャラリー", lead:"2024年の世界記録樹立をはじめ、これまでの歩みと、流氷の下で撮影された写真・映像をご紹介します。",
     record:{ badge:"CMAS & GUINNESS WORLD RECORD — 2024.2.22", title:"アイスフリーダイビング世界記録 126m（DYN with Fins）", body1:"2024年2月22日、知床ウトロ漁港の旧港にて、フリーダイバー尾関靖子選手がダイナミックウィズフィン（ウエットスーツ）種目で126mを泳ぎきりました。この記録はイタリアに本拠地を置く国際競技団体CMASにより公式認定され、あわせてギネス世界記録としても認定されました（翌日、クロアチアの選手が140mを樹立し記録は更新されましたが、海水・不揃いな流氷という過酷な環境下での挑戦として大きな意義を残しました）。", body2:"会場設営には数日をかけ、流氷に7つの穴を開けて競技ライン・目視ライン・セーフティラインを設置。CMASジャッジ、水中セーフティダイバー、氷上セーフティ、スキューバチーム、医師など多くのスタッフが参加し、地元の協力のもとで実現しました。" },
     media:{ eyebrow:"MEDIA COVERAGE", title:"メディア掲載",
-      article:{ title:"「【世界記録・ギネス認定】知床・ウトロの流氷下、尾関靖子選手が126mアイスフリーダイビング達成!」", body:"ダイビング総合メディア「Oceana」にて、世界記録アテンプトの舞台裏、主催者・選手インタビューが詳しく紹介されています。", cta:"Oceanaで記事を読む →" }
+      article:{ title:"「【世界記録・ギネス認定】知床・ウトロの流氷下、尾関靖子選手が126mアイスフリーダイビング達成!」", body:"ダイビング総合メディア「Oceana」にて、世界記録アテンプトの舞台裏、主催者・選手インタビューが詳しく紹介されています。", cta:"Oceanaで記事を読む →" },
+      article2:{ title:"「北海道知床流氷アイスダイビング──消えゆく世界遺産に潜る」", body:"台湾のフリーダイビング専門メディア「女子的海 Ms.Ocean」にて、2013年からの歩み、NHKドキュメンタリー、尾関靖子選手の世界記録を含むイベントの全体像が紹介されています（繁体字中国語）。", cta:"Ms.Oceanで記事を読む →" },
+      article3:{ title:"「知床流氷アイスダイビング｜アイスダイビングの夢を叶える」", body:"写真家・王文彥氏による2019年の参加体験記。台湾からの参加者の視点で、流氷の下の光景や現地の様子が豊富な写真とともに綴られています（繁体字中国語）。", cta:"Ms.Oceanで記事を読む →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"写真ギャラリー", lead:"クリックで拡大表示できます。" },
     video:{ eyebrow:"VIDEO", title:"動画", cap1:"流氷の下を泳ぐフリーダイバー", cap2:"潜水の合間にサウナで暖をとる参加者" },
@@ -212,7 +214,9 @@ en: {
     eyebrow:"RESULTS & MEDIA", title:"Results & Gallery", lead:"Our 2024 world record, the story so far, and photos and video captured beneath the drift ice.",
     record:{ badge:"CMAS & GUINNESS WORLD RECORD — Feb 22, 2024", title:"Ice freediving world record: 126m (DYN with Fins)", body1:"On February 22, 2024, at the old harbor of Utoro Fishing Port, Shiretoko, freediver Yasuko Ozeki swam 126m in the Dynamic With Fins (wetsuit) discipline. The swim was officially certified by CMAS, the Italy-based international freediving federation, and recognized as a Guinness World Record (the record was surpassed the very next day by a Croatian athlete swimming 140m — but the achievement's significance stood, given the far harsher conditions of salt water and uneven natural sea ice).", body2:"Setting up the venue took several days: seven holes were cut into the ice to lay out competition, sighting and safety lines. CMAS judges, underwater safety divers, ice-surface safety staff, a scuba team and a doctor all took part, made possible by the support of the local community." },
     media:{ eyebrow:"MEDIA COVERAGE", title:"Media coverage",
-      article:{ title:'"[World Record, Guinness-Certified] Yasuko Ozeki achieves 126m ice freediving beneath the drift ice of Utoro, Shiretoko"', body:"Diving media outlet Oceana covered the story in depth — behind the scenes of the record attempt, with interviews from organizers and the athlete herself.", cta:"Read the article on Oceana →" }
+      article:{ title:'"[World Record, Guinness-Certified] Yasuko Ozeki achieves 126m ice freediving beneath the drift ice of Utoro, Shiretoko"', body:"Diving media outlet Oceana covered the story in depth — behind the scenes of the record attempt, with interviews from organizers and the athlete herself.", cta:"Read the article on Oceana →" },
+      article2:{ title:'"Hokkaido Shiretoko Drift-Ice Freediving — Diving into a Vanishing World Heritage Sea"', body:"Taiwanese freediving media Ms.Ocean (女子的海) presents the full story of the event — its history since 2013, the NHK documentary, and Yasuko Ozeki's world record (in Traditional Chinese).", cta:"Read the article on Ms.Ocean →" },
+      article3:{ title:'"Shiretoko Drift-Ice Diving | Checking Ice Diving Off the Bucket List"', body:"A 2019 first-person report by photographer Wen-Yen Wang — the experience through a Taiwanese participant's eyes, told with plenty of photos from beneath the ice (in Traditional Chinese).", cta:"Read the article on Ms.Ocean →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"Photo gallery", lead:"Click any photo to view it larger." },
     video:{ eyebrow:"VIDEO", title:"Video", cap1:"A freediver swimming beneath the drift ice", cap2:"Warming up in the sauna between dives" },
@@ -338,7 +342,9 @@ zh: {
     eyebrow:"成果與媒體", title:"成果與藝廊", lead:"介紹2024年世界紀錄的達成，以及至今的歷程與流冰下拍攝的照片、影像。",
     record:{ badge:"CMAS與金氏世界紀錄 — 2024.2.22", title:"冰下自由潛水世界紀錄 126公尺（雙蹼動態閉氣）", body1:"2024年2月22日，於知床宇登呂漁港的舊港，自由潛水選手尾關靖子在雙蹼動態閉氣（穿著濕式潛水衣）項目中游完126公尺。此紀錄經總部位於義大利的國際競技團體CMAS正式認證，並同時獲得金氏世界紀錄認證（隔日，克羅埃西亞選手創下140公尺紀錄，雖然紀錄僅維持一天，但在海水及不平整流冰的嚴苛環境下完成的挑戰，其意義依然重大）。", body2:"會場設置耗費數日，於流冰上鑿出7個洞口，設置比賽線、視覺參考線及安全線。CMAS裁判、水中安全潛水員、冰上安全人員、水肺團隊及醫師等眾多工作人員參與，並在當地協助下順利完成。" },
     media:{ eyebrow:"媒體報導", title:"媒體報導",
-      article:{ title:"「【世界紀錄・金氏認證】知床宇登呂流冰下，尾關靖子選手達成126公尺冰下自由潛水!」", body:"潛水綜合媒體「Oceana」詳細報導了此次世界紀錄挑戰的幕後花絮，以及主辦方與選手的專訪。", cta:"於Oceana閱讀全文 →" }
+      article:{ title:"「【世界紀錄・金氏認證】知床宇登呂流冰下，尾關靖子選手達成126公尺冰下自由潛水!」", body:"潛水綜合媒體「Oceana」詳細報導了此次世界紀錄挑戰的幕後花絮，以及主辦方與選手的專訪。", cta:"於Oceana閱讀全文 →" },
+      article2:{ title:"「北海道知床流冰冰潛─潛入逐漸消失的世界遺產」", body:"台灣自由潛水媒體「女子的海Ms.Ocean」完整介紹了活動自2013年以來的歷程、NHK紀錄片，以及尾關靖子選手的世界紀錄。", cta:"於Ms.Ocean閱讀全文 →" },
+      article3:{ title:"「知床流冰冰潛｜完成冰潛的夢想清單」", body:"攝影師王文彥於2019年的參加體驗記，以台灣參加者的視角，透過豐富的照片記錄流冰下的景色與現場情況。", cta:"於Ms.Ocean閱讀全文 →" }
     },
     photo:{ eyebrow:"照片藝廊", title:"照片藝廊", lead:"點擊照片可放大顯示。" },
     video:{ eyebrow:"影片", title:"影片", cap1:"在流冰下游動的自由潛水者", cap2:"潛水空檔於三溫暖取暖的參加者" },
@@ -464,7 +470,9 @@ ko: {
     eyebrow:"RESULTS & MEDIA", title:"실적・갤러리", lead:"2024년 세계 기록 수립을 비롯한 그동안의 발자취와, 유빙 아래에서 촬영된 사진・영상을 소개합니다.",
     record:{ badge:"CMAS & 기네스 세계 기록 — 2024.2.22", title:"아이스 프리다이빙 세계 기록 126m(DYN with Fins)", body1:"2024년 2월 22일, 시레토코 우토로 어항의 옛 항구에서 프리다이버 오제키 야스코 선수가 다이나믹 위드 핀(웨트슈트) 종목으로 126m를 완영했습니다. 이 기록은 이탈리아에 본부를 둔 국제 경기 단체 CMAS의 공식 인증을 받았으며, 동시에 기네스 세계 기록으로도 인정받았습니다(다음 날 크로아티아 선수가 140m를 기록하며 세계 기록은 갱신되었지만, 바닷물과 불규칙한 유빙이라는 가혹한 환경에서의 도전으로서 큰 의의를 남겼습니다).", body2:"현장 설치에는 며칠이 소요되었으며, 유빙에 7개의 구멍을 뚫어 경기 라인, 시야 확보용 라인, 안전 라인을 설치했습니다. CMAS 심판, 수중 안전 다이버, 빙상 안전 요원, 스쿠버 팀, 의사 등 많은 스태프가 참여하여 지역의 협조 아래 실현되었습니다." },
     media:{ eyebrow:"MEDIA COVERAGE", title:"미디어 보도",
-      article:{ title:"「【세계 기록・기네스 인증】시레토코 우토로 유빙 아래, 오제키 야스코 선수 126m 아이스 프리다이빙 달성!」", body:"다이빙 종합 미디어 'Oceana'에서 세계 기록 도전의 뒷이야기와 주최자・선수 인터뷰를 상세히 소개하고 있습니다.", cta:"Oceana에서 기사 읽기 →" }
+      article:{ title:"「【세계 기록・기네스 인증】시레토코 우토로 유빙 아래, 오제키 야스코 선수 126m 아이스 프리다이빙 달성!」", body:"다이빙 종합 미디어 'Oceana'에서 세계 기록 도전의 뒷이야기와 주최자・선수 인터뷰를 상세히 소개하고 있습니다.", cta:"Oceana에서 기사 읽기 →" },
+      article2:{ title:"「홋카이도 시레토코 유빙 아이스 다이빙 ─ 사라져 가는 세계유산 바다로 잠수하다」", body:"대만 프리다이빙 전문 미디어 '여자의 바다 Ms.Ocean'에서 2013년부터의 발자취, NHK 다큐멘터리, 오제키 야스코 선수의 세계 기록 등 이벤트의 전체 이야기를 소개하고 있습니다(중국어 번체).", cta:"Ms.Ocean에서 기사 읽기 →" },
+      article3:{ title:"「시레토코 유빙 아이스 다이빙｜아이스 다이빙 버킷리스트 달성」", body:"사진가 왕원옌(王文彥) 씨의 2019년 참가 체험기. 대만 참가자의 시선으로 유빙 아래 풍경과 현장 모습을 풍부한 사진과 함께 담았습니다(중국어 번체).", cta:"Ms.Ocean에서 기사 읽기 →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"사진 갤러리", lead:"클릭하시면 확대해서 보실 수 있습니다." },
     video:{ eyebrow:"VIDEO", title:"영상", cap1:"유빙 아래를 헤엄치는 프리다이버", cap2:"잠수 사이 사우나에서 몸을 녹이는 참가자들" },
