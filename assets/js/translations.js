@@ -6,14 +6,14 @@ window.TRANSLATIONS = {
 /* =========================== JAPANESE =========================== */
 ja: {
   meta: {
-    home:  { title:"流氷フリーダイビング知床 | Ice Freediving Shiretoko", desc:"北海道・知床ウトロで毎年開催される、流氷の下を潜る世界でここだけのフリーダイビング体験。2027年大会エントリー受付中。" },
+    home:  { title:"流氷フリーダイビング知床 | Ice Freediving Shiretoko", desc:"北海道・知床ウトロで毎年開催される、流氷の下を潜る世界でここだけのフリーダイビング体験。2027年イベントエントリー受付中。" },
     about: { title:"知床と流氷フリーダイビングとは | Ice Freediving Shiretoko", desc:"知床とは、流氷フリーダイビングとは何かを解説。11年の歴史と安全体制について。" },
-    event: { title:"2027年大会 | Ice Freediving Shiretoko", desc:"流氷フリーダイビングカップ2027の開催概要、参加資格、スケジュール、お申し込み方法。" },
+    event: { title:"2027年イベント | Ice Freediving Shiretoko", desc:"流氷フリーダイビングカップ2027の開催概要、参加資格、スケジュール、お申し込み方法。" },
     gallery: { title:"実績・ギャラリー | Ice Freediving Shiretoko", desc:"2024年世界記録樹立の記録、メディア掲載、流氷フリーダイビングの写真・動画ギャラリー。" },
     access: { title:"アクセス | Ice Freediving Shiretoko", desc:"知床ウトロへのアクセス方法、流氷シーズンの情報。" },
-    contact: { title:"お問い合わせ・エントリー | Ice Freediving Shiretoko", desc:"2027年大会への参加相談、取材・メディアのお問い合わせはこちらから。" }
+    contact: { title:"お問い合わせ・エントリー | Ice Freediving Shiretoko", desc:"2027年イベントへの参加相談、取材・メディアのお問い合わせはこちらから。" }
   },
-  nav: { home:"ホーム", about:"知床と流氷フリーダイビング", event:"2027年大会", gallery:"実績・ギャラリー", access:"アクセス", contact:"お問い合わせ", cta:"エントリー" },
+  nav: { home:"ホーム", about:"知床と流氷フリーダイビング", event:"2027年イベント", gallery:"実績・ギャラリー", access:"アクセス", contact:"お問い合わせ", cta:"エントリー" },
   brand: { tagline:"流氷フリーダイビングカップ" },
   footer: {
     about:"北海道・知床ウトロで2013年から続く、流氷の下を潜るフリーダイビングイベント「流氷フリーダイビングカップ」の公式サイトです。",
@@ -24,7 +24,7 @@ ja: {
   },
 
   home: {
-    hero:{ dates:"2027年 2月中旬〜3月上旬", datesLoc:"・北海道 知床ウトロ", title:"流氷の下で、<br>世界でここだけの一息を。", sub:"オホーツク海の流氷が接岸する知床ウトロ。氷の下に広がる静寂の海へ、息だけを頼りに潜る——日本で唯一、この場所だけの体験です。", cta1:"2027年大会について", cta2:"流氷フリーダイビングとは", scroll:"SCROLL" },
+    hero:{ dates:"2027年 2月21日〜28日", datesLoc:"・北海道 知床ウトロ", title:"流氷の下で、<br>世界でここだけの一息を。", sub:"オホーツク海の流氷が接岸する知床ウトロ。氷の下に広がる静寂の海へ、息だけを頼りに潜る——日本で唯一、この場所だけの体験です。", cta1:"2027年イベントについて", cta2:"流氷フリーダイビングとは", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"知床ウトロだけの、特別な流氷体験", body:"私たちは2013年から、北海道・知床ウトロで「流氷フリーダイビングカップ」を開催してきました。分厚い流氷に穴を開け、氷点下の海へ素潜りで挑む——ヨーロッパの凍った湖で行われるアイスダイビングとは異なり、知床では塩分を含む海水と、ゴツゴツと起伏に富んだ流氷の下という、世界でも類を見ない環境で潜ることができます。地元の特別な許可と11年以上の運営実績のもと、国内外のフリーダイバーが集うイベントへと育ってきました。" },
     stats:{ since:"活動開始", years:"年の運営実績", record:"世界記録樹立（2024）", countries:"参加国・地域" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"知床が「世界でここだけ」である理由" },
@@ -33,7 +33,7 @@ ja: {
     h3:{ title:"世界記録が生まれた海", body:"2024年2月、知床ウトロの流氷下でCMAS・ギネス世界記録公認のアイスフリーダイビング世界記録が樹立されました。台湾・韓国など海外からのファンダイブ参加者も増え、国際色豊かなコミュニティに育っています。" },
     record:{ badge:"WORLD RECORD 2024", title:"尾関靖子選手、流氷下126mの世界記録を達成", body:"2024年2月22日、知床ウトロの流氷下にて、フリーダイバー尾関靖子選手がダイナミックウィズフィン種目で126mを泳ぎきり、CMAS公認・ギネス世界記録に認定されました。氷点下の海水、分厚く不揃いな流氷、限られた浮上ポイントという過酷な条件のもとで実現した記録です。", cta:"詳しく見る →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"世界自然遺産・知床という場所", body:"知床半島は2005年に世界自然遺産に登録された、原生的な自然が残る北海道最東端の地。冬になるとオホーツク海を流氷が覆い、豊かな海の生態系と、流氷の下でしか出会えない生き物たちの世界が広がります。私たちの活動拠点は、その玄関口であるウトロです。", cta:"知床と流氷フリーダイビングについて →" },
-    event:{ eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", body:"2027年も知床ウトロにて開催予定です。フリーダイビング資格をお持ちの方を対象に、ファンダイブ形式でご参加いただけます。安全運営の都合上、受け入れ人数には限りがあります。日程・詳細は準備が整い次第、随時更新します。", tag1:"2027年2月中旬〜3月上旬（予定）", tag2:"要フリーダイビング資格", tag3:"定員制", cta:"大会詳細・参加について →" },
+    event:{ eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", body:"2027年も知床ウトロにて開催します。フリーダイビング資格をお持ちの方を対象に、ファンダイブ形式でご参加いただけます。安全運営の都合上、受け入れ人数には限りがあります。", tag1:"2027年2月21日〜28日", tag2:"要フリーダイビング資格（AIDA3相当以上）", tag3:"1日最大 約20名", cta:"イベント詳細・参加について →" },
     gallery:{ eyebrow:"GALLERY", title:"流氷の下の世界", cta:"ギャラリーをすべて見る →" },
     cta:{ title:"2027年、知床の流氷の下で会いましょう。", body:"参加のご相談、資格・経験についてのご質問、取材・メディアのお問い合わせなど、お気軽にご連絡ください。", cta1:"お問い合わせ・エントリー", cta2:"Instagramをフォロー" }
   },
@@ -55,21 +55,29 @@ ja: {
     safety4:{ title:"経験・資格の確認", body:"参加にはフリーダイビング資格（AIDA・CMAS等）と、冷水域での経験が求められます。事前に経験・体調を確認したうえで受け入れています。" },
     safety5:{ title:"明確な入退水ルート", body:"流氷に複数の穴を開け、競技ライン・目視ライン・セーフティラインを設置。ロープに沿って安全に入退水します。" },
     safety6:{ title:"世界記録アテンプトの実績", body:"CMAS国際基準に基づく世界記録アテンプトを実施した実績があり、国際認定ジャッジとの連携体制も構築しています。" },
-    cta:{ title:"2027年大会について、詳しく見る", body:"参加資格やスケジュール、お申し込み方法をご案内しています。", cta1:"2027年大会の詳細へ", cta2:"お問い合わせ" }
+    cta:{ title:"2027年イベントについて、詳しく見る", body:"参加資格やスケジュール、お申し込み方法をご案内しています。", cta1:"2027年イベントの詳細へ", cta2:"お問い合わせ" }
   },
 
   event: {
     eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", lead:"知床ウトロの流氷下を潜るファンダイブイベント。フリーダイビング資格をお持ちの方を対象に、少人数・安全重視で開催します。",
-    table:{ dates:"開催予定日", datesVal:"2027年2月中旬〜3月上旬（流氷の接岸状況により調整の可能性があります）", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ漁港周辺", format:"形式", formatVal:"ファンダイブ（記録を競わない体験潜水）。経験・希望に応じて個人アテンプト枠についてもご相談ください。", capacity:"定員", capacityVal:"安全運営の都合上、少人数制。先着・審査制でのご案内となります。", fee:"参加費", feeVal:"現在調整中です。詳細はお問い合わせください。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
-    req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA / CMAS / SSI等）保持者", tag2:"冷水域での潜水経験", tag3:"健康状態に問題がない方", tag4:"事前ヒアリングへのご協力",
-      card1:{ title:"資格・経験について", body:"安全のため、フリーダイビングの公式資格と一定の潜水経験を必須としています。資格取得団体や経験年数は問いませんが、事前にご経歴を確認させていただきます。冷水・寒冷地での経験がある方を優先的にご案内する場合があります。" },
-      card2:{ title:"装備について", body:"ウェットスーツまたは衣服の中にウェットスーツを着用いただきます（ドライスーツでの参加についても応相談）。フィン・マスク等の個人装備はご持参ください。詳細な装備リストはお申し込み後にご案内します。" }
+    table:{ dates:"開催日程", datesVal:"2027年2月20日（穴あけ・準備日）／2月21日〜28日（イベント実施）。参加日は2日間からお選びいただけます（連続日程・分割日程どちらも可）。", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ（オホーツク海）。流氷の状況により、ポイントはウトロ内で変更になる場合があります。", format:"形式", formatVal:"ファンダイブ（記録を競わない体験潜水）。コンスタントウェイト（CWT）・ダイナミック（DYN）の2種目に対応。流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。", capacity:"定員", capacityVal:"1日最大 約20名。安全運営の都合上、少人数制でのご案内となります。", fee:"参加費", feeVal:"2日間 45,000円（保険代込み・1日のみのご参加でも同額）／＋1日ごとに20,000円／見学のみ12,000円（1日）。流氷の状況で潜水自体ができない場合は、1日あたり10,000円を返金します。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
+    req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA3相当以上）保持者", tag2:"冷水域での潜水経験", tag3:"健康状態に問題がない方", tag4:"事前ヒアリングへのご協力",
+      card1:{ title:"資格・経験について", body:"安全のため、AIDA3相当以上のフリーダイビング資格と、一般的な潜水技術が確認できることを条件としています。資格取得団体は問いませんが、事前にご経歴を確認させていただきます。冷水・寒冷地での経験がある方を優先的にご案内する場合があります。" },
+      card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。基本的にレンタル装備はございませんので、フィン・マスク等の個人装備はご持参ください。グローブ・フィンソックスのみレンタルがございます。" }
     },
-    schedule:{ eyebrow:"SAMPLE SCHEDULE", title:"スケジュール（例）", note:"実際の日程は流氷の状況・天候により調整されます。確定情報はお申し込みいただいた方に別途ご案内します。" },
-    sch1:{ day:"DAY 1", title:"現地集合・オリエンテーション", body:"ウトロ現地集合。装備チェック、安全説明、チームミーティングを行います。" },
-    sch2:{ day:"DAY 2-3", title:"流氷フリーダイビング", body:"流氷に穴を開けた会場にて、セーフティチームの伴泳のもとファンダイブを行います。潜水の合間はサウナや焚き火で暖をとりながら過ごします。" },
-    sch3:{ day:"DAY 4", title:"予備日・記録アテンプト", body:"天候・流氷状況による予備日。ご希望者は個人アテンプトについてもご相談いただけます。" },
-    sch4:{ day:"DAY 5", title:"解散", body:"現地にて解散。ご希望に応じて知床観光の情報もご案内します。" },
+    daily:{ eyebrow:"DAILY SCHEDULE", title:"1日の流れ", note:"参加日程は2日間からお選びください。連続日程でも、間に別のアクティビティを挟む分割日程でも構いません。", t1:"10:00", t1Title:"集合・穴あけ作業・ブリーフィング", t2:"10:30", t2Title:"ダイビング開始", t3:"13:30", t3Title:"終了・自由解散" },
+    activities:{ eyebrow:"ACTIVITIES", title:"実施可能な種目", cwt:{ title:"CWT（コンスタントウェイト）", body:"最大深度は約13m。安全のため、必ずバディと一緒に潜水してください。" }, dyn:{ title:"DYN（ダイナミック）", body:"約20m間隔で開けた2つの穴の間を移動する種目です。穴と穴の間にはロープを設置し、ラニヤードを使用して潜水します。水中はスキューバダイバーが安全管理を行います。" } },
+    gear:{ eyebrow:"REQUIRED GEAR", title:"必要な装備", note:"基本的に装備のレンタルは行っておりませんので、ご自身のギアをお持ちください。",
+      item1:{ title:"ウェットスーツ", body:"厚さ5mm以上を推奨します（水温0度前後）。1〜3mmでも潜水は可能ですが、保温性の面で初心者や長時間の潜水には不向きです。" },
+      item2:{ title:"グローブ／フィンソックス", body:"手足の保護のため必須です。レンタルもございます（グローブ1,000円・フィンソックス1,000円、各1日）。" },
+      item3:{ title:"フィン", body:"種類は問いません。フィンソックスを着用したまま履けるか、事前にご確認ください。" },
+      item4:{ title:"マスク・シュノーケル", body:"通常のもので問題ありません。" },
+      item5:{ title:"ラニヤード", body:"通常のもので問題ありません。" }
+    },
+    fee:{ eyebrow:"FEE", title:"参加費（保険代込み）", plan1:{ label:"2日間", val:"45,000円" }, plan2:{ label:"＋1日ごと", val:"20,000円" }, plan3:{ label:"見学のみ（1日）", val:"12,000円" }, note1:"1日のみのご参加でも料金は2日間と同額です。", note2:"流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。潜水自体が実施できない場合は、1日あたり10,000円を返金します。" },
+    cancel:{ eyebrow:"CANCELLATION POLICY", title:"キャンセルポリシー", r1:{ label:"90日前まで", val:"100%返金" }, r2:{ label:"45日前まで", val:"50%返金" }, r3:{ label:"それ以降", val:"返金なし" } },
+    safety2:{ eyebrow:"ON-SITE SAFETY", title:"現地での安全管理", body:"流氷の上を歩く際は必ずウェットスーツを着用してください。イベント旗を携帯したスタッフの同行時以外は、流氷の上に立ち入ることはできません。気温は氷点下となりますので、十分な防寒対策をお願いします。" },
+    location:{ eyebrow:"LOCATION", title:"開催場所", body:"北海道斜里郡斜里町ウトロ、オホーツク海に面したポイントで開催します。最大深度は約13mで、2つの穴を使いCWT・DYNの両種目に対応します。水温は0度前後です。流氷等の状況により、ポイントはウトロ内で変更になる場合があります。", mapCta:"Googleマップで見る →" },
     notice:{ badge:"PLEASE NOTE", title:"流氷は自然現象です", body:"流氷の接岸状況は年によって大きく異なり、天候や海況によって開催内容・日程を変更する場合があります。近年は温暖化の影響で流氷の接岸が不安定になることもあり、その年ごとの自然条件と相談しながらの開催となります。あらかじめご了承ください。" },
     cta:{ title:"参加をご検討の方へ", body:"資格・経験のご確認や日程のご相談など、まずはお気軽にお問い合わせください。定員に達し次第、受付を締め切らせていただきます。", cta1:"お問い合わせ・エントリー", cta2:"安全体制について見る" }
   },
@@ -82,26 +90,40 @@ ja: {
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"写真ギャラリー", lead:"クリックで拡大表示できます。" },
     video:{ eyebrow:"VIDEO", title:"動画", cap1:"流氷の下を泳ぐフリーダイバー", cap2:"潜水の合間にサウナで暖をとる参加者" },
-    cta:{ title:"Instagramでも最新情報を発信中", body:"シーズン中の様子や過去の大会の記録は、公式Instagramでもご覧いただけます。", cta1:"Instagramを見る", cta2:"2027年大会について" }
+    cta:{ title:"Instagramでも最新情報を発信中", body:"シーズン中の様子や過去のイベントの記録は、公式Instagramでもご覧いただけます。", cta1:"Instagramを見る", cta2:"2027年イベントについて" }
   },
 
   access: {
     eyebrow:"ACCESS", title:"知床ウトロへのアクセス", lead:"開催地は北海道最東端、知床半島の玄関口・ウトロ。飛行機・鉄道・車でお越しいただけます。",
     how:{ eyebrow:"HOW TO GET THERE", title:"行き方" },
-    air:{ title:"飛行機でお越しの方", body:"最寄りは女満別空港。東京（羽田）・大阪・札幌などから直行便があります。空港からウトロまでは路線バスまたはレンタカーで約2〜2.5時間です。" },
+    air:{ title:"飛行機でお越しの方", body:"最寄りは女満別空港。東京（羽田）・大阪・札幌などから直行便があります。空港からウトロまでは路線バスまたはレンタカーで約2〜2.5時間です。ウトロ市内には公共交通機関がないため、レンタカーでのお越しをおすすめします。" },
     train:{ title:"鉄道でお越しの方", body:"JR網走駅または知床斜里駅からウトロ温泉バスターミナルまで路線バスで約1〜1.5時間です。冬季は本数が限られるため、事前に時刻表のご確認をおすすめします。" },
+    busCta:"路線バス時刻表（PDF）を見る →",
     car:{ title:"車でお越しの方", body:"レンタカーでお越しの場合は、冬季道路走行に対応したスタッドレスタイヤの車両を必ずご利用ください。積雪・路面凍結・地吹雪など悪天候になることがあるため、時間に余裕を持った移動をおすすめします。" },
-    stay:{ title:"宿泊について", body:"ウトロ温泉には旅館・ホテルが複数あります。イベント期間は近隣の宿が混み合うことがあるため、お早めのご予約をおすすめします。おすすめの宿泊施設についてはお問い合わせ時にご案内いたします。" },
+    rental:{ eyebrow:"RENTAL CAR", title:"空港周辺のレンタカー店舗", note:"女満別空港到着ロビー周辺または送迎車で利用できる主なレンタカー店舗です。",
+      c1:{ name:"トヨタレンタカー 女満別空港店", addr:"北海道網走郡大空町女満別中央201-7", note:"空港到着ロビー内に案内カウンターあり。徒歩3分または無料送迎あり。" },
+      c2:{ name:"オリックスレンタカー 女満別空港店", addr:"北海道網走郡大空町女満別中央260-9", note:"空港カウンターにて受付後、無料送迎車で約1〜2分。" },
+      c3:{ name:"タイムズカー 女満別空港前店", addr:"北海道網走郡大空町女満別中央201-7", note:"空港正面より徒歩5分、または無料送迎で約5〜10分。" },
+      c4:{ name:"ニッポンレンタカー 女満別空港店", addr:"北海道網走郡大空町女満別中央201-7", note:"空港到着ロビー内に案内カウンターあり。徒歩3分または無料送迎あり。" },
+      c5:{ name:"日産レンタカー 女満別空港店", addr:"北海道網走郡大空町女満別中央201-7", note:"空港到着ロビー内にカウンターあり。徒歩3分または無料送迎あり。" }
+    },
+    stay:{ title:"宿泊について", body:"ウトロ温泉には旅館・ホテルが複数あります。イベント期間は近隣の宿が混み合うことがあるため、お早めのご予約をおすすめします。以下は1泊1万円以下で宿泊できる選択肢の一例です。" },
+    stayList:{
+      h1:{ name:"温泉民宿 酋長の家", body:"知床唯一のアイヌ文化を感じられる宿で、100%天然温泉が魅力です。ウトロ港やバスターミナルから徒歩数分の立地。", cta:"詳細を見る →" },
+      h2:{ name:"知床温泉民宿たんぽぽ", body:"小規模でアットホームな宿。全室和室で天然温泉の貸切風呂が楽しめ、地元の食材を活かした手作り料理も特徴です。ウトロ温泉バスターミナルから徒歩10分程度。", cta:"詳細を見る →" },
+      h3:{ name:"民宿いしやま", body:"伝統的な雰囲気のシンプルで手頃な宿です。地元の自然を楽しむのに適しています。", cta:"詳細を見る →" },
+      h4:{ name:"お宿 来羅玖", body:"落ち着いた雰囲気で、シンプルに宿泊できる施設です。", cta:"詳細を見る →" }
+    },
     season:{ eyebrow:"SEASON", title:"流氷シーズンについて" },
-    season1:{ title:"接岸時期", body:"知床に流氷が接岸するのは例年1月下旬〜3月上旬頃。もっとも安定して流氷が見られるのは2月です。年による変動が大きいため、開催時期は接岸状況を見ながら判断します。" },
+    season1:{ title:"接岸時期", body:"知床に流氷が接岸するのは例年1月下旬〜3月上旬頃。もっとも安定して流氷が見られるのは2月です。年による変動が大きいため、流氷がない・少ない場合は寒中シュノーケリングやファンダイビングに振り替えて実施します。" },
     season2:{ title:"気候について", body:"この時期の知床は気温マイナス10〜15度、海水温もマイナスになる厳しい寒さです。防寒着（ダウン、防寒ブーツ、手袋、帽子など）は必須です。詳しい持ち物リストはお申し込み後にご案内します。" },
-    cta:{ title:"ご不明な点はお気軽にどうぞ", body:"交通手段や宿泊についてのご相談も承ります。", cta1:"お問い合わせ", cta2:"2027年大会について" }
+    cta:{ title:"ご不明な点はお気軽にどうぞ", body:"交通手段や宿泊についてのご相談も承ります。", cta1:"お問い合わせ", cta2:"2027年イベントについて" }
   },
 
   contact: {
-    eyebrow:"CONTACT", title:"お問い合わせ・エントリー", lead:"2027年大会への参加相談、資格・経験についてのご質問、取材・メディアのお問い合わせなど、お気軽にご連絡ください。",
+    eyebrow:"CONTACT", title:"お問い合わせ・エントリー", lead:"2027年イベントへの参加相談、資格・経験についてのご質問、取材・メディアのお問い合わせなど、お気軽にご連絡ください。",
     success:{ title:"送信しました。", body:"お問い合わせありがとうございます。内容を確認のうえ、担当より折り返しご連絡いたします。" },
-    form:{ name:"お名前", email:"メールアドレス", country:"国・地域", cert:"フリーダイビング資格・団体", type:"お問い合わせ内容", type1:"2027年大会エントリー相談", type2:"参加資格・経験についての質問", type3:"取材・メディアのお問い合わせ", type4:"その他", message:"メッセージ", messageNote:"潜水経験年数、これまでの潜水環境（冷水経験の有無）などもあわせてお書きいただけるとスムーズです。", submit:"送信する", privacy:"ご入力いただいた内容はお問い合わせ対応の目的以外には使用しません。" },
+    form:{ name:"お名前", email:"メールアドレス", country:"国・地域", cert:"フリーダイビング資格・団体", type:"お問い合わせ内容", type1:"2027年イベントエントリー相談", type2:"参加資格・経験についての質問", type3:"取材・メディアのお問い合わせ", type4:"その他", message:"メッセージ", messageNote:"潜水経験年数、これまでの潜水環境（冷水経験の有無）などもあわせてお書きいただけるとスムーズです。", submit:"送信する", privacy:"ご入力いただいた内容はお問い合わせ対応の目的以外には使用しません。" },
     direct:{ title:"直接ご連絡される場合", body:"フォームのご利用が難しい場合は、メールまたはInstagramのDMでもお問い合わせいただけます。" },
     reply:{ title:"返信について", body:"内容を確認のうえ、通常5営業日以内に返信いたします。流氷シーズン中（1〜3月）は現地対応のため、お時間をいただく場合があります。あらかじめご了承ください。" }
   }
@@ -128,7 +150,7 @@ en: {
   },
 
   home: {
-    hero:{ dates:"Feb 19 – Mar 1, 2027", datesLoc:"· Utoro, Shiretoko, Hokkaido, Japan", title:"One breath, beneath the ice.<br>Nowhere else on Earth.", sub:"In Utoro, Shiretoko, where Okhotsk drift ice meets the shore, we freedive into the silent sea beneath the ice — with nothing but a single breath. It's an experience found nowhere else in Japan.", cta1:"About the 2027 event", cta2:"What is drift ice freediving?", scroll:"SCROLL" },
+    hero:{ dates:"Feb 21–28, 2027", datesLoc:"· Utoro, Shiretoko, Hokkaido, Japan", title:"One breath, beneath the ice.<br>Nowhere else on Earth.", sub:"In Utoro, Shiretoko, where Okhotsk drift ice meets the shore, we freedive into the silent sea beneath the ice — with nothing but a single breath. It's an experience found nowhere else in Japan.", cta1:"About the 2027 event", cta2:"What is drift ice freediving?", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"A drift-ice experience unique to Utoro, Shiretoko", body:"Since 2013 we've run the Drift Ice Freediving Cup in Utoro, on Japan's Shiretoko Peninsula. Holes are cut through thick sea ice and divers freedive into sub-zero seawater beneath it. Unlike ice diving on Europe's frozen lakes, Shiretoko offers something found nowhere else in the world: salt water and the rugged, uneven underside of true sea ice. Built on special local permission and more than a decade of operating experience, it has grown into a gathering for freedivers from Japan and abroad." },
     stats:{ since:"Since", years:"years of operation", record:"world record set (2024)", countries:"countries represented" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"Why Shiretoko is the only place of its kind" },
@@ -137,7 +159,7 @@ en: {
     h3:{ title:"The sea where a world record was born", body:"In February 2024, a CMAS- and Guinness-certified ice freediving world record was set beneath the drift ice of Utoro, Shiretoko. Fun-dive participants from Taiwan, Korea and beyond continue to join, making this an increasingly international community." },
     record:{ badge:"WORLD RECORD 2024", title:"Yasuko Ozeki sets a 126m world record beneath the drift ice", body:"On February 22, 2024, freediver Yasuko Ozeki swam 126m in the Dynamic With Fins discipline beneath the drift ice of Utoro, Shiretoko — officially certified by CMAS and recognized as a Guinness World Record. It was achieved under brutally demanding conditions: sub-zero seawater, thick and uneven sea ice, and only a handful of surfacing points.", cta:"Learn more →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"Shiretoko, a UNESCO World Heritage site", body:"The Shiretoko Peninsula, at the easternmost tip of Hokkaido, was inscribed as a UNESCO World Natural Heritage site in 2005. Each winter, drift ice blankets the Sea of Okhotsk, revealing a rich marine ecosystem and creatures found only beneath the ice. Utoro, our home base, is the gateway to this wilderness.", cta:"About Shiretoko & drift ice freediving →" },
-    event:{ eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", body:"We're planning to hold the event again in Utoro, Shiretoko in 2027. Certified freedivers are welcome to join as fun divers. Due to the scale of our safety operation, spots are limited. Full dates and details will be posted here as they're finalized.", tag1:"Mid-Feb – early Mar 2027 (planned)", tag2:"Freediving certification required", tag3:"Limited capacity", cta:"Event details & how to join →" },
+    event:{ eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", body:"We're holding the event again in Utoro, Shiretoko in 2027. Certified freedivers are welcome to join as fun divers. Due to the scale of our safety operation, spots are limited.", tag1:"Feb 21–28, 2027", tag2:"Certification required (AIDA 3+)", tag3:"Up to ~20 people/day", cta:"Event details & how to join →" },
     gallery:{ eyebrow:"GALLERY", title:"The world beneath the ice", cta:"View the full gallery →" },
     cta:{ title:"See you beneath the ice of Shiretoko in 2027.", body:"Whether you're considering joining, have a question about certification and experience, or are reaching out from the press, we'd love to hear from you.", cta1:"Contact & entry", cta2:"Follow us on Instagram" }
   },
@@ -164,16 +186,24 @@ en: {
 
   event: {
     eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", lead:"A fun-dive event beneath the drift ice of Utoro, Shiretoko, open to certified freedivers. Run in small groups, with safety as our top priority.",
-    table:{ dates:"Planned dates", datesVal:"Mid-February – early March 2027 (subject to change depending on drift ice conditions)", place:"Location", placeVal:"Around Utoro Fishing Port, Shari, Hokkaido, Japan", format:"Format", formatVal:"Fun dive (non-competitive). Ask us if you're interested in a personal record attempt slot, depending on experience.", capacity:"Capacity", capacityVal:"Limited, due to the scale of our safety operation. Places are offered on a first-come, screened basis.", fee:"Fee", feeVal:"Still being finalized — please contact us for details.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
-    req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Holds a freediving certification (AIDA / CMAS / SSI, etc.)", tag2:"Has cold-water diving experience", tag3:"In good health", tag4:"Willing to complete a pre-event interview",
-      card1:{ title:"Certification & experience", body:"For safety, we require an official freediving certification and a certain level of diving experience. Any certifying body is fine, and years of experience are flexible, but we'll confirm your background beforehand. Divers with cold-water experience may be given priority." },
-      card2:{ title:"Equipment", body:"You'll wear a wetsuit, or a wetsuit under other clothing (dry suits can be discussed). Please bring your own fins, mask and personal gear. A detailed equipment list will follow once you apply." }
+    table:{ dates:"Dates", datesVal:"February 20, 2027 (ice-hole preparation day) / February 21–28, 2027 (event days). Choose any 2 days to join — consecutive or split across the week, whichever suits you.", place:"Location", placeVal:"Utoro, Shari, Hokkaido, Japan (Sea of Okhotsk). The exact dive point may change within Utoro depending on ice conditions.", format:"Format", formatVal:"Fun dive (non-competitive), supporting both Constant Weight (CWT) and Dynamic (DYN) disciplines. If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving.", capacity:"Capacity", capacityVal:"Up to about 20 people per day. Kept small for safety.", fee:"Fee", feeVal:"2 days: ¥45,000 (insurance included, same price even if you only join 1 day) / each additional day: ¥20,000 / observation only: ¥12,000 per day. If diving itself isn't possible due to ice conditions, we refund ¥10,000 per affected day.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
+    req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Holds a freediving certification (AIDA Level 3 or equivalent)", tag2:"Has cold-water diving experience", tag3:"In good health", tag4:"Willing to complete a pre-event interview",
+      card1:{ title:"Certification & experience", body:"For safety, we require a freediving certification of AIDA Level 3 or equivalent, plus standard freediving skills we can confirm beforehand. Any certifying body is fine. Divers with cold-water experience may be given priority." },
+      card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). We generally don't rent gear, so please bring your own fins, mask and personal equipment. Gloves and fin socks are available to rent." }
     },
-    schedule:{ eyebrow:"SAMPLE SCHEDULE", title:"Sample schedule", note:"The actual schedule depends on drift ice and weather conditions. Confirmed details will be sent directly to applicants." },
-    sch1:{ day:"DAY 1", title:"Arrival & orientation", body:"Meet in Utoro. Gear check, safety briefing and team meeting." },
-    sch2:{ day:"DAY 2-3", title:"Drift ice freediving", body:"Fun-diving at the site, accompanied by the safety team through cut holes in the ice. Warm up in the sauna or by a bonfire between dives." },
-    sch3:{ day:"DAY 4", title:"Buffer day / record attempts", body:"A reserve day for weather or ice conditions. Those interested can discuss a personal record attempt." },
-    sch4:{ day:"DAY 5", title:"Departure", body:"Event ends on site. We're happy to share sightseeing tips for the Shiretoko area if you'd like to extend your stay." },
+    daily:{ eyebrow:"DAILY SCHEDULE", title:"A typical day", note:"Choose any 2 days to join — consecutive, or split with other activities in between.", t1:"10:00", t1Title:"Gathering, hole drilling & briefing", t2:"10:30", t2Title:"Diving begins", t3:"13:30", t3Title:"Finish — free to head off" },
+    activities:{ eyebrow:"ACTIVITIES", title:"Disciplines available", cwt:{ title:"CWT (Constant Weight)", body:"Maximum depth is about 13m. Always dive with a buddy." }, dyn:{ title:"DYN (Dynamic)", body:"Two holes are cut about 20m apart, so you can swim dynamic between them. A rope runs between the holes — dive using your lanyard. Scuba divers monitor safety underwater." } },
+    gear:{ eyebrow:"REQUIRED GEAR", title:"What to bring", note:"Rental gear is generally not available, so please bring your own equipment.",
+      item1:{ title:"Wetsuit", body:"5mm or thicker recommended (water temperature is around 0°C). 1–3mm suits are possible but not ideal for beginners or longer dives." },
+      item2:{ title:"Gloves & fin socks", body:"Essential for protecting your hands and feet. Rentals are available (¥1,000 per day each)." },
+      item3:{ title:"Fins", body:"Any type is fine — just confirm beforehand that they fit over fin socks." },
+      item4:{ title:"Mask & snorkel", body:"Standard equipment is fine." },
+      item5:{ title:"Lanyard", body:"Standard lanyard is fine." }
+    },
+    fee:{ eyebrow:"FEE", title:"Participation fee (insurance included)", plan1:{ label:"2 days", val:"¥45,000" }, plan2:{ label:"Each additional day", val:"¥20,000" }, plan3:{ label:"Observation only (per day)", val:"¥12,000" }, note1:"The fee is the same even if you only join for 1 day.", note2:"If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving. If diving itself isn't possible, we refund ¥10,000 per affected day." },
+    cancel:{ eyebrow:"CANCELLATION POLICY", title:"Cancellation policy", r1:{ label:"90+ days before", val:"100% refund" }, r2:{ label:"45+ days before", val:"50% refund" }, r3:{ label:"After that", val:"No refund" } },
+    safety2:{ eyebrow:"ON-SITE SAFETY", title:"On-site safety rules", body:"Always wear a wetsuit when walking on the drift ice. You may only step onto the ice when accompanied by staff carrying an event flag. Temperatures are below freezing, so please dress warmly." },
+    location:{ eyebrow:"LOCATION", title:"Where we dive", body:"We dive at a point in Utoro, Shari, Hokkaido, facing the Sea of Okhotsk. Maximum depth is about 13m, with two holes supporting both CWT and DYN. Water temperature is around 0°C. The exact point may shift within Utoro depending on ice and other conditions.", mapCta:"View on Google Maps →" },
     notice:{ badge:"PLEASE NOTE", title:"Drift ice is a natural phenomenon", body:"How much drift ice reaches shore varies greatly from year to year, and weather or sea conditions may require us to adjust the schedule or content. In recent years, warming has made drift ice arrival less predictable, so each year's event is planned around the natural conditions we're given. Thank you for your understanding." },
     cta:{ title:"Thinking of joining us?", body:"Reach out with any questions about certification, experience or dates. Registration closes once capacity is reached.", cta1:"Contact & entry", cta2:"See our safety approach" }
   },
@@ -192,12 +222,26 @@ en: {
   access: {
     eyebrow:"ACCESS", title:"Getting to Utoro, Shiretoko", lead:"The event is held in Utoro, the gateway to the Shiretoko Peninsula at Hokkaido's easternmost tip. Reachable by air, rail or car.",
     how:{ eyebrow:"HOW TO GET THERE", title:"How to get there" },
-    air:{ title:"By air", body:"The nearest airport is Memanbetsu, with direct flights from Tokyo (Haneda), Osaka and Sapporo, among others. From the airport, it's about 2 to 2.5 hours to Utoro by bus or rental car." },
+    air:{ title:"By air", body:"The nearest airport is Memanbetsu, with direct flights from Tokyo (Haneda), Osaka and Sapporo, among others. From the airport, it's about 2 to 2.5 hours to Utoro by bus or rental car. There's no public transport within Utoro itself, so we recommend renting a car." },
     train:{ title:"By rail", body:"From JR Abashiri Station or Shiretoko-Shari Station, take a local bus to Utoro Onsen Bus Terminal — about 1 to 1.5 hours. Winter bus schedules are limited, so check timetables in advance." },
+    busCta:"View the local bus timetable (PDF) →",
     car:{ title:"By car", body:"If renting a car, make sure the vehicle is fitted with winter (studless) tires suitable for snow and icy roads. Heavy snow, black ice and blowing snow are all possible, so build extra time into your travel plans." },
-    stay:{ title:"Accommodation", body:"Utoro Onsen has a number of ryokan and hotels. Nearby lodging can fill up quickly during the event period, so we recommend booking early. We're happy to suggest places to stay once you get in touch." },
+    rental:{ eyebrow:"RENTAL CAR", title:"Rental car counters near the airport", note:"Rental car offices reachable from the Memanbetsu Airport arrivals hall, on foot or by free shuttle.",
+      c1:{ name:"Toyota Rent-A-Car, Memanbetsu Airport", addr:"201-7 Memanbetsu-Chuo, Ozora, Abashiri-gun, Hokkaido", note:"Counter inside the arrivals hall. 3-minute walk, or free shuttle available." },
+      c2:{ name:"Orix Rent-A-Car, Memanbetsu Airport", addr:"260-9 Memanbetsu-Chuo, Ozora, Abashiri-gun, Hokkaido", note:"Check in at the airport counter, then a 1–2 minute free shuttle ride." },
+      c3:{ name:"Times Car, Memanbetsu Airport", addr:"201-7 Memanbetsu-Chuo, Ozora, Abashiri-gun, Hokkaido", note:"5-minute walk from the airport front, or about 5–10 minutes by free shuttle." },
+      c4:{ name:"Nippon Rent-A-Car, Memanbetsu Airport", addr:"201-7 Memanbetsu-Chuo, Ozora, Abashiri-gun, Hokkaido", note:"Counter inside the arrivals hall. 3-minute walk, or free shuttle available." },
+      c5:{ name:"Nissan Rent-A-Car, Memanbetsu Airport", addr:"201-7 Memanbetsu-Chuo, Ozora, Abashiri-gun, Hokkaido", note:"Counter inside the arrivals hall. 3-minute walk, or free shuttle available." }
+    },
+    stay:{ title:"Accommodation", body:"Utoro Onsen has a number of ryokan and hotels. Nearby lodging can fill up quickly during the event period, so we recommend booking early. Below are a few options under ¥10,000 per night." },
+    stayList:{
+      h1:{ name:"Onsen Minshuku Shuchonoie", body:"The only inn in Shiretoko where you can feel Ainu culture, with a 100% natural hot spring. A few minutes' walk from Utoro Port and the bus terminal.", cta:"See details →" },
+      h2:{ name:"Shiretoko Onsen Minshuku Tanpopo", body:"A small, homey inn with private natural hot-spring baths and homemade meals using local ingredients. About a 10-minute walk from Utoro Onsen Bus Terminal.", cta:"See details →" },
+      h3:{ name:"Minshuku Ishiyama", body:"A simple, affordable inn with a traditional atmosphere — good for enjoying the local nature.", cta:"See details →" },
+      h4:{ name:"Oyado Kairaku", body:"A calm, simple place to stay.", cta:"See details →" }
+    },
     season:{ eyebrow:"SEASON", title:"About the drift ice season" },
-    season1:{ title:"When drift ice arrives", body:"Drift ice typically reaches Shiretoko from late January through early March, most reliably in February. Because this varies significantly year to year, we decide on event timing based on actual ice conditions." },
+    season1:{ title:"When drift ice arrives", body:"Drift ice typically reaches Shiretoko from late January through early March, most reliably in February. Because this varies significantly year to year, if there's little or no ice on our dates we switch to cold-water snorkeling or open-water fun diving." },
     season2:{ title:"Climate", body:"Air temperatures during this season run -10°C to -15°C, with sub-zero sea temperatures as well. Warm clothing — a down jacket, insulated boots, gloves and a hat — is essential. A detailed packing list will follow once you apply." },
     cta:{ title:"Have a question?", body:"We're happy to help with questions about transport or accommodation too.", cta1:"Contact us", cta2:"About the 2027 event" }
   },
@@ -232,7 +276,7 @@ zh: {
   },
 
   home: {
-    hero:{ dates:"2027年2月中旬〜3月上旬", datesLoc:"・北海道知床宇登呂", title:"在流冰之下，<br>體驗全世界僅此一處的一口氣。", sub:"鄂霍次克海的流冰漂抵知床宇登呂沿岸。潛入冰下寂靜無聲的海中，僅憑一口氣——這是日本獨一無二的體驗。", cta1:"了解2027年活動", cta2:"什麼是流冰自由潛水", scroll:"SCROLL" },
+    hero:{ dates:"2027年2月21日〜28日", datesLoc:"・北海道知床宇登呂", title:"在流冰之下，<br>體驗全世界僅此一處的一口氣。", sub:"鄂霍次克海的流冰漂抵知床宇登呂沿岸。潛入冰下寂靜無聲的海中，僅憑一口氣——這是日本獨一無二的體驗。", cta1:"了解2027年活動", cta2:"什麼是流冰自由潛水", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"僅限知床宇登呂的特別流冰體驗", body:"我們自2013年起，於北海道知床宇登呂舉辦「流冰自由潛水盃」。在厚重的流冰上鑿洞，徒手潛入零下海水之中——與歐洲在結凍湖泊進行的冰潛不同，知床可以在含鹽的海水，以及凹凸起伏、厚實不平的真正海冰之下潛水，這是世界少見的環境。憑藉當地特別許可與超過11年的營運經驗，這項活動已成長為聚集國內外自由潛水者的盛會。" },
     stats:{ since:"活動起始", years:"年營運實績", record:"世界紀錄達成（2024）", countries:"參加國家・地區" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"知床為何是「世界僅此一處」" },
@@ -241,7 +285,7 @@ zh: {
     h3:{ title:"誕生世界紀錄的海域", body:"2024年2月，在知床宇登呂的流冰下創下經CMAS與金氏世界紀錄認證的冰下自由潛水世界紀錄。來自台灣、韓國等海外的體驗潛水參加者也持續增加，發展成國際色彩豐富的社群。" },
     record:{ badge:"世界紀錄 2024", title:"尾關靖子選手於流冰下創下126公尺世界紀錄", body:"2024年2月22日，自由潛水選手尾關靖子於知床宇登呂的流冰下，以雙蹼動態閉氣項目游完126公尺，經CMAS認證並獲金氏世界紀錄認證。這是在零下海水、厚實不平的流冰、以及極其有限的浮出點等嚴苛條件下達成的紀錄。", cta:"了解詳情 →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"世界自然遺產・知床這個地方", body:"知床半島於2005年登錄為世界自然遺產，是北海道最東端保留原始自然風貌的地區。每逢冬季，鄂霍次克海被流冰覆蓋，孕育出豐富的海洋生態系統，以及唯有在流冰下才能見到的生物世界。我們的活動據點宇登呂，正是這片自然的入口。", cta:"了解知床與流冰自由潛水 →" },
-    event:{ eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", body:"2027年預計再度於知床宇登呂舉辦。活動以持有自由潛水證照者為對象，採體驗潛水形式進行。基於安全營運考量，接受人數有限。詳細日程將於確定後隨時更新。", tag1:"2027年2月中旬〜3月上旬（預定）", tag2:"需自由潛水證照", tag3:"名額限定", cta:"活動詳情與參加方式 →" },
+    event:{ eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", body:"2027年將再度於知床宇登呂舉辦。活動以持有自由潛水證照者為對象，採體驗潛水形式進行。基於安全營運考量，接受人數有限。", tag1:"2027年2月21日〜28日", tag2:"需自由潛水證照（AIDA3以上）", tag3:"每日最多約20人", cta:"活動詳情與參加方式 →" },
     gallery:{ eyebrow:"藝廊", title:"流冰下的世界", cta:"查看完整藝廊 →" },
     cta:{ title:"2027年，在知床的流冰下相見。", body:"無論是參加洽詢、資格與經驗相關問題，或是採訪與媒體聯繫，歡迎隨時與我們聯絡。", cta1:"聯絡我們・報名", cta2:"追蹤Instagram" }
   },
@@ -268,16 +312,24 @@ zh: {
 
   event: {
     eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", lead:"在知床宇登呂的流冰下進行的體驗潛水活動，以持有自由潛水證照者為對象，採小人數、安全優先的方式舉辦。",
-    table:{ dates:"預定舉辦日期", datesVal:"2027年2月中旬〜3月上旬（可能依流冰接岸狀況調整）", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂漁港周邊", format:"形式", formatVal:"體驗潛水（不競賽紀錄）。若有意挑戰個人紀錄，歡迎依經驗程度另行洽詢。", capacity:"名額", capacityVal:"基於安全營運考量，採小人數制，依報名先後及審核方式決定。", fee:"參加費用", feeVal:"目前調整中，詳情請洽詢。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
-    req:{ eyebrow:"參加條件", title:"參加資格", tag1:"持有自由潛水證照（AIDA／CMAS／SSI等）", tag2:"具備冷水域潛水經驗", tag3:"身體狀況良好", tag4:"願意配合事前訪談",
-      card1:{ title:"關於資格與經驗", body:"基於安全考量，參加者須具備正式的自由潛水證照及一定的潛水經驗。不限發證機構或年資，但我們會事前確認您的經歷。具備冷水或寒冷地區潛水經驗者可能會優先受理。" },
-      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣，或於衣物內加穿濕式潛水衣（乾式潛水衣參加方式可另行洽詢）。蛙鏡、蛙鞋等個人裝備請自行攜帶，詳細裝備清單將於報名後另行通知。" }
+    table:{ dates:"舉辦日期", datesVal:"2027年2月20日（鑿冰準備日）／2月21日〜28日（活動舉行）。可自由選擇其中2天參加（連續或分開日期皆可）。", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂（鄂霍次克海）。實際潛點可能依流冰狀況於宇登呂範圍內調整。", format:"形式", formatVal:"體驗潛水（不競賽紀錄），支援CWT（定重）與DYN（動態）兩種項目。若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。", capacity:"名額", capacityVal:"每日最多約20人。基於安全營運考量，採小人數制。", fee:"參加費用", feeVal:"2天：45,000日圓（含保險費，僅參加1天費用相同）／每加1天：20,000日圓／僅參觀：12,000日圓（1天）。若因流冰狀況無法下水，將退還每日10,000日圓。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
+    req:{ eyebrow:"參加條件", title:"參加資格", tag1:"持有自由潛水證照（AIDA3或同等以上）", tag2:"具備冷水域潛水經驗", tag3:"身體狀況良好", tag4:"願意配合事前訪談",
+      card1:{ title:"關於資格與經驗", body:"基於安全考量，參加者須具備AIDA3或同等以上的自由潛水證照，並可確認具備一般潛水技術。不限發證機構，但我們會事前確認您的經歷。具備冷水或寒冷地區潛水經驗者可能會優先受理。" },
+      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。基本上不提供裝備租借，蛙鏡、蛙鞋等個人裝備請自行攜帶。僅手套與蛙鞋襪提供租借。" }
     },
-    schedule:{ eyebrow:"行程範例", title:"行程安排（範例）", note:"實際行程將依流冰狀況與天候調整，確定資訊將另行通知已報名者。" },
-    sch1:{ day:"第1天", title:"現場集合・行前說明", body:"於宇登呂現場集合，進行裝備檢查、安全說明及團隊會議。" },
-    sch2:{ day:"第2〜3天", title:"流冰自由潛水", body:"於鑿有洞口的流冰現場，在安全團隊陪同下進行體驗潛水。潛水空檔可於三溫暖或營火旁取暖休息。" },
-    sch3:{ day:"第4天", title:"備用日・紀錄挑戰", body:"依天候及流冰狀況設置的備用日。有意願者可另行洽詢個人紀錄挑戰事宜。" },
-    sch4:{ day:"第5天", title:"解散", body:"於現場解散。如有需要，亦可提供知床觀光相關資訊。" },
+    daily:{ eyebrow:"每日行程", title:"當天流程", note:"請自由選擇其中2天參加，連續日期或中間穿插其他行程皆可。", t1:"10:00", t1Title:"集合・鑿冰作業・行前說明", t2:"10:30", t2Title:"開始下水", t3:"13:30", t3Title:"結束・自由解散" },
+    activities:{ eyebrow:"可進行項目", title:"可體驗的潛水項目", cwt:{ title:"CWT（定重）", body:"最大深度約13公尺。基於安全考量，請務必與潛伴一同下水。" }, dyn:{ title:"DYN（動態）", body:"於相距約20公尺的兩個洞口間進行動態潛水。洞口間設有繩索，請使用潛水繩夾潛水，水中並有水肺潛水員負責安全監控。" } },
+    gear:{ eyebrow:"必要裝備", title:"請自行攜帶的裝備", note:"基本上不提供裝備租借，請自行攜帶您的潛水裝備。",
+      item1:{ title:"濕式潛水衣", body:"建議厚度5mm以上（水溫約0度）。1〜3mm亦可下水，但保暖性較差，不建議初學者或長時間潛水使用。" },
+      item2:{ title:"手套／蛙鞋襪", body:"為保護手腳，屬必要裝備。提供租借（手套1,000日圓、蛙鞋襪1,000日圓，各為1天費用）。" },
+      item3:{ title:"蛙鞋", body:"款式不拘，建議事前確認搭配蛙鞋襪穿著是否合適。" },
+      item4:{ title:"面鏡・呼吸管", body:"一般款式即可。" },
+      item5:{ title:"潛水繩夾", body:"一般款式即可。" }
+    },
+    fee:{ eyebrow:"參加費用", title:"參加費用（含保險費）", plan1:{ label:"2天", val:"45,000日圓" }, plan2:{ label:"每加1天", val:"20,000日圓" }, plan3:{ label:"僅參觀（1天）", val:"12,000日圓" }, note1:"僅參加1天，費用亦與2天相同。", note2:"若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。若完全無法下水，將退還每日10,000日圓。" },
+    cancel:{ eyebrow:"取消政策", title:"取消政策", r1:{ label:"90天前", val:"退還100%" }, r2:{ label:"45天前", val:"退還50%" }, r3:{ label:"之後", val:"不予退款" } },
+    safety2:{ eyebrow:"現場安全管理", title:"現場安全注意事項", body:"於流冰上行走時請務必穿著濕式潛水衣。除有攜帶活動旗幟的工作人員陪同外，不得踏上流冰。氣溫將降至零下，請務必做好保暖措施。" },
+    location:{ eyebrow:"舉辦地點", title:"舉辦地點", body:"於北海道斜里郡斜里町宇登呂、面向鄂霍次克海的潛點舉行。最大深度約13公尺，透過2個洞口支援CWT與DYN兩種項目，水溫約0度。實際潛點可能依流冰等狀況於宇登呂範圍內調整。", mapCta:"於Google地圖查看 →" },
     notice:{ badge:"請注意", title:"流冰是自然現象", body:"流冰接岸狀況每年差異甚大，可能因天候或海況調整活動內容與日程。近年受暖化影響，流冰接岸有時也不穩定，活動將依當年的自然條件靈活調整，敬請理解。" },
     cta:{ title:"考慮參加的您", body:"關於資格經驗確認或日程洽詢等，歡迎隨時與我們聯絡。名額額滿後將截止受理。", cta1:"聯絡我們・報名", cta2:"了解安全體制" }
   },
@@ -290,18 +342,32 @@ zh: {
     },
     photo:{ eyebrow:"照片藝廊", title:"照片藝廊", lead:"點擊照片可放大顯示。" },
     video:{ eyebrow:"影片", title:"影片", cap1:"在流冰下游動的自由潛水者", cap2:"潛水空檔於三溫暖取暖的參加者" },
-    cta:{ title:"Instagram同步更新最新消息", body:"活動期間的實況與過往大會紀錄，都可在官方Instagram上瀏覽。", cta1:"前往Instagram", cta2:"了解2027年活動" }
+    cta:{ title:"Instagram同步更新最新消息", body:"活動期間的實況與過往活動的紀錄，都可在官方Instagram上瀏覽。", cta1:"前往Instagram", cta2:"了解2027年活動" }
   },
 
   access: {
     eyebrow:"交通方式", title:"前往知床宇登呂的交通方式", lead:"活動地點位於北海道最東端、知床半島的入口宇登呂。可搭乘飛機、鐵路或自行開車前往。",
     how:{ eyebrow:"交通方式", title:"交通方式" },
-    air:{ title:"搭乘飛機前往", body:"最近的機場為女滿別機場，由東京（羽田）、大阪、札幌等地皆有直飛航班。從機場搭乘路線巴士或租車前往宇登呂約需2〜2.5小時。" },
+    air:{ title:"搭乘飛機前往", body:"最近的機場為女滿別機場，由東京（羽田）、大阪、札幌等地皆有直飛航班。從機場搭乘路線巴士或租車前往宇登呂約需2〜2.5小時。由於宇登呂當地沒有大眾交通工具，建議租車前往。" },
     train:{ title:"搭乘鐵路前往", body:"由JR網走站或知床斜里站搭乘路線巴士至宇登呂溫泉巴士總站約需1〜1.5小時。冬季班次有限，建議事前確認時刻表。" },
+    busCta:"查看路線巴士時刻表（PDF）→",
     car:{ title:"自行開車前往", body:"若租車前來，請務必使用配備冬季雪胎（無釘胎）的車輛。積雪、路面結冰、地吹雪等惡劣天候皆可能發生，建議預留充裕的移動時間。" },
-    stay:{ title:"關於住宿", body:"宇登呂溫泉區有多間旅館與飯店。活動期間附近住宿容易客滿，建議提早預訂。您可於洽詢時向我們索取推薦住宿資訊。" },
+    rental:{ eyebrow:"租車服務", title:"機場周邊租車店", note:"以下為可於女滿別機場入境大廳步行或免費接駁前往的主要租車店。",
+      c1:{ name:"Toyota租車 女滿別機場店", addr:"北海道網走郡大空町女滿別中央201-7", note:"入境大廳內設有服務櫃台，步行3分鐘或提供免費接駁。" },
+      c2:{ name:"Orix租車 女滿別機場店", addr:"北海道網走郡大空町女滿別中央260-9", note:"於機場櫃台辦理手續後，搭乘免費接駁車約1〜2分鐘。" },
+      c3:{ name:"Times Car 女滿別機場前店", addr:"北海道網走郡大空町女滿別中央201-7", note:"自機場正面步行5分鐘，或搭乘免費接駁車約5〜10分鐘。" },
+      c4:{ name:"Nippon租車 女滿別機場店", addr:"北海道網走郡大空町女滿別中央201-7", note:"入境大廳內設有服務櫃台，步行3分鐘或提供免費接駁。" },
+      c5:{ name:"Nissan租車 女滿別機場店", addr:"北海道網走郡大空町女滿別中央201-7", note:"入境大廳內設有櫃台，步行3分鐘或提供免費接駁。" }
+    },
+    stay:{ title:"關於住宿", body:"宇登呂溫泉區有多間旅館與飯店。活動期間附近住宿容易客滿，建議提早預訂。以下為每晚1萬日圓以下的住宿選項範例。" },
+    stayList:{
+      h1:{ name:"溫泉民宿 酋長之家", body:"知床唯一能感受愛努文化的民宿，100%天然溫泉為其魅力。距離宇登呂港與巴士總站步行僅數分鐘。", cta:"查看詳情 →" },
+      h2:{ name:"知床溫泉民宿蒲公英", body:"小巧溫馨的民宿，全室和式並設有天然溫泉包租浴池，也提供以在地食材製作的手工料理。距宇登呂溫泉巴士總站約步行10分鐘。", cta:"查看詳情 →" },
+      h3:{ name:"民宿石山", body:"傳統氛圍、簡樸實惠的住宿，適合享受在地自然風光。", cta:"查看詳情 →" },
+      h4:{ name:"御宿 來羅玖", body:"氛圍沉穩、簡單舒適的住宿設施。", cta:"查看詳情 →" }
+    },
     season:{ eyebrow:"季節資訊", title:"關於流冰季節" },
-    season1:{ title:"接岸時期", body:"知床的流冰通常於1月下旬〜3月上旬接岸，2月是最穩定可見流冰的時期。由於每年差異甚大，我們將依實際接岸狀況決定活動時期。" },
+    season1:{ title:"接岸時期", body:"知床的流冰通常於1月下旬〜3月上旬接岸，2月是最穩定可見流冰的時期。由於每年差異甚大，若活動當日流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。" },
     season2:{ title:"關於氣候", body:"此時期知床氣溫約為零下10〜15度，海水溫度亦在零下，屬於嚴寒氣候。羽絨外套、防寒靴、手套、帽子等禦寒裝備為必備品，詳細攜帶物品清單將於報名後提供。" },
     cta:{ title:"有任何疑問歡迎洽詢", body:"交通方式或住宿相關問題也歡迎與我們討論。", cta1:"聯絡我們", cta2:"了解2027年活動" }
   },
@@ -318,14 +384,14 @@ zh: {
 /* =========================== 한국어 =========================== */
 ko: {
   meta: {
-    home:  { title:"시레토코 유빙 프리다이빙 | Ice Freediving Shiretoko", desc:"홋카이도 시레토코 우토로에서 매년 열리는, 유빙 아래를 잠수하는 일본 유일의 프리다이빙 체험. 2027년 대회 참가 접수 중." },
+    home:  { title:"시레토코 유빙 프리다이빙 | Ice Freediving Shiretoko", desc:"홋카이도 시레토코 우토로에서 매년 열리는, 유빙 아래를 잠수하는 일본 유일의 프리다이빙 체험. 2027년 이벤트 참가 접수 중." },
     about: { title:"시레토코와 유빙 프리다이빙 소개 | Ice Freediving Shiretoko", desc:"시레토코란 어떤 곳인지, 유빙 프리다이빙이란 무엇인지, 11년의 역사와 안전 체계를 소개합니다." },
-    event: { title:"2027년 대회 | Ice Freediving Shiretoko", desc:"유빙 프리다이빙 컵 2027 개최 개요, 참가 자격, 일정, 신청 방법." },
+    event: { title:"2027년 이벤트 | Ice Freediving Shiretoko", desc:"유빙 프리다이빙 컵 2027 개최 개요, 참가 자격, 일정, 신청 방법." },
     gallery: { title:"실적・갤러리 | Ice Freediving Shiretoko", desc:"2024년 세계 기록 수립, 미디어 보도, 유빙 아래에서 촬영한 사진과 영상 갤러리." },
     access: { title:"오시는 길 | Ice Freediving Shiretoko", desc:"시레토코 우토로로 오시는 방법과 유빙 시즌 정보." },
-    contact: { title:"문의・참가 신청 | Ice Freediving Shiretoko", desc:"2027년 대회 참가 상담이나 취재・미디어 문의는 이쪽으로 연락해 주세요." }
+    contact: { title:"문의・참가 신청 | Ice Freediving Shiretoko", desc:"2027년 이벤트 참가 상담이나 취재・미디어 문의는 이쪽으로 연락해 주세요." }
   },
-  nav: { home:"홈", about:"시레토코와 유빙 프리다이빙", event:"2027년 대회", gallery:"실적・갤러리", access:"오시는 길", contact:"문의하기", cta:"참가 신청" },
+  nav: { home:"홈", about:"시레토코와 유빙 프리다이빙", event:"2027년 이벤트", gallery:"실적・갤러리", access:"오시는 길", contact:"문의하기", cta:"참가 신청" },
   brand: { tagline:"유빙 프리다이빙 컵" },
   footer: {
     about:"홋카이도 시레토코 우토로에서 2013년부터 이어온, 유빙 아래를 잠수하는 프리다이빙 이벤트 '유빙 프리다이빙 컵'의 공식 사이트입니다.",
@@ -336,7 +402,7 @@ ko: {
   },
 
   home: {
-    hero:{ dates:"2027년 2월 중순 ~ 3월 상순", datesLoc:"・홋카이도 시레토코 우토로", title:"유빙 아래에서,<br>세상에 하나뿐인 한 호흡을.", sub:"오호츠크해의 유빙이 밀려오는 시레토코 우토로. 얼음 아래 펼쳐진 고요한 바다로, 오직 숨 하나에 의지해 잠수합니다 — 일본에서 이곳에서만 가능한 특별한 체험입니다.", cta1:"2027년 대회 안내", cta2:"유빙 프리다이빙이란", scroll:"SCROLL" },
+    hero:{ dates:"2027년 2월 21일~28일", datesLoc:"・홋카이도 시레토코 우토로", title:"유빙 아래에서,<br>세상에 하나뿐인 한 호흡을.", sub:"오호츠크해의 유빙이 밀려오는 시레토코 우토로. 얼음 아래 펼쳐진 고요한 바다로, 오직 숨 하나에 의지해 잠수합니다 — 일본에서 이곳에서만 가능한 특별한 체험입니다.", cta1:"2027년 이벤트 안내", cta2:"유빙 프리다이빙이란", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"시레토코 우토로에서만 만날 수 있는 특별한 유빙 체험", body:"저희는 2013년부터 홋카이도 시레토코 우토로에서 '유빙 프리다이빙 컵'을 개최해 왔습니다. 두꺼운 유빙에 구멍을 뚫고 영하의 바다로 맨몸으로 잠수하는 활동으로, 유럽의 얼어붙은 호수에서 이루어지는 아이스 다이빙과 달리 시레토코에서는 염분을 머금은 바닷물과 울퉁불퉁하게 기복이 있는 진짜 유빙 아래라는, 세계적으로도 유례를 찾기 힘든 환경에서 잠수할 수 있습니다. 현지의 특별한 허가와 11년 이상의 운영 실적을 바탕으로, 국내외 프리다이버들이 모이는 행사로 성장해 왔습니다." },
     stats:{ since:"활동 시작", years:"년간 운영 실적", record:"세계 기록 수립(2024)", countries:"참가 국가・지역" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"시레토코가 '세계에서 이곳뿐'인 이유" },
@@ -345,7 +411,7 @@ ko: {
     h3:{ title:"세계 기록이 탄생한 바다", body:"2024년 2월, 시레토코 우토로의 유빙 아래에서 CMAS・기네스 세계 기록으로 공인된 아이스 프리다이빙 세계 기록이 수립되었습니다. 대만, 한국 등 해외에서 온 펀 다이브 참가자도 늘어나며 국제적인 색채가 풍부한 커뮤니티로 성장하고 있습니다." },
     record:{ badge:"세계 기록 2024", title:"오제키 야스코 선수, 유빙 아래 126m 세계 기록 달성", body:"2024년 2월 22일, 시레토코 우토로의 유빙 아래에서 프리다이버 오제키 야스코 선수가 다이나믹 위드 핀 종목으로 126m를 완영하며 CMAS 공인・기네스 세계 기록으로 인정받았습니다. 영하의 바닷물, 두껍고 불규칙한 유빙, 제한된 부상 지점이라는 가혹한 조건 속에서 이루어 낸 기록입니다.", cta:"자세히 보기 →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"세계자연유산・시레토코라는 곳", body:"시레토코 반도는 2005년 세계자연유산으로 등재된, 원시 자연이 남아 있는 홋카이도 최동단의 땅입니다. 겨울이 되면 오호츠크해가 유빙으로 뒤덮이며, 풍요로운 해양 생태계와 유빙 아래에서만 만날 수 있는 생물들의 세계가 펼쳐집니다. 저희 활동 거점인 우토로는 그 관문에 해당합니다.", cta:"시레토코와 유빙 프리다이빙 알아보기 →" },
-    event:{ eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", body:"2027년에도 시레토코 우토로에서 개최할 예정입니다. 프리다이빙 자격을 보유한 분을 대상으로 펀 다이브 형식으로 참가하실 수 있습니다. 안전 운영을 위해 수용 인원에 제한이 있습니다. 일정과 세부 사항은 준비되는 대로 업데이트하겠습니다.", tag1:"2027년 2월 중순~3월 상순(예정)", tag2:"프리다이빙 자격 필수", tag3:"정원제", cta:"대회 상세・참가 안내 →" },
+    event:{ eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", body:"2027년에도 시레토코 우토로에서 개최합니다. 프리다이빙 자격을 보유한 분을 대상으로 펀 다이브 형식으로 참가하실 수 있습니다. 안전 운영을 위해 수용 인원에 제한이 있습니다.", tag1:"2027년 2월 21일~28일", tag2:"프리다이빙 자격 필수(AIDA3 이상)", tag3:"1일 최대 약 20명", cta:"이벤트 상세・참가 안내 →" },
     gallery:{ eyebrow:"GALLERY", title:"유빙 아래의 세계", cta:"갤러리 전체 보기 →" },
     cta:{ title:"2027년, 시레토코의 유빙 아래에서 만나요.", body:"참가 상담, 자격・경험에 대한 문의, 취재・미디어 관련 문의 등 편하게 연락해 주세요.", cta1:"문의・참가 신청", cta2:"인스타그램 팔로우" }
   },
@@ -367,21 +433,29 @@ ko: {
     safety4:{ title:"경험・자격 확인", body:"참가에는 프리다이빙 자격(AIDA・CMAS 등)과 냉수역 경험이 요구됩니다. 사전에 경험과 컨디션을 확인한 후 받아들이고 있습니다." },
     safety5:{ title:"명확한 입・출수 경로", body:"유빙에 여러 개의 구멍을 뚫고 경기 라인, 시야 확보용 라인, 안전 라인을 설치합니다. 로프를 따라 안전하게 입・출수합니다." },
     safety6:{ title:"세계 기록 도전 실적", body:"CMAS 국제 기준에 따른 세계 기록 도전을 실시한 실적이 있으며, 국제 공인 심판과의 협력 체계도 구축하고 있습니다." },
-    cta:{ title:"2027년 대회에 대해 자세히 보기", body:"참가 자격, 일정, 신청 방법을 안내해 드립니다.", cta1:"2027년 대회 상세 보기", cta2:"문의하기" }
+    cta:{ title:"2027년 이벤트에 대해 자세히 보기", body:"참가 자격, 일정, 신청 방법을 안내해 드립니다.", cta1:"2027년 이벤트 상세 보기", cta2:"문의하기" }
   },
 
   event: {
     eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", lead:"시레토코 우토로의 유빙 아래를 잠수하는 펀 다이브 행사입니다. 프리다이빙 자격을 보유한 분을 대상으로 소규모・안전 중시로 개최합니다.",
-    table:{ dates:"개최 예정일", datesVal:"2027년 2월 중순~3월 상순(유빙 접안 상황에 따라 조정될 수 있습니다)", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로 어항 주변", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). 경험과 희망에 따라 개인 도전 참가에 대해서도 상담 가능합니다.", capacity:"정원", capacityVal:"안전 운영을 위해 소규모 정원제로 운영하며, 선착순・심사를 통해 안내해 드립니다.", fee:"참가비", feeVal:"현재 조정 중입니다. 자세한 내용은 문의해 주세요.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
-    req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA / CMAS / SSI 등) 보유자", tag2:"냉수역 잠수 경험", tag3:"건강 상태에 문제가 없는 분", tag4:"사전 인터뷰 협조 가능자",
-      card1:{ title:"자격・경험에 대하여", body:"안전을 위해 프리다이빙 공식 자격과 일정 수준의 잠수 경험을 필수로 하고 있습니다. 자격 취득 단체나 경력 연수는 묻지 않지만, 사전에 경력을 확인해 드립니다. 냉수・한랭지 경험이 있는 분을 우선적으로 안내해 드리는 경우가 있습니다." },
-      card2:{ title:"장비에 대하여", body:"웨트슈트 또는 옷 안에 웨트슈트를 착용해 주십니다(드라이슈트 참가에 대해서도 상담 가능). 핀・마스크 등 개인 장비는 지참해 주십시오. 상세한 장비 목록은 신청 후 안내해 드립니다." }
+    table:{ dates:"개최 일정", datesVal:"2027년 2월 20일(얼음구멍 작업・준비일) / 2월 21일~28일(이벤트 진행). 참가일은 이 중 2일을 자유롭게 선택하실 수 있습니다(연속 일정・분산 일정 모두 가능).", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로(오호츠크해). 유빙 상황에 따라 우토로 내에서 포인트가 변경될 수 있습니다.", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). CWT(컨스턴트 웨이트)・DYN(다이나믹) 2종목 진행 가능. 유빙이 없거나 적을 경우 한중 스노클링 또는 편 다이빙으로 대체합니다.", capacity:"정원", capacityVal:"1일 최대 약 20명. 안전 운영을 위해 소규모로 안내해 드립니다.", fee:"참가비", feeVal:"2일: 45,000엔(보험료 포함, 1일만 참가하셔도 동일 요금) / 추가 1일당: 20,000엔 / 견학만: 12,000엔(1일). 유빙 상황으로 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
+    req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA3 상당 이상) 보유자", tag2:"냉수역 잠수 경험", tag3:"건강 상태에 문제가 없는 분", tag4:"사전 인터뷰 협조 가능자",
+      card1:{ title:"자격・경험에 대하여", body:"안전을 위해 AIDA3 상당 이상의 프리다이빙 자격과, 일반적인 잠수 기술 확인을 조건으로 하고 있습니다. 자격 취득 단체는 묻지 않지만, 사전에 경력을 확인해 드립니다. 냉수・한랭지 경험이 있는 분을 우선적으로 안내해 드리는 경우가 있습니다." },
+      card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 기본적으로 장비 대여는 진행하지 않으므로 핀・마스크 등 개인 장비는 지참해 주십시오. 장갑・핀 삭스만 대여 가능합니다." }
     },
-    schedule:{ eyebrow:"SAMPLE SCHEDULE", title:"일정(예시)", note:"실제 일정은 유빙 상황과 날씨에 따라 조정됩니다. 확정 정보는 신청하신 분께 별도로 안내해 드립니다." },
-    sch1:{ day:"DAY 1", title:"현지 집합・오리엔테이션", body:"우토로 현지 집합. 장비 점검, 안전 설명, 팀 미팅을 진행합니다." },
-    sch2:{ day:"DAY 2-3", title:"유빙 프리다이빙", body:"유빙에 구멍을 뚫은 현장에서 안전팀의 동행 아래 펀 다이브를 진행합니다. 잠수 사이에는 사우나나 모닥불로 몸을 녹이며 보냅니다." },
-    sch3:{ day:"DAY 4", title:"예비일・기록 도전", body:"날씨・유빙 상황에 따른 예비일입니다. 희망자는 개인 기록 도전에 대해서도 상담하실 수 있습니다." },
-    sch4:{ day:"DAY 5", title:"해산", body:"현지에서 해산합니다. 희망하시는 경우 시레토코 관광 정보도 안내해 드립니다." },
+    daily:{ eyebrow:"DAILY SCHEDULE", title:"하루의 흐름", note:"참가일은 2일을 선택해 주세요. 연속 일정이든, 사이에 다른 일정을 넣는 분산 일정이든 상관없습니다.", t1:"10:00", t1Title:"집합・얼음구멍 작업・브리핑", t2:"10:30", t2Title:"다이빙 시작", t3:"13:30", t3Title:"종료・자유 해산" },
+    activities:{ eyebrow:"ACTIVITIES", title:"진행 가능한 종목", cwt:{ title:"CWT(컨스턴트 웨이트)", body:"최대 수심은 약 13m입니다. 안전을 위해 반드시 버디와 함께 잠수해 주세요." }, dyn:{ title:"DYN(다이나믹)", body:"약 20m 간격으로 뚫은 두 개의 구멍 사이를 이동하는 종목입니다. 구멍 사이에는 로프를 설치하며, 라니야드를 사용해 잠수합니다. 수중에서는 스쿠버 다이버가 안전 관리를 담당합니다." } },
+    gear:{ eyebrow:"REQUIRED GEAR", title:"필요한 장비", note:"기본적으로 장비 대여는 진행하지 않으므로 본인의 장비를 지참해 주세요.",
+      item1:{ title:"웨트슈트", body:"두께 5mm 이상을 권장합니다(수온 0도 전후). 1~3mm로도 잠수는 가능하지만 보온성 면에서 초보자나 장시간 잠수에는 적합하지 않습니다." },
+      item2:{ title:"장갑 / 핀 삭스", body:"손발 보호를 위해 필수입니다. 대여도 가능합니다(장갑 1,000엔・핀 삭스 1,000엔, 각 1일 기준)." },
+      item3:{ title:"핀", body:"종류는 상관없습니다. 핀 삭스를 착용한 채 신을 수 있는지 사전에 확인해 주세요." },
+      item4:{ title:"마스크・스노클", body:"일반적인 것으로 문제없습니다." },
+      item5:{ title:"라니야드", body:"일반적인 것으로 문제없습니다." }
+    },
+    fee:{ eyebrow:"FEE", title:"참가비(보험료 포함)", plan1:{ label:"2일", val:"45,000엔" }, plan2:{ label:"추가 1일당", val:"20,000엔" }, plan3:{ label:"견학만(1일)", val:"12,000엔" }, note1:"1일만 참가하셔도 요금은 2일 요금과 동일합니다.", note2:"유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다. 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다." },
+    cancel:{ eyebrow:"CANCELLATION POLICY", title:"취소 정책", r1:{ label:"90일 전까지", val:"100% 환불" }, r2:{ label:"45일 전까지", val:"50% 환불" }, r3:{ label:"그 이후", val:"환불 불가" } },
+    safety2:{ eyebrow:"ON-SITE SAFETY", title:"현장 안전 관리", body:"유빙 위를 걸을 때는 반드시 웨트슈트를 착용해 주세요. 이벤트 깃발을 든 스태프가 동행할 때 이외에는 유빙 위에 올라갈 수 없습니다. 기온이 영하로 떨어지므로 충분한 방한 대책을 부탁드립니다." },
+    location:{ eyebrow:"LOCATION", title:"개최 장소", body:"홋카이도 샤리군 샤리초 우토로, 오호츠크해에 면한 포인트에서 개최합니다. 최대 수심은 약 13m이며, 두 개의 구멍으로 CWT・DYN 양 종목을 진행합니다. 수온은 0도 전후입니다. 유빙 등의 상황에 따라 포인트는 우토로 내에서 변경될 수 있습니다.", mapCta:"구글 지도에서 보기 →" },
     notice:{ badge:"PLEASE NOTE", title:"유빙은 자연 현상입니다", body:"유빙 접안 상황은 해마다 크게 달라지며, 날씨나 해황에 따라 개최 내용・일정이 변경될 수 있습니다. 최근에는 온난화의 영향으로 유빙 접안이 불안정해지는 경우도 있어, 그 해의 자연 조건과 상의하며 개최하게 됩니다. 미리 양해 부탁드립니다." },
     cta:{ title:"참가를 고민 중이신 분께", body:"자격・경험 확인이나 일정 상담 등 우선 편하게 문의해 주세요. 정원이 차면 접수를 마감합니다.", cta1:"문의・참가 신청", cta2:"안전 체계 보기" }
   },
@@ -394,26 +468,40 @@ ko: {
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"사진 갤러리", lead:"클릭하시면 확대해서 보실 수 있습니다." },
     video:{ eyebrow:"VIDEO", title:"영상", cap1:"유빙 아래를 헤엄치는 프리다이버", cap2:"잠수 사이 사우나에서 몸을 녹이는 참가자들" },
-    cta:{ title:"인스타그램에서도 최신 소식을 전해 드립니다", body:"시즌 중 모습이나 지난 대회의 기록은 공식 인스타그램에서도 확인하실 수 있습니다.", cta1:"인스타그램 보기", cta2:"2027년 대회 안내" }
+    cta:{ title:"인스타그램에서도 최신 소식을 전해 드립니다", body:"시즌 중 모습이나 지난 이벤트의 기록은 공식 인스타그램에서도 확인하실 수 있습니다.", cta1:"인스타그램 보기", cta2:"2027년 이벤트 안내" }
   },
 
   access: {
     eyebrow:"ACCESS", title:"시레토코 우토로 오시는 길", lead:"개최지는 홋카이도 최동단, 시레토코 반도의 관문인 우토로입니다. 비행기・철도・자동차로 오실 수 있습니다.",
     how:{ eyebrow:"HOW TO GET THERE", title:"오시는 방법" },
-    air:{ title:"비행기로 오시는 경우", body:"가장 가까운 공항은 메만베쓰 공항입니다. 도쿄(하네다), 오사카, 삿포로 등에서 직항편이 있습니다. 공항에서 우토로까지는 노선버스 또는 렌터카로 약 2~2.5시간 소요됩니다." },
+    air:{ title:"비행기로 오시는 경우", body:"가장 가까운 공항은 메만베쓰 공항입니다. 도쿄(하네다), 오사카, 삿포로 등에서 직항편이 있습니다. 공항에서 우토로까지는 노선버스 또는 렌터카로 약 2~2.5시간 소요됩니다. 우토로 시내에는 대중교통이 없으므로 렌터카 이용을 권장합니다." },
     train:{ title:"철도로 오시는 경우", body:"JR 아바시리역 또는 시레토코샤리역에서 우토로 온천 버스터미널까지 노선버스로 약 1~1.5시간 소요됩니다. 겨울철에는 운행 편수가 제한적이므로 사전에 시간표를 확인하시기를 권장합니다." },
+    busCta:"노선버스 시간표(PDF) 보기 →",
     car:{ title:"자동차로 오시는 경우", body:"렌터카를 이용하실 경우, 반드시 겨울철 도로 주행에 대응하는 스터드리스 타이어 차량을 이용해 주십시오. 적설, 노면 결빙, 눈보라 등 악천후가 발생할 수 있으므로 여유 있는 이동 계획을 권장합니다." },
-    stay:{ title:"숙박에 대하여", body:"우토로 온천에는 여러 료칸・호텔이 있습니다. 행사 기간에는 인근 숙소가 혼잡할 수 있으므로 조기 예약을 권장합니다. 추천 숙박 시설은 문의 시 안내해 드립니다." },
+    rental:{ eyebrow:"RENTAL CAR", title:"공항 인근 렌터카 매장", note:"메만베쓰 공항 도착 로비에서 도보 또는 무료 셔틀로 이용 가능한 주요 렌터카 매장입니다.",
+      c1:{ name:"토요타 렌터카 메만베쓰 공항점", addr:"홋카이도 아바시리군 오조라초 메만베쓰추오 201-7", note:"공항 도착 로비 내 안내 카운터 있음. 도보 3분 또는 무료 셔틀 이용 가능." },
+      c2:{ name:"오릭스 렌터카 메만베쓰 공항점", addr:"홋카이도 아바시리군 오조라초 메만베쓰추오 260-9", note:"공항 카운터에서 접수 후 무료 셔틀로 약 1~2분." },
+      c3:{ name:"타임즈카 메만베쓰 공항 앞점", addr:"홋카이도 아바시리군 오조라초 메만베쓰추오 201-7", note:"공항 정면에서 도보 5분, 또는 무료 셔틀로 약 5~10분." },
+      c4:{ name:"닛폰 렌터카 메만베쓰 공항점", addr:"홋카이도 아바시리군 오조라초 메만베쓰추오 201-7", note:"공항 도착 로비 내 안내 카운터 있음. 도보 3분 또는 무료 셔틀 이용 가능." },
+      c5:{ name:"닛산 렌터카 메만베쓰 공항점", addr:"홋카이도 아바시리군 오조라초 메만베쓰추오 201-7", note:"공항 도착 로비 내 카운터 있음. 도보 3분 또는 무료 셔틀 이용 가능." }
+    },
+    stay:{ title:"숙박에 대하여", body:"우토로 온천에는 여러 료칸・호텔이 있습니다. 행사 기간에는 인근 숙소가 혼잡할 수 있으므로 조기 예약을 권장합니다. 아래는 1박 1만 엔 이하로 이용 가능한 숙박 시설 예시입니다." },
+    stayList:{
+      h1:{ name:"온천 민숙 슈초노이에", body:"시레토코에서 유일하게 아이누 문화를 느낄 수 있는 숙소로, 100% 천연 온천이 매력입니다. 우토로 항구와 버스터미널에서 도보 몇 분 거리입니다.", cta:"자세히 보기 →" },
+      h2:{ name:"시레토코 온천 민숙 탄포포", body:"소규모의 아늑한 숙소. 전 객실 다다미방이며 천연 온천 전세 욕탕을 즐길 수 있고, 현지 식재료를 활용한 손수 만든 요리도 특징입니다. 우토로 온천 버스터미널에서 도보 약 10분.", cta:"자세히 보기 →" },
+      h3:{ name:"민숙 이시야마", body:"전통적인 분위기의 소박하고 합리적인 가격의 숙소입니다. 현지 자연을 즐기기에 적합합니다.", cta:"자세히 보기 →" },
+      h4:{ name:"오야도 라이라쿠", body:"차분한 분위기의 간소한 숙박 시설입니다.", cta:"자세히 보기 →" }
+    },
     season:{ eyebrow:"SEASON", title:"유빙 시즌에 대하여" },
-    season1:{ title:"접안 시기", body:"시레토코에 유빙이 접안하는 시기는 매년 1월 하순~3월 상순경입니다. 가장 안정적으로 유빙을 볼 수 있는 시기는 2월입니다. 연도별 변동이 크기 때문에 개최 시기는 접안 상황을 보며 판단합니다." },
+    season1:{ title:"접안 시기", body:"시레토코에 유빙이 접안하는 시기는 매년 1월 하순~3월 상순경입니다. 가장 안정적으로 유빙을 볼 수 있는 시기는 2월입니다. 연도별 변동이 크기 때문에, 유빙이 없거나 적은 경우에는 한중 스노클링이나 펀 다이빙으로 대체합니다." },
     season2:{ title:"기후에 대하여", body:"이 시기 시레토코는 기온 영하 10~15도, 해수 온도도 영하가 되는 혹한입니다. 방한복(다운재킷, 방한 부츠, 장갑, 모자 등)은 필수입니다. 자세한 준비물 목록은 신청 후 안내해 드립니다." },
-    cta:{ title:"궁금하신 점은 편하게 문의해 주세요", body:"교통편이나 숙박에 대한 상담도 가능합니다.", cta1:"문의하기", cta2:"2027년 대회 안내" }
+    cta:{ title:"궁금하신 점은 편하게 문의해 주세요", body:"교통편이나 숙박에 대한 상담도 가능합니다.", cta1:"문의하기", cta2:"2027년 이벤트 안내" }
   },
 
   contact: {
-    eyebrow:"CONTACT", title:"문의・참가 신청", lead:"2027년 대회 참가 상담, 자격・경험에 대한 질문, 취재・미디어 문의 등 편하게 연락해 주세요.",
+    eyebrow:"CONTACT", title:"문의・참가 신청", lead:"2027년 이벤트 참가 상담, 자격・경험에 대한 질문, 취재・미디어 문의 등 편하게 연락해 주세요.",
     success:{ title:"전송되었습니다.", body:"문의해 주셔서 감사합니다. 내용을 확인한 후 담당자가 회신해 드리겠습니다." },
-    form:{ name:"성함", email:"이메일 주소", country:"국가・지역", cert:"프리다이빙 자격・단체", type:"문의 내용", type1:"2027년 대회 참가 상담", type2:"참가 자격・경험에 대한 질문", type3:"취재・미디어 문의", type4:"기타", message:"메시지", messageNote:"잠수 경력 연수, 그동안의 잠수 환경(냉수 경험 유무) 등을 함께 적어 주시면 원활하게 진행됩니다.", submit:"보내기", privacy:"입력하신 내용은 문의 대응 목적 외에는 사용하지 않습니다." },
+    form:{ name:"성함", email:"이메일 주소", country:"국가・지역", cert:"프리다이빙 자격・단체", type:"문의 내용", type1:"2027년 이벤트 참가 상담", type2:"참가 자격・경험에 대한 질문", type3:"취재・미디어 문의", type4:"기타", message:"메시지", messageNote:"잠수 경력 연수, 그동안의 잠수 환경(냉수 경험 유무) 등을 함께 적어 주시면 원활하게 진행됩니다.", submit:"보내기", privacy:"입력하신 내용은 문의 대응 목적 외에는 사용하지 않습니다." },
     direct:{ title:"직접 연락을 원하시는 경우", body:"양식 이용이 어려우신 경우, 이메일 또는 인스타그램 DM으로도 문의하실 수 있습니다." },
     reply:{ title:"회신에 대하여", body:"내용 확인 후 통상 영업일 기준 5일 이내에 회신해 드립니다. 유빙 시즌 중(1~3월)에는 현지 대응으로 인해 시간이 걸릴 수 있습니다. 양해 부탁드립니다." }
   }
