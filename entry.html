@@ -149,6 +149,21 @@
 
         <div class="form-row">
           <div class="field">
+            <label data-bi18n="role">グループ参加(該当する場合)</label>
+            <select name="role" id="role-select">
+              <option value="none" data-bi18n="roleNone">該当なし</option>
+              <option value="instructor" data-bi18n="roleInstructor">インストラクター(生徒と参加)</option>
+              <option value="student" data-bi18n="roleStudent">生徒(インストラクターと参加)</option>
+            </select>
+          </div>
+          <div class="field" id="group-name-field" style="visibility:hidden;">
+            <label data-bi18n="groupName">グループ名・インストラクター名</label>
+            <input type="text" name="groupName">
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="field">
             <label data-bi18n="flight">フライト情報(予約済みの場合)</label>
             <input type="text" name="flight">
           </div>
@@ -271,7 +286,9 @@
       country:'国・地域', cert:'フリーダイビング資格', certNote:'(AIDA3相当以上を推奨)',
       coldwater:'冷水・アイスダイビング経験', emergency:'緊急連絡先(氏名・続柄・電話)',
       messenger:'Facebook Messengerリンク or SNS', messengerNote:'(重要な連絡はMessengerグループで行います)',
-      referral:'過去参加者の知人・主催者との関係', flight:'フライト情報(予約済みの場合)',
+      referral:'過去参加者の知人・主催者との関係',
+      role:'グループ参加(該当する場合)', roleNone:'該当なし', roleInstructor:'インストラクター(生徒と参加)', roleStudent:'生徒(インストラクターと参加)', groupName:'グループ名・インストラクター名',
+      flight:'フライト情報(予約済みの場合)',
       transport:'空港からの交通手段', optCar:'レンタカー', optShare:'他の参加者と同乗希望', optUndecided:'未定',
       accommodation:'宿泊先(手配済みの場合)',
       rental:'レンタル装備', rentalNote:'(各2,000円・期間中。現地での変更も可能です)',
@@ -295,7 +312,9 @@
       country:'Country / Region', cert:'Freediving certification', certNote:'(AIDA 3 or equivalent recommended)',
       coldwater:'Cold water / ice diving experience', emergency:'Emergency contact (name, relation, phone)',
       messenger:'Facebook Messenger link or SNS', messengerNote:'(Important updates are shared via a Messenger group)',
-      referral:'Friends who participated before / relationship with organizers', flight:'Flight information (if booked)',
+      referral:'Friends who participated before / relationship with organizers',
+      role:'Group participation (if applicable)', roleNone:'Not applicable', roleInstructor:'Instructor (joining with my students)', roleStudent:'Student (joining with my instructor)', groupName:'Group / instructor name',
+      flight:'Flight information (if booked)',
       transport:'Transportation from the airport', optCar:'Rental car', optShare:'Hoping to share a ride', optUndecided:'Undecided',
       accommodation:'Accommodation (if arranged)',
       rental:'Rental gear', rentalNote:'(¥2,000 per item for the whole event. Can be changed on site.)',
@@ -319,7 +338,9 @@
       country:'國家/地區', cert:'自由潛水證照', certNote:'(建議AIDA3或同等以上)',
       coldwater:'冷水/冰潛經驗', emergency:'緊急聯絡人(姓名/關係/電話)',
       messenger:'Facebook Messenger連結或SNS', messengerNote:'(重要通知將透過Messenger群組發布)',
-      referral:'曾參加的朋友/與主辦者的關係', flight:'航班資訊(若已訂票)',
+      referral:'曾參加的朋友/與主辦者的關係',
+      role:'團體參加(如適用)', roleNone:'不適用', roleInstructor:'教練(與學生同行)', roleStudent:'學生(與教練同行)', groupName:'團體名稱/教練姓名',
+      flight:'航班資訊(若已訂票)',
       transport:'機場交通方式', optCar:'租車', optShare:'希望與其他參加者共乘', optUndecided:'未定',
       accommodation:'住宿(若已安排)',
       rental:'租借裝備', rentalNote:'(每項2,000日圓,整個活動期間。現場亦可變更)',
@@ -343,7 +364,9 @@
       country:'국가/지역', cert:'프리다이빙 자격증', certNote:'(AIDA3 상당 이상 권장)',
       coldwater:'냉수/아이스 다이빙 경험', emergency:'비상 연락처(이름/관계/전화)',
       messenger:'Facebook Messenger 링크 또는 SNS', messengerNote:'(중요 공지는 Messenger 그룹으로 전달됩니다)',
-      referral:'과거 참가자 지인/주최자와의 관계', flight:'항공편 정보(예약한 경우)',
+      referral:'과거 참가자 지인/주최자와의 관계',
+      role:'그룹 참가(해당 시)', roleNone:'해당 없음', roleInstructor:'강사(학생과 함께 참가)', roleStudent:'학생(강사와 함께 참가)', groupName:'그룹명・강사 이름',
+      flight:'항공편 정보(예약한 경우)',
       transport:'공항에서의 교통수단', optCar:'렌터카', optShare:'다른 참가자와 동승 희망', optUndecided:'미정',
       accommodation:'숙소(예약한 경우)',
       rental:'렌탈 장비', rentalNote:'(각 2,000엔, 기간 중. 현장 변경 가능)',
@@ -422,6 +445,9 @@
   /* ================== 送信 ================== */
   var form = document.getElementById('booking-form');
   form.addEventListener('change', calc);
+  document.getElementById('role-select').addEventListener('change', function(){
+    document.getElementById('group-name-field').style.visibility = this.value === 'none' ? 'hidden' : 'visible';
+  });
   form.addEventListener('submit', function(e){
     e.preventDefault();
     var t = T[currentLang()];
@@ -443,6 +469,7 @@
       messenger: fd.get('messenger'), referral: fd.get('referral'),
       flight: fd.get('flight'), transport: fd.get('transport'),
       accommodation: fd.get('accommodation'), payMethod: fd.get('payMethod'),
+      role: fd.get('role'), groupName: fd.get('groupName'),
       notes: fd.get('notes')
     };
 
