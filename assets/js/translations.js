@@ -91,7 +91,7 @@ ja: {
       article3:{ title:"「知床流氷アイスダイビング｜アイスダイビングの夢を叶える」", body:"写真家・王文彥氏による2019年の参加体験記。台湾からの参加者の視点で、流氷の下の光景や現地の様子が豊富な写真とともに綴られています（繁体字中国語）。", cta:"Ms.Oceanで記事を読む →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"写真ギャラリー", lead:"クリックで拡大表示できます。" },
-    video:{ eyebrow:"VIDEO", title:"動画", cap1:"流氷の下を泳ぐフリーダイバー", cap2:"潜水の合間にサウナで暖をとる参加者" },
+    video:{ eyebrow:"VIDEO", title:"動画", cap1:"流氷フリーダイビング 2025" },
     cta:{ title:"Instagramでも最新情報を発信中", body:"シーズン中の様子や過去のイベントの記録は、公式Instagramでもご覧いただけます。", cta1:"Instagramを見る", cta2:"2027年イベントについて" }
   },
 
@@ -219,7 +219,7 @@ en: {
       article3:{ title:'"Shiretoko Drift-Ice Diving | Checking Ice Diving Off the Bucket List"', body:"A 2019 first-person report by photographer Wen-Yen Wang — the experience through a Taiwanese participant's eyes, told with plenty of photos from beneath the ice (in Traditional Chinese).", cta:"Read the article on Ms.Ocean →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"Photo gallery", lead:"Click any photo to view it larger." },
-    video:{ eyebrow:"VIDEO", title:"Video", cap1:"A freediver swimming beneath the drift ice", cap2:"Warming up in the sauna between dives" },
+    video:{ eyebrow:"VIDEO", title:"Video", cap1:"Drift Ice Freediving 2025" },
     cta:{ title:"Follow along on Instagram", body:"See the latest from each season, along with footage from past events, on our official Instagram.", cta1:"View Instagram", cta2:"About the 2027 event" }
   },
 
@@ -347,7 +347,7 @@ zh: {
       article3:{ title:"「知床流冰冰潛｜完成冰潛的夢想清單」", body:"攝影師王文彥於2019年的參加體驗記，以台灣參加者的視角，透過豐富的照片記錄流冰下的景色與現場情況。", cta:"於Ms.Ocean閱讀全文 →" }
     },
     photo:{ eyebrow:"照片藝廊", title:"照片藝廊", lead:"點擊照片可放大顯示。" },
-    video:{ eyebrow:"影片", title:"影片", cap1:"在流冰下游動的自由潛水者", cap2:"潛水空檔於三溫暖取暖的參加者" },
+    video:{ eyebrow:"影片", title:"影片", cap1:"2025年流冰自由潛水" },
     cta:{ title:"Instagram同步更新最新消息", body:"活動期間的實況與過往活動的紀錄，都可在官方Instagram上瀏覽。", cta1:"前往Instagram", cta2:"了解2027年活動" }
   },
 
@@ -475,7 +475,7 @@ ko: {
       article3:{ title:"「시레토코 유빙 아이스 다이빙｜아이스 다이빙 버킷리스트 달성」", body:"사진가 왕원옌(王文彥) 씨의 2019년 참가 체험기. 대만 참가자의 시선으로 유빙 아래 풍경과 현장 모습을 풍부한 사진과 함께 담았습니다(중국어 번체).", cta:"Ms.Ocean에서 기사 읽기 →" }
     },
     photo:{ eyebrow:"PHOTO GALLERY", title:"사진 갤러리", lead:"클릭하시면 확대해서 보실 수 있습니다." },
-    video:{ eyebrow:"VIDEO", title:"영상", cap1:"유빙 아래를 헤엄치는 프리다이버", cap2:"잠수 사이 사우나에서 몸을 녹이는 참가자들" },
+    video:{ eyebrow:"VIDEO", title:"영상", cap1:"2025년 유빙 프리다이빙" },
     cta:{ title:"인스타그램에서도 최신 소식을 전해 드립니다", body:"시즌 중 모습이나 지난 이벤트의 기록은 공식 인스타그램에서도 확인하실 수 있습니다.", cta1:"인스타그램 보기", cta2:"2027년 이벤트 안내" }
   },
 
