@@ -67,14 +67,14 @@ ja: {
     table:{ dates:"開催日程", datesVal:"2027年2月20日〜28日。参加日は2日間からお選びいただけます（連続日程・分割日程どちらも可）。※2月20日は穴あけ・準備が中心のため、潜水時間は短めです。", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ（オホーツク海）。流氷の状況により、ポイントはウトロ内で変更になる場合があります。", format:"形式", formatVal:"ファンダイブ（記録が公式に残らない体験潜水）。コンスタントウェイト（CWT）・ダイナミック（DYN）の2種目とも、公式記録のつかないファンダイブとして実施します。流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。", capacity:"定員", capacityVal:"1日最大 約20名。安全運営の都合上、少人数制でのご案内となります。", fee:"参加費", feeVal:"2日間 45,000円（保険代込み・1日のみのご参加でも同額）／＋1日ごとに20,000円／見学のみ12,000円（1日）。流氷の状況で潜水自体ができない場合は、1日あたり10,000円を返金します。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
     req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA3相当以上）推奨", tag2:"冷水域での潜水経験があれば尚可", tag3:"健康状態に問題がない方",
       card1:{ title:"資格・経験について", body:"AIDA3相当以上のフリーダイビング資格をお持ちの方を優先的にご案内します。資格をお持ちでない方も、インストラクターが同行する形であればご参加いただけます（要相談）。冷水域での潜水経験は必須ではありませんが、経験がある方を優先的にご案内する場合があります。事前にご経歴を確認させていただきます。" },
-      card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。マスク等の個人装備はご持参ください。グローブ・フィン・フィンソックスはレンタルがございます（一式2,000円・期間中1回のみ）。ウェイトは無料ですが、ウェイトベルトはご持参ください。" }
+      card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。マスク等の個人装備はご持参ください。グローブ・フィン・フィンソックスはレンタルがございます（各2,000円・期間中）。ウェイトは無料ですが、ウェイトベルトはご持参ください。" }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"1日の流れ", note:"参加日程は2日間からお選びください。連続日程でも、間に別のアクティビティを挟む分割日程でも構いません。", t1:"10:00", t1Title:"集合・穴あけ作業・ブリーフィング", t2:"10:30", t2Title:"ダイビング開始", t3:"13:30", t3Title:"終了・自由解散" },
     activities:{ eyebrow:"ACTIVITIES", title:"実施可能な種目", cwt:{ title:"CWT（コンスタントウェイト）", body:"最大深度は約13m。安全のため、必ずバディと一緒に潜水してください。" }, dyn:{ title:"DYN（ダイナミック）", body:"約20m間隔で開けた2つの穴の間を移動する種目です。穴と穴の間にはロープを設置し、ラニヤードを使用して潜水します。水中はスキューバダイバーが安全管理を行います。" } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"必要な装備", note:"ウェットスーツ・マスク・シュノーケル・ラニヤードはご自身でご用意ください。グローブ・フィン・フィンソックスは有料レンタル（一式2,000円・期間中1回のみ）、ウェイトは無料でご用意しています。",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"必要な装備", note:"ウェットスーツ・マスク・シュノーケル・ラニヤードはご自身でご用意ください。グローブ・フィン・フィンソックスは有料レンタル（各2,000円・期間中）、ウェイトは無料でご用意しています。",
       item1:{ title:"ウェットスーツ", body:"厚さ5mm以上を推奨します（水温0度前後）。1〜3mmでも潜水は可能ですが、保温性の面で初心者や長時間の潜水には不向きです。" },
-      item2:{ title:"グローブ／フィンソックス", body:"手足の保護のため必須です。レンタルもございます（フィンと合わせて一式2,000円・期間中1回のみ）。" },
-      item3:{ title:"フィン", body:"種類は問いません。フィンソックスを着用したまま履けるか、事前にご確認ください。有料レンタルもございます（グローブ・フィンソックスと合わせて一式2,000円・期間中1回のみ）。" },
+      item2:{ title:"グローブ／フィンソックス", body:"手足の保護のため必須です。レンタルもございます（グローブ2,000円・フィンソックス2,000円、期間中）。" },
+      item3:{ title:"フィン", body:"種類は問いません。フィンソックスを着用したまま履けるか、事前にご確認ください。有料レンタルもございます（2,000円・期間中）。" },
       item4:{ title:"マスク・シュノーケル", body:"通常のもので問題ありません。" },
       item5:{ title:"ラニヤード", body:"通常のもので問題ありません。" },
       item6:{ title:"ウェイト", body:"無料でご用意しています。参加人数が多い日はシェアをお願いする場合があります。ウェイトベルトはご持参ください。" }
@@ -222,14 +222,14 @@ en: {
     table:{ dates:"Dates", datesVal:"February 20–28, 2027. Choose any 2 days to join — consecutive or split across the week, whichever suits you. Note: Feb 20 is mainly for hole drilling and preparation, so diving time is limited.", place:"Location", placeVal:"Utoro, Shari, Hokkaido, Japan (Sea of Okhotsk). The exact dive point may change within Utoro depending on ice conditions.", format:"Format", formatVal:"Fun dive — no official records are set in either discipline. Both Constant Weight (CWT) and Dynamic (DYN) are run purely as fun dives. If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving.", capacity:"Capacity", capacityVal:"Up to about 20 people per day. Kept small for safety.", fee:"Fee", feeVal:"2 days: ¥45,000 (insurance included, same price even if you only join 1 day) / each additional day: ¥20,000 / observation only: ¥12,000 per day. If diving itself isn't possible due to ice conditions, we refund ¥10,000 per affected day.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
     req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Freediving certification (AIDA Level 3 or equivalent) recommended", tag2:"Cold-water diving experience is a plus", tag3:"In good health",
       card1:{ title:"Certification & experience", body:"We give priority to divers holding a freediving certification of AIDA Level 3 or equivalent. If you don't hold a certification, you may still be able to join accompanied by an instructor — please get in touch to discuss. Cold-water experience isn't required, but divers with it may be given priority. We'll confirm your background beforehand." },
-      card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). Please bring your own mask and personal equipment. Gloves, fins and fin socks are available to rent (flat ¥2,000 for the whole event). Weights are free, but please bring your own weight belt." }
+      card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). Please bring your own mask and personal equipment. Gloves, fins and fin socks are available to rent (¥2,000 per item for the whole event). Weights are free, but please bring your own weight belt." }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"A typical day", note:"Choose any 2 days to join — consecutive, or split with other activities in between.", t1:"10:00", t1Title:"Gathering, hole drilling & briefing", t2:"10:30", t2Title:"Diving begins", t3:"13:30", t3Title:"Finish — free to head off" },
     activities:{ eyebrow:"ACTIVITIES", title:"Disciplines available", cwt:{ title:"CWT (Constant Weight)", body:"Maximum depth is about 13m. Always dive with a buddy." }, dyn:{ title:"DYN (Dynamic)", body:"Two holes are cut about 20m apart, so you can swim dynamic between them. A rope runs between the holes — dive using your lanyard. Scuba divers monitor safety underwater." } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"What to bring", note:"Please bring your own wetsuit, mask, snorkel and lanyard. Gloves, fins and fin socks are available to rent (flat ¥2,000 for the whole event), and weights are provided free of charge.",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"What to bring", note:"Please bring your own wetsuit, mask, snorkel and lanyard. Gloves, fins and fin socks are available to rent (¥2,000 per item for the whole event), and weights are provided free of charge.",
       item1:{ title:"Wetsuit", body:"5mm or thicker recommended (water temperature is around 0°C). 1–3mm suits are possible but not ideal for beginners or longer dives." },
-      item2:{ title:"Gloves & fin socks", body:"Essential for protecting your hands and feet. Rentals are available (flat ¥2,000 for the whole event, together with fins)." },
-      item3:{ title:"Fins", body:"Any type is fine — just confirm beforehand that they fit over fin socks. Rentals are also available (flat ¥2,000 for the whole event, together with gloves and fin socks)." },
+      item2:{ title:"Gloves & fin socks", body:"Essential for protecting your hands and feet. Rentals are available (¥2,000 each for the whole event)." },
+      item3:{ title:"Fins", body:"Any type is fine — just confirm beforehand that they fit over fin socks. Rentals are also available (¥2,000 for the whole event)." },
       item4:{ title:"Mask & snorkel", body:"Standard equipment is fine." },
       item5:{ title:"Lanyard", body:"Standard lanyard is fine." },
       item6:{ title:"Weights", body:"Provided free of charge. Weights may need to be shared on busy days — please bring your own weight belt." }
@@ -377,14 +377,14 @@ zh: {
     table:{ dates:"舉辦日期", datesVal:"2027年2月20日〜28日。可自由選擇其中2天參加（連續或分開日期皆可）。※2月20日以鑿冰與準備為主,潛水時間較短。", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂（鄂霍次克海）。實際潛點可能依流冰狀況於宇登呂範圍內調整。", format:"形式", formatVal:"體驗潛水，CWT（定重）與DYN（動態）兩種項目皆不計正式紀錄，純粹以體驗潛水（Fun Dive）方式進行。若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。", capacity:"名額", capacityVal:"每日最多約20人。基於安全營運考量，採小人數制。", fee:"參加費用", feeVal:"2天：45,000日圓（含保險費，僅參加1天費用相同）／每加1天：20,000日圓／僅參觀：12,000日圓（1天）。若因流冰狀況無法下水，將退還每日10,000日圓。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
     req:{ eyebrow:"參加條件", title:"參加資格", tag1:"建議持有自由潛水證照（AIDA3或同等以上）", tag2:"具備冷水域潛水經驗尤佳", tag3:"身體狀況良好",
       card1:{ title:"關於資格與經驗", body:"我們優先接受持有AIDA3或同等以上自由潛水證照的參加者。若未持有證照，經教練陪同亦有機會參加，歡迎另行洽詢。冷水域潛水經驗並非必要條件，但具備經驗者可能優先受理。我們會事前確認您的經歷。" },
-      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。面鏡等個人裝備請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（一套2,000日圓、整個活動期間僅收1次）。配重免費,但請自備配重帶。" }
+      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。面鏡等個人裝備請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（每項2,000日圓、整個活動期間）。配重免費,但請自備配重帶。" }
     },
     daily:{ eyebrow:"每日行程", title:"當天流程", note:"請自由選擇其中2天參加，連續日期或中間穿插其他行程皆可。", t1:"10:00", t1Title:"集合・鑿冰作業・行前說明", t2:"10:30", t2Title:"開始下水", t3:"13:30", t3Title:"結束・自由解散" },
     activities:{ eyebrow:"可進行項目", title:"可體驗的潛水項目", cwt:{ title:"CWT（定重）", body:"最大深度約13公尺。基於安全考量，請務必與潛伴一同下水。" }, dyn:{ title:"DYN（動態）", body:"於相距約20公尺的兩個洞口間進行動態潛水。洞口間設有繩索，請使用潛水繩夾潛水，水中並有水肺潛水員負責安全監控。" } },
-    gear:{ eyebrow:"必要裝備", title:"請自行攜帶的裝備", note:"濕式潛水衣、面鏡、呼吸管、潛水繩夾請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（一套2,000日圓、整個活動期間僅收1次），配重則免費提供。",
+    gear:{ eyebrow:"必要裝備", title:"請自行攜帶的裝備", note:"濕式潛水衣、面鏡、呼吸管、潛水繩夾請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（每項2,000日圓、整個活動期間），配重則免費提供。",
       item1:{ title:"濕式潛水衣", body:"建議厚度5mm以上（水溫約0度）。1〜3mm亦可下水，但保暖性較差，不建議初學者或長時間潛水使用。" },
-      item2:{ title:"手套／蛙鞋襪", body:"為保護手腳，屬必要裝備。提供租借（與蛙鞋合計一套2,000日圓、整個活動期間僅收1次）。" },
-      item3:{ title:"蛙鞋", body:"款式不拘，建議事前確認搭配蛙鞋襪穿著是否合適。亦提供租借（與手套、蛙鞋襪合計一套2,000日圓、整個活動期間僅收1次）。" },
+      item2:{ title:"手套／蛙鞋襪", body:"為保護手腳，屬必要裝備。提供租借（每項2,000日圓、整個活動期間）。" },
+      item3:{ title:"蛙鞋", body:"款式不拘，建議事前確認搭配蛙鞋襪穿著是否合適。亦提供租借（2,000日圓、整個活動期間）。" },
       item4:{ title:"面鏡・呼吸管", body:"一般款式即可。" },
       item5:{ title:"潛水繩夾", body:"一般款式即可。" },
       item6:{ title:"配重", body:"免費提供。參加人數較多的日子可能需要共用,請自備配重帶。" }
@@ -532,14 +532,14 @@ ko: {
     table:{ dates:"개최 일정", datesVal:"2027년 2월 20일~28일. 참가일은 이 중 2일을 자유롭게 선택하실 수 있습니다(연속 일정・분산 일정 모두 가능). ※2월 20일은 구멍 뚫기・준비 중심으로 다이빙 시간이 짧습니다.", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로(오호츠크해). 유빙 상황에 따라 우토로 내에서 포인트가 변경될 수 있습니다.", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). CWT・DYN 두 종목 모두 공식 기록은 남지 않는 펀 다이브로 진행합니다. 유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다.", capacity:"정원", capacityVal:"1일 최대 약 20명. 안전 운영을 위해 소규모로 안내해 드립니다.", fee:"참가비", feeVal:"2일: 45,000엔(보험료 포함, 1일만 참가하셔도 동일 요금) / 추가 1일당: 20,000엔 / 견학만: 12,000엔(1일). 유빙 상황으로 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
     req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA3 상당 이상) 권장", tag2:"냉수역 잠수 경험이 있으면 좋음", tag3:"건강 상태에 문제가 없는 분",
       card1:{ title:"자격・경험에 대하여", body:"AIDA3 상당 이상의 프리다이빙 자격을 보유하신 분을 우선적으로 안내해 드립니다. 자격이 없으신 분도 강사가 동행하는 형태로 참가하실 수 있습니다(상담 필요). 냉수역 잠수 경험은 필수는 아니지만, 경험이 있는 분을 우선적으로 안내해 드리는 경우가 있습니다. 사전에 경력을 확인해 드립니다." },
-      card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 마스크 등 개인 장비는 지참해 주십시오. 장갑・핀・핀 삭스는 대여 가능합니다(일괄 2,000엔・기간 중 1회만). 웨이트는 무료이지만 웨이트 벨트는 지참해 주세요." }
+      card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 마스크 등 개인 장비는 지참해 주십시오. 장갑・핀・핀 삭스는 대여 가능합니다(각 2,000엔・기간 중). 웨이트는 무료이지만 웨이트 벨트는 지참해 주세요." }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"하루의 흐름", note:"참가일은 2일을 선택해 주세요. 연속 일정이든, 사이에 다른 일정을 넣는 분산 일정이든 상관없습니다.", t1:"10:00", t1Title:"집합・얼음구멍 작업・브리핑", t2:"10:30", t2Title:"다이빙 시작", t3:"13:30", t3Title:"종료・자유 해산" },
     activities:{ eyebrow:"ACTIVITIES", title:"진행 가능한 종목", cwt:{ title:"CWT(컨스턴트 웨이트)", body:"최대 수심은 약 13m입니다. 안전을 위해 반드시 버디와 함께 잠수해 주세요." }, dyn:{ title:"DYN(다이나믹)", body:"약 20m 간격으로 뚫은 두 개의 구멍 사이를 이동하는 종목입니다. 구멍 사이에는 로프를 설치하며, 라니야드를 사용해 잠수합니다. 수중에서는 스쿠버 다이버가 안전 관리를 담당합니다." } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"필요한 장비", note:"웨트슈트・마스크・스노클・라니야드는 본인의 장비를 지참해 주세요. 장갑・핀・핀 삭스는 유료 대여가 가능하며(일괄 2,000엔・기간 중 1회만), 웨이트는 무료로 제공해 드립니다.",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"필요한 장비", note:"웨트슈트・마스크・스노클・라니야드는 본인의 장비를 지참해 주세요. 장갑・핀・핀 삭스는 유료 대여가 가능하며(각 2,000엔・기간 중), 웨이트는 무료로 제공해 드립니다.",
       item1:{ title:"웨트슈트", body:"두께 5mm 이상을 권장합니다(수온 0도 전후). 1~3mm로도 잠수는 가능하지만 보온성 면에서 초보자나 장시간 잠수에는 적합하지 않습니다." },
-      item2:{ title:"장갑 / 핀 삭스", body:"손발 보호를 위해 필수입니다. 대여도 가능합니다(핀과 합쳐 일괄 2,000엔・기간 중 1회만)." },
-      item3:{ title:"핀", body:"종류는 상관없습니다. 핀 삭스를 착용한 채 신을 수 있는지 사전에 확인해 주세요. 대여도 가능합니다(장갑・핀 삭스와 합쳐 일괄 2,000엔・기간 중 1회만)." },
+      item2:{ title:"장갑 / 핀 삭스", body:"손발 보호를 위해 필수입니다. 대여도 가능합니다(각 2,000엔・기간 중)." },
+      item3:{ title:"핀", body:"종류는 상관없습니다. 핀 삭스를 착용한 채 신을 수 있는지 사전에 확인해 주세요. 대여도 가능합니다(2,000엔・기간 중)." },
       item4:{ title:"마스크・스노클", body:"일반적인 것으로 문제없습니다." },
       item5:{ title:"라니야드", body:"일반적인 것으로 문제없습니다." },
       item6:{ title:"웨이트", body:"무료로 제공해 드립니다. 참가 인원이 많은 날은 공유를 부탁드릴 수 있습니다. 웨이트 벨트는 지참해 주세요." }
