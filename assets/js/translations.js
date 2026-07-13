@@ -11,9 +11,10 @@ ja: {
     event: { title:"2027年イベント | Ice Freediving Shiretoko", desc:"流氷フリーダイビングカップ2027の開催概要、参加資格、スケジュール、お申し込み方法。" },
     gallery: { title:"実績・ギャラリー | Ice Freediving Shiretoko", desc:"2024年世界記録樹立の記録、メディア掲載、流氷フリーダイビングの写真・動画ギャラリー。" },
     access: { title:"アクセス | Ice Freediving Shiretoko", desc:"知床ウトロへのアクセス方法、流氷シーズンの情報。" },
-    contact: { title:"お問い合わせ・エントリー | Ice Freediving Shiretoko", desc:"2027年イベントへの参加相談、取材・メディアのお問い合わせはこちらから。" }
+    contact: { title:"お問い合わせ・エントリー | Ice Freediving Shiretoko", desc:"2027年イベントへの参加相談、取材・メディアのお問い合わせはこちらから。" },
+    around: { title:"周辺観光・アクティビティ | Ice Freediving Shiretoko", desc:"ダイビングの前後や同行者の方へ。冬の知床ウトロで楽しめる温泉、知床自然センター、フレペの滝、夕日スポット、グルメをご紹介。" }
   },
-  nav: { home:"ホーム", about:"知床と流氷フリーダイビング", event:"2027年イベント", gallery:"実績・ギャラリー", access:"アクセス", contact:"お問い合わせ", cta:"エントリー" },
+  nav: { home:"ホーム", about:"知床と流氷フリーダイビング", event:"2027年イベント", gallery:"実績・ギャラリー", access:"アクセス", around:"周辺観光", contact:"お問い合わせ", cta:"エントリー" },
   brand: { tagline:"流氷フリーダイビングカップ" },
   footer: {
     about:"北海道・知床ウトロで2013年から続く、流氷の下を潜るフリーダイビングイベント「流氷フリーダイビングカップ」の公式サイトです。",
@@ -54,13 +55,17 @@ ja: {
     safety3:{ title:"低体温症対策", body:"十分な防寒対策と早期発見の体制で、低体温症など寒冷環境特有のリスクに備えています。国際認定ジャッジとの連携体制も構築しています。" },
     safety4:{ title:"経験・資格の確認", body:"参加にはフリーダイビング資格（AIDA・CMAS等）と、冷水域での経験が求められます。事前に経験・体調を確認したうえで受け入れています。" },
     safety5:{ title:"明確な入退水ルート", body:"流氷に複数の穴を開け、競技ライン・目視ライン・セーフティラインを設置。ロープに沿って安全に入退水します。" },
+    org:{ eyebrow:"ORGANIZERS", title:"主催者紹介", lead:"流氷フリーダイビングカップは、3人のフリーダイバーが中心となって企画・運営しています。" },
+    org1:{ name:"野口智弘", role:"写真家・フリーダイバー／創始者", body:"2013年、ウトロで流氷の下を潜るイベントを立ち上げた創始者。手探りの状態から、地元の協力を得ながら安全に開催するための方法を確立してきました。イベントでは会場・ロープセッティングの設計と水中撮影を担当。水中写真集『Water Being』を刊行し、流氷下のフリーダイバーをモノクロフィルムで捉えた写真展『海の雲』（2024年・知床自然センター）を開催するなど、写真家として流氷の海を記録し続けています。" },
+    org2:{ name:"高木唯", role:"フリーダイバー／共同創始者・地元コーディネーター", body:"知床ウトロ出身。潜水士の父のもと中学生からスキューバダイビングを始め、沖縄で篠宮龍三氏に師事してフリーダイビングの道へ。2011年AIDAフリーダイビングワールドチャンピオンシップス日本代表。競技引退後は映画やCMのマリンコーディネーターとして活動し、2013年に野口氏とともに本イベントを立ち上げました。2021年に地元へUターンし、斜里町地域おこし協力隊としても活動。イベントでは漁業関係者・医療機関・消防など、地元との調整役を担っています。" },
+    org3:{ name:"寺嶋拓哉", role:"フリーダイバー・水中写真家／国際コーディネーター", body:"息止め（スタティックアプネア）日本記録を保持する現役フリーダイバー。2020年に企画チームへ加わり、世界のフリーダイビングコミュニティと知床をつなぐ役割を担っています。2024年の世界記録アテンプトでは発起人として、CMAS・ギネス世界記録への申請、海外ジャッジの招聘、国際基準での会場設定を主導し、アジア初のアイスフリーダイビング公式記録の実現に貢献しました。" },
     cta:{ title:"2027年イベントについて、詳しく見る", body:"参加資格やスケジュール、お申し込み方法をご案内しています。", cta1:"2027年イベントの詳細へ", cta2:"お問い合わせ" }
   },
 
   event: {
     eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", lead:"知床ウトロの流氷下を潜るファンダイブイベント。フリーダイビング資格をお持ちの方を対象に、少人数・安全重視で開催します。",
     table:{ dates:"開催日程", datesVal:"2027年2月20日（穴あけ・準備日）／2月21日〜28日（イベント実施）。参加日は2日間からお選びいただけます（連続日程・分割日程どちらも可）。", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ（オホーツク海）。流氷の状況により、ポイントはウトロ内で変更になる場合があります。", format:"形式", formatVal:"ファンダイブ（記録が公式に残らない体験潜水）。コンスタントウェイト（CWT）・ダイナミック（DYN）の2種目とも、公式記録のつかないファンダイブとして実施します。流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。", capacity:"定員", capacityVal:"1日最大 約20名。安全運営の都合上、少人数制でのご案内となります。", fee:"参加費", feeVal:"2日間 45,000円（保険代込み・1日のみのご参加でも同額）／＋1日ごとに20,000円／見学のみ12,000円（1日）。流氷の状況で潜水自体ができない場合は、1日あたり10,000円を返金します。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
-    req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA3相当以上）推奨", tag2:"冷水域での潜水経験があれば尚可", tag3:"健康状態に問題がない方", tag4:"事前ヒアリングへのご協力", tag5:"資格未保持の方はインストラクター同行で参加可能",
+    req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA3相当以上）推奨", tag2:"冷水域での潜水経験があれば尚可", tag3:"健康状態に問題がない方",
       card1:{ title:"資格・経験について", body:"AIDA3相当以上のフリーダイビング資格をお持ちの方を優先的にご案内します。資格をお持ちでない方も、インストラクターが同行する形であればご参加いただけます（要相談）。冷水域での潜水経験は必須ではありませんが、経験がある方を優先的にご案内する場合があります。事前にご経歴を確認させていただきます。" },
       card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。基本的にレンタル装備はございませんので、フィン・マスク等の個人装備はご持参ください。グローブ・フィンソックスのみレンタルがございます。" }
     },
@@ -128,6 +133,28 @@ ja: {
     form:{ name:"お名前", email:"メールアドレス", country:"国・地域", cert:"フリーダイビング資格・団体", type:"お問い合わせ内容", type1:"2027年イベントエントリー相談", type2:"参加資格・経験についての質問", type3:"取材・メディアのお問い合わせ", type4:"その他", message:"メッセージ", messageNote:"潜水経験年数、これまでの潜水環境（冷水経験の有無）などもあわせてお書きいただけるとスムーズです。", submit:"送信する", privacy:"ご入力いただいた内容はお問い合わせ対応の目的以外には使用しません。" },
     direct:{ title:"直接ご連絡される場合", body:"フォームのご利用が難しい場合は、InstagramのDMでもお問い合わせいただけます。" },
     reply:{ title:"返信について", body:"内容を確認のうえ、通常5営業日以内に返信いたします。流氷シーズン中（1〜3月）は現地対応のため、お時間をいただく場合があります。あらかじめご了承ください。" }
+  },
+
+  around: {
+    eyebrow:"AROUND SHIRETOKO", title:"ダイビングの前後に楽しむ、冬の知床", lead:"イベントは毎日13:30に終了。午後はたっぷり自由時間です。潜らない同行者の方にも、世界自然遺産・知床の冬は見どころにあふれています。温泉、流氷の絶景、凍る滝、そして北海道のごはん——ウトロ周辺のおすすめをご紹介します。",
+    nature:{ eyebrow:"NATURE", title:"知床自然センターとフレペの滝", body1:"ウトロ市街から車で約5分の「知床自然センター」は、知床国立公園の情報拠点。大型スクリーンの映像シアターやカフェ・ショップがあり、冬期（10月下旬〜4月中旬）は9:00〜16:00に開館しています。スノーシューや長靴のレンタルもここで受け付けています。", body2:"センターから続く往復約2kmの遊歩道の先が「フレペの滝」。断崖から流れ落ちる地下水が冬は青白く凍りつき、展望台からは流氷のオホーツク海を一望できます。エゾシカやオオワシに出会えることも。冬は雪原をスノーシューで歩くコースになるため、地元ガイドツアー（知床ネイチャーオフィス・SHINRA・ピッキオ知床など）への参加がおすすめです。", cta:"知床自然センター 公式サイト →" },
+    onsen:{ eyebrow:"ONSEN", title:"ウトロ温泉で温まる", lead:"氷点下の海で冷えた体には、温泉がいちばんのごほうび。ウトロは道東有数の温泉地で、リゾートホテルの日帰り入浴やサウナが利用できます。", cta:"公式サイトを見る →",
+      o1:{ name:"知床第一ホテル", body:"オホーツク海と知床連山を望む大浴場が自慢の老舗ホテル。日帰り入浴は例年15:00〜17:00（大人1,250円）。サウナもあります。" },
+      o2:{ name:"北こぶし知床 ホテル＆リゾート", body:"ウトロ港すぐの温泉リゾート。流氷をイメージしたデザインサウナ「KAKUUNA」「UNEUNA」で知られ、大浴場からは海が見渡せます。" },
+      o3:{ name:"KIKI知床 ナチュラルリゾート", body:"個性豊かなサウナが揃う森の中のリゾート。時期により日帰り入浴（例年15:00〜20:00）を実施しています。" },
+      note:"※日帰り入浴の受入時間・料金は季節や館内状況により変わります。ご利用当日に各施設へご確認ください。公衆浴場「夕陽台の湯」は冬期休業（例年6月〜10月営業）です。" },
+    sunset:{ eyebrow:"SUNSET", title:"流氷の海に沈む夕日", body1:"ウトロは「夕陽の町」とも呼ばれます。2月は16時半ごろ、流氷に覆われたオホーツク海へ夕日が沈み、白い氷原が茜色に染まります。ダイビング後でも十分間に合う、一日の締めくくりにぴったりの絶景です。", body2:"おすすめは、温泉街から歩ける展望地「夕陽台」、知床五湖方面へ車で約5分の「プユニ岬」（ウトロで最初に流氷が見えるスポット）、ウトロ港脇にそびえる高さ60mの「オロンコ岩」。いずれも知床八景に数えられる名所です。冬は積雪・凍結があるため、足元には十分ご注意ください。" },
+    food:{ eyebrow:"FOOD", title:"美味しい北海道のごはん", lead:"漁港の町ウトロは海の幸の宝庫。冬も営業しているお店をご紹介します。冬期は不定休や短縮営業が多いため、事前の確認がおすすめです。", cta:"Googleマップで見る →",
+      f1:{ name:"波飛沫（なみしぶき）", body:"昼はラーメン、夜は知床鶏の焼鳥と地物が楽しめる居酒屋。地元の常連も通う人気店です。" },
+      f2:{ name:"海鮮料理 番屋", body:"ウトロ港近くの海鮮料理店。刺身や焼き魚など港町らしいメニューが揃います。冬期（11〜2月）は夜のみの営業です。" },
+      f3:{ name:"荒磯料理 くまのや", body:"地元の魚介を使った定食や海鮮丼のお店。真冬もあたたかい定食が食べられる、貴重な存在です。" },
+      f4:{ name:"ボンズホーム", body:"名物ポテトグラタンとカレーの老舗カフェ。斜里産ジャガイモを使った素朴で温かい味が魅力です。" },
+      note:"※港の新鮮な魚が自慢の「ウトロ漁協婦人部食堂」（例年4月下旬〜11月中旬）など、夏期のみ営業の名物店もあります。各ホテルの夕食ビュッフェも充実しています。" },
+    more:{ eyebrow:"MORE", title:"そのほかの冬のアクティビティ",
+      m1:{ title:"流氷ウォーク", body:"専用のドライスーツを着て流氷の上を歩き、氷の海に浮かぶ人気ツアー。資格がなくても参加でき、地元の各ガイド会社が開催しています（要予約）。" },
+      m2:{ title:"冬の知床五湖", body:"冬期の知床五湖は、認定ガイド同行のスノーシューツアーでのみ入場できます。誰の足跡もない雪原と凍った湖の上を歩く特別な体験です。" },
+      m3:{ title:"野生動物ウォッチング", body:"冬の知床はオオワシ・オジロワシの越冬地。エゾシカやキタキツネには道路沿いでも出会えます。運転中は飛び出しに十分ご注意を。" } },
+    cta:{ title:"氷の下も、氷の上も。", body:"ダイビングは毎日13:30終了。午後は知床の冬をまるごと楽しめます。アクセス・宿泊情報もあわせてご覧ください。", cta1:"2027年イベントについて", cta2:"アクセス・宿泊情報" }
   }
 },
 
@@ -139,9 +166,10 @@ en: {
     event: { title:"2027 Event | Ice Freediving Shiretoko", desc:"Details on the 2027 Drift Ice Freediving Cup: dates, requirements, schedule and how to apply." },
     gallery: { title:"Results & Gallery | Ice Freediving Shiretoko", desc:"Our 2024 world record, media coverage, and a photo & video gallery from beneath the drift ice." },
     access: { title:"Access | Ice Freediving Shiretoko", desc:"How to reach Utoro, Shiretoko, and information on the drift ice season." },
-    contact: { title:"Contact & Entry | Ice Freediving Shiretoko", desc:"Get in touch about joining the 2027 event, or for press and media inquiries." }
+    contact: { title:"Contact & Entry | Ice Freediving Shiretoko", desc:"Get in touch about joining the 2027 event, or for press and media inquiries." },
+    around: { title:"Things to Do Around Utoro | Ice Freediving Shiretoko", desc:"For companions and your afternoons off: onsen, the Shiretoko Nature Center, Furepe Falls, sunset spots and great Hokkaido food in winter Utoro." }
   },
-  nav: { home:"Home", about:"About", event:"2027 Event", gallery:"Results & Gallery", access:"Access", contact:"Contact", cta:"Entry" },
+  nav: { home:"Home", about:"About", event:"2027 Event", gallery:"Results & Gallery", access:"Access", around:"Things to Do", contact:"Contact", cta:"Entry" },
   brand: { tagline:"Drift Ice Freediving Cup" },
   footer: {
     about:"Official site of the Drift Ice Freediving Cup — an annual freediving event beneath the sea ice of Utoro, Shiretoko, Hokkaido, running since 2013.",
@@ -182,13 +210,17 @@ en: {
     safety3:{ title:"Hypothermia prevention", body:"We take thorough precautions against hypothermia and other risks specific to a cold-water environment. We also maintain working relationships with internationally certified judges." },
     safety4:{ title:"Verified experience & certification", body:"Participation requires a freediving certification (AIDA, CMAS, etc.) and cold-water experience. We confirm each participant's background and condition in advance." },
     safety5:{ title:"Clearly defined entry & exit routes", body:"Multiple holes are cut in the ice, with competition, sighting and safety lines all set in place. Divers move safely between holes along these ropes." },
+    org:{ eyebrow:"ORGANIZERS", title:"Meet the organizers", lead:"The Ice Freediving Cup is planned and run by three freedivers." },
+    org1:{ name:"Tomohiro Noguchi", role:"Photographer & freediver / Founder", body:"In 2013 Noguchi launched the event of diving beneath the drift ice in Utoro. Starting from trial and error, he established safe methods with the support of the local community. At each event he designs the dive site and rope setups and shoots underwater. As a photographer he published the underwater photo book \"Water Being\" and held \"Sea Clouds\" (2024, Shiretoko Nature Center), an exhibition of freedivers beneath the ice captured on black-and-white film — continuing to document the sea of drift ice." },
+    org2:{ name:"Yui Takagi", role:"Freediver / Co-founder & local coordinator", body:"Born and raised in Utoro, Shiretoko. She began scuba diving in junior high under her father, a professional diver, then took up freediving in Okinawa under Asian champion Ryuzo Shinomiya, representing Japan at the 2011 AIDA Freediving World Championships. After retiring from competition she worked as a marine coordinator on films and commercials, and co-founded this event with Noguchi in 2013. Back in her hometown since 2021, she also serves in Shari Town's regional revitalization program and coordinates with local fisheries, medical institutions and the fire department." },
+    org3:{ name:"Takuya Terajima", role:"Freediver & underwater photographer / International coordinator", body:"An active freediver who holds the Japanese national record in static apnea (breath-hold). Since joining the team in 2020, he has connected Shiretoko with the global freediving community. As the initiator of the 2024 world-record attempt, he led the CMAS and Guinness World Records applications, invited international judges and set up the venue to international standards — helping realize Asia's first official ice freediving record." },
     cta:{ title:"See the full details for the 2027 event", body:"Requirements, sample schedule and how to apply.", cta1:"2027 event details", cta2:"Contact us" }
   },
 
   event: {
     eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", lead:"A fun-dive event beneath the drift ice of Utoro, Shiretoko, open to certified freedivers. Run in small groups, with safety as our top priority.",
     table:{ dates:"Dates", datesVal:"February 20, 2027 (ice-hole preparation day) / February 21–28, 2027 (event days). Choose any 2 days to join — consecutive or split across the week, whichever suits you.", place:"Location", placeVal:"Utoro, Shari, Hokkaido, Japan (Sea of Okhotsk). The exact dive point may change within Utoro depending on ice conditions.", format:"Format", formatVal:"Fun dive — no official records are set in either discipline. Both Constant Weight (CWT) and Dynamic (DYN) are run purely as fun dives. If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving.", capacity:"Capacity", capacityVal:"Up to about 20 people per day. Kept small for safety.", fee:"Fee", feeVal:"2 days: ¥45,000 (insurance included, same price even if you only join 1 day) / each additional day: ¥20,000 / observation only: ¥12,000 per day. If diving itself isn't possible due to ice conditions, we refund ¥10,000 per affected day.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
-    req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Freediving certification (AIDA Level 3 or equivalent) recommended", tag2:"Cold-water diving experience is a plus", tag3:"In good health", tag4:"Willing to complete a pre-event interview", tag5:"No certification? You can still join with an instructor by your side",
+    req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Freediving certification (AIDA Level 3 or equivalent) recommended", tag2:"Cold-water diving experience is a plus", tag3:"In good health",
       card1:{ title:"Certification & experience", body:"We give priority to divers holding a freediving certification of AIDA Level 3 or equivalent. If you don't hold a certification, you may still be able to join accompanied by an instructor — please get in touch to discuss. Cold-water experience isn't required, but divers with it may be given priority. We'll confirm your background beforehand." },
       card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). We generally don't rent gear, so please bring your own fins, mask and personal equipment. Gloves and fin socks are available to rent." }
     },
@@ -256,6 +288,28 @@ en: {
     form:{ name:"Name", email:"Email", country:"Country / region", cert:"Freediving certification / agency", type:"Inquiry type", type1:"Interested in the 2027 event", type2:"Question about requirements / experience", type3:"Press / media inquiry", type4:"Other", message:"Message", messageNote:"It helps to include your years of freediving experience and any cold-water diving background.", submit:"Send", privacy:"Information submitted here is used only to respond to your inquiry." },
     direct:{ title:"Prefer to reach us directly?", body:"If the form doesn't work for you, feel free to send us a DM on Instagram." },
     reply:{ title:"Response time", body:"We usually reply within 5 business days. During drift ice season (January–March) we're on site in the field, so please allow extra time." }
+  },
+
+  around: {
+    eyebrow:"AROUND SHIRETOKO", title:"Winter Shiretoko, before and after the dive", lead:"Diving wraps up at 13:30 each day, leaving the whole afternoon free. And for companions who aren't diving, winter Shiretoko — a UNESCO World Natural Heritage site — is full of things to see: hot springs, drift ice vistas, a frozen waterfall, and wonderful Hokkaido food. Here are our picks around Utoro.",
+    nature:{ eyebrow:"NATURE", title:"Shiretoko Nature Center & Furepe Falls", body1:"About five minutes by car from central Utoro, the Shiretoko Nature Center is the information hub of Shiretoko National Park, with a large-screen theater, café and shop. In winter (late October to mid-April) it is open 9:00–16:00, and snowshoe and boot rentals are handled here too.", body2:"A roughly 2 km round-trip trail from the center leads to Furepe Falls, where spring water tumbling off a sea cliff freezes into pale blue ice in winter, with the drift-ice-covered Sea of Okhotsk spread out below the lookout. You may meet Ezo deer or Steller's sea eagles along the way. In winter the trail becomes a snowshoe walk across snowfields, so joining a local guided tour (Shiretoko Nature Office, SHINRA, Picchio Shiretoko and others) is recommended.", cta:"Shiretoko Nature Center official site →" },
+    onsen:{ eyebrow:"ONSEN", title:"Warm up in Utoro Onsen", lead:"After the sub-zero sea, nothing beats a hot spring. Utoro is one of eastern Hokkaido's best-known onsen towns, and resort hotels welcome day visitors to their baths and saunas.", cta:"Official site →",
+      o1:{ name:"Shiretoko Daiichi Hotel", body:"A long-established hotel famous for its grand baths overlooking the Sea of Okhotsk and the Shiretoko mountains. Day bathing is usually 15:00–17:00 (adults ¥1,250). Sauna available." },
+      o2:{ name:"Kitakobushi Shiretoko Hotel & Resort", body:"An onsen resort right by Utoro port, known for its drift-ice-inspired designer saunas “KAKUUNA” and “UNEUNA”. The main baths look out over the sea." },
+      o3:{ name:"KIKI Shiretoko Natural Resort", body:"A resort in the forest with a lineup of distinctive saunas. Day bathing (usually 15:00–20:00) is offered in some seasons." },
+      note:"Day-bathing hours and prices vary with the season and hotel occupancy — please check with each hotel on the day. The public bathhouse “Yuhidai-no-Yu” is closed in winter (open June–October)." },
+    sunset:{ eyebrow:"SUNSET", title:"Sunset over the drift ice", body1:"Utoro is known as a town of sunsets. In February, at around 16:30, the sun sinks into the ice-covered Sea of Okhotsk, dyeing the white ice field crimson — easily in time even after a day of diving, and the perfect way to end the day.", body2:"Our recommended spots: Yuhidai, a lookout within walking distance of the onsen streets; Cape Puyuni, about five minutes by car toward the Shiretoko Five Lakes and the first place in Utoro where drift ice appears; and Oronko Rock, a 60-meter monolith beside Utoro port. All are counted among the “Eight Views of Shiretoko”. Paths are snowy and icy in winter, so watch your footing." },
+    food:{ eyebrow:"FOOD", title:"Great Hokkaido food", lead:"A fishing town, Utoro is blessed with seafood. Here are places open in winter — many keep irregular or shortened hours in the cold months, so checking ahead is recommended.", cta:"View on Google Maps →",
+      f1:{ name:"Namishibuki", body:"Ramen at lunch; at night, an izakaya serving Shiretoko chicken yakitori and local dishes. Popular with local regulars too." },
+      f2:{ name:"Kaisen Ryori Banya", body:"A seafood restaurant near Utoro port with sashimi, grilled fish and other harbor-town fare. In winter (Nov–Feb) it opens evenings only." },
+      f3:{ name:"Araiso Ryori Kumanoya", body:"Set meals and seafood bowls made with the local catch — a precious place for a hot meal in midwinter." },
+      f4:{ name:"Bon's Home", body:"A long-loved café known for its potato gratin and curry made with Shari-grown potatoes. Simple, warming comfort food." },
+      note:"Some famous spots, such as the Utoro Fishery Cooperative Women's Diner (usually late April to mid-November), open only in the green season. Hotel dinner buffets are also excellent." },
+    more:{ eyebrow:"MORE", title:"More winter activities",
+      m1:{ title:"Drift Ice Walk", body:"Put on a special drysuit and walk over — and float among — the drift ice. No certification needed; local guide companies run tours in season (reservation required)." },
+      m2:{ title:"Shiretoko Five Lakes in winter", body:"In winter, the Five Lakes area can only be entered on snowshoe tours led by certified guides — an untracked snowfield and frozen lakes all to yourselves." },
+      m3:{ title:"Wildlife watching", body:"Winter Shiretoko hosts wintering Steller's and white-tailed sea eagles, and you'll meet Ezo deer and red foxes even along the roads. Please drive carefully." } },
+    cta:{ title:"Under the ice, and on top of it.", body:"Diving ends at 13:30 each day, leaving the afternoon for everything else winter Shiretoko offers. See our access and accommodation information, too.", cta1:"About the 2027 event", cta2:"Access & accommodation" }
   }
 },
 
@@ -267,9 +321,10 @@ zh: {
     event: { title:"2027年活動 | Ice Freediving Shiretoko", desc:"流冰自由潛水盃2027活動概要、參加資格、行程與報名方式。" },
     gallery: { title:"成果與藝廊 | Ice Freediving Shiretoko", desc:"2024年世界紀錄達成、媒體報導、流冰下拍攝的照片與影片藝廊。" },
     access: { title:"交通方式 | Ice Freediving Shiretoko", desc:"前往知床宇登呂的交通方式，以及流冰季節資訊。" },
-    contact: { title:"聯絡我們・報名 | Ice Freediving Shiretoko", desc:"關於參加2027年活動的洽詢，或媒體採訪相關聯絡請由此。" }
+    contact: { title:"聯絡我們・報名 | Ice Freediving Shiretoko", desc:"關於參加2027年活動的洽詢，或媒體採訪相關聯絡請由此。" },
+    around: { title:"周邊觀光・活動 | Ice Freediving Shiretoko", desc:"給同行者與潛水前後的自由時間：冬季宇登呂的溫泉、知床自然中心、Furepe瀑布、夕陽景點與北海道美食介紹。" }
   },
-  nav: { home:"首頁", about:"知床與流冰自由潛水", event:"2027年活動", gallery:"成果與藝廊", access:"交通方式", contact:"聯絡我們", cta:"報名" },
+  nav: { home:"首頁", about:"知床與流冰自由潛水", event:"2027年活動", gallery:"成果與藝廊", access:"交通方式", around:"周邊觀光", contact:"聯絡我們", cta:"報名" },
   brand: { tagline:"流冰自由潛水盃" },
   footer: {
     about:"自2013年起，於北海道知床宇登呂持續舉辦的流冰下自由潛水活動「流冰自由潛水盃」官方網站。",
@@ -310,13 +365,17 @@ zh: {
     safety3:{ title:"失溫症預防措施", body:"採取充分的保暖與早期發現措施，以應對失溫症等寒冷環境特有的風險。並與國際認證裁判建立合作體制。" },
     safety4:{ title:"確認經驗與資格", body:"參加需具備自由潛水證照（AIDA、CMAS等）及冷水域潛水經驗。我們會事前確認參加者的經驗與身體狀況後才予以接受。" },
     safety5:{ title:"明確的進出水路線", body:"在流冰上開鑿多個洞口，設置比賽線、視覺參考線及安全線，潛水者沿繩索安全地進出水面。" },
+    org:{ eyebrow:"ORGANIZERS", title:"主辦者介紹", lead:"流冰自由潛水盃由三位自由潛水員共同企劃與營運。" },
+    org1:{ name:"野口智弘", role:"攝影師・自由潛水員／創始人", body:"2013年在宇登呂發起潛入流冰之下活動的創始人。從摸索起步，在地方協助下逐步建立安全的舉辦方法。活動中負責場地與繩索設置的設計及水下攝影。出版水中攝影集《Water Being》，並於2024年在知床自然中心舉辦攝影展《海之雲》，以黑白底片記錄流冰下的自由潛水員，持續用鏡頭記錄流冰之海。" },
+    org2:{ name:"高木唯", role:"自由潛水員／共同創始人・在地統籌", body:"出生於知床宇登呂。國中起隨潛水員父親學習水肺潛水，後移居沖繩師事亞洲冠軍篠宮龍三，開始自由潛水，2011年成為AIDA自由潛水世界錦標賽日本代表。退役後擔任電影與廣告的海洋統籌，並於2013年與野口氏共同創辦本活動。2021年返鄉，擔任斜里町地域振興協力隊，在活動中負責與漁業相關人士、醫療機構及消防等在地單位的協調。" },
+    org3:{ name:"寺嶋拓哉", role:"自由潛水員・水下攝影師／國際統籌", body:"保持閉氣（靜態閉氣）日本紀錄的現役自由潛水員。2020年加入企劃團隊，串連知床與世界自由潛水社群。作為2024年世界紀錄挑戰的發起人，主導CMAS與金氏世界紀錄的申請、邀請國際裁判，並依國際標準設置場地，促成亞洲首次冰下自由潛水正式紀錄的誕生。" },
     cta:{ title:"深入了解2027年活動詳情", body:"提供參加資格、行程安排及報名方式等資訊。", cta1:"查看2027年活動詳情", cta2:"聯絡我們" }
   },
 
   event: {
     eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", lead:"在知床宇登呂的流冰下進行的體驗潛水活動，以持有自由潛水證照者為對象，採小人數、安全優先的方式舉辦。",
     table:{ dates:"舉辦日期", datesVal:"2027年2月20日（鑿冰準備日）／2月21日〜28日（活動舉行）。可自由選擇其中2天參加（連續或分開日期皆可）。", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂（鄂霍次克海）。實際潛點可能依流冰狀況於宇登呂範圍內調整。", format:"形式", formatVal:"體驗潛水，CWT（定重）與DYN（動態）兩種項目皆不計正式紀錄，純粹以體驗潛水（Fun Dive）方式進行。若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。", capacity:"名額", capacityVal:"每日最多約20人。基於安全營運考量，採小人數制。", fee:"參加費用", feeVal:"2天：45,000日圓（含保險費，僅參加1天費用相同）／每加1天：20,000日圓／僅參觀：12,000日圓（1天）。若因流冰狀況無法下水，將退還每日10,000日圓。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
-    req:{ eyebrow:"參加條件", title:"參加資格", tag1:"建議持有自由潛水證照（AIDA3或同等以上）", tag2:"具備冷水域潛水經驗尤佳", tag3:"身體狀況良好", tag4:"願意配合事前訪談", tag5:"未持證者可在教練陪同下參加",
+    req:{ eyebrow:"參加條件", title:"參加資格", tag1:"建議持有自由潛水證照（AIDA3或同等以上）", tag2:"具備冷水域潛水經驗尤佳", tag3:"身體狀況良好",
       card1:{ title:"關於資格與經驗", body:"我們優先接受持有AIDA3或同等以上自由潛水證照的參加者。若未持有證照，經教練陪同亦有機會參加，歡迎另行洽詢。冷水域潛水經驗並非必要條件，但具備經驗者可能優先受理。我們會事前確認您的經歷。" },
       card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。基本上不提供裝備租借，蛙鏡、蛙鞋等個人裝備請自行攜帶。僅手套與蛙鞋襪提供租借。" }
     },
@@ -384,6 +443,28 @@ zh: {
     form:{ name:"姓名", email:"電子郵件", country:"國家・地區", cert:"自由潛水證照・發證機構", type:"洽詢內容", type1:"2027年活動參加洽詢", type2:"關於參加資格・經驗的問題", type3:"採訪・媒體聯繫", type4:"其他", message:"訊息內容", messageNote:"若能一併告知潛水經驗年數、過去的潛水環境（是否有冷水經驗）等，將有助於我們更快回覆。", submit:"送出", privacy:"您所填寫的內容僅用於回覆本次洽詢，不做其他用途。" },
     direct:{ title:"若希望直接聯絡", body:"若不便使用表單，也歡迎透過Instagram私訊與我們聯絡。" },
     reply:{ title:"關於回覆時間", body:"確認內容後，通常於5個工作天內回覆。流冰季節期間（1〜3月）因需在現場作業，回覆可能需要較長時間，敬請見諒。" }
+  },
+
+  around: {
+    eyebrow:"AROUND SHIRETOKO", title:"潛水前後，盡情享受冬季知床", lead:"活動每天13:30結束，下午是完整的自由時間。不下水的同行者也一樣——被列為世界自然遺產的冬季知床充滿看點：溫泉、流冰絕景、結凍的瀑布，還有北海道美食。為您介紹宇登呂周邊的推薦去處。",
+    nature:{ eyebrow:"NATURE", title:"知床自然中心與Furepe瀑布", body1:"距宇登呂市區約5分鐘車程的「知床自然中心」是知床國立公園的資訊據點，設有大螢幕影像劇場、咖啡廳與商店。冬季（10月下旬〜4月中旬）開館時間為9:00〜16:00，也可在此租借雪鞋與長靴。", body2:"從中心出發、往返約2公里的步道盡頭就是「Furepe瀑布（乙女之淚）」。自斷崖流下的地下水在冬季凍結成青白色冰瀑，從展望台可一覽被流冰覆蓋的鄂霍次克海，途中還可能遇見蝦夷鹿與虎頭海鵰。冬季步道被雪覆蓋，需穿雪鞋行走，建議參加當地嚮導行程（知床Nature Office、SHINRA、Picchio知床等）。", cta:"知床自然中心 官方網站 →" },
+    onsen:{ eyebrow:"ONSEN", title:"在宇登呂溫泉暖暖身子", lead:"在冰點下的大海潛水後，最棒的犒賞就是溫泉。宇登呂是道東屈指可數的溫泉地，度假飯店提供日歸溫泉（純泡湯）與桑拿。", cta:"官方網站 →",
+      o1:{ name:"知床第一飯店", body:"以能眺望鄂霍次克海與知床連山的大浴場聞名的老字號飯店。日歸溫泉通常為15:00〜17:00（成人1,250日圓），也設有桑拿。" },
+      o2:{ name:"北こぶし知床 Hotel＆Resort", body:"位於宇登呂港旁的溫泉度假飯店，以流冰為設計概念的桑拿「KAKUUNA」「UNEUNA」聞名，大浴場可眺望大海。" },
+      o3:{ name:"KIKI知床 Natural Resort", body:"位於森林中的度假飯店，擁有多種風格獨具的桑拿。部分期間提供日歸溫泉（通常15:00〜20:00）。" },
+      note:"※日歸溫泉的開放時間與費用會依季節及館內狀況變動，請於當天向各設施確認。公共浴場「夕陽台之湯」冬季休業（例年6月〜10月營業）。" },
+    sunset:{ eyebrow:"SUNSET", title:"沉入流冰之海的夕陽", body1:"宇登呂也被稱為「夕陽之城」。2月約16時30分，夕陽沉入被流冰覆蓋的鄂霍次克海，白色冰原被染成茜紅色。潛水結束後前往也來得及，是為一天畫下句點的絕景。", body2:"推薦景點：從溫泉街步行可達的展望地「夕陽台」、往知床五湖方向車程約5分鐘的「Puyuni岬」（宇登呂最早看見流冰的地方）、聳立於宇登呂港旁高60公尺的「Oronko岩」。皆名列「知床八景」。冬季有積雪與結冰，請留意腳下安全。" },
+    food:{ eyebrow:"FOOD", title:"美味的北海道料理", lead:"漁港小鎮宇登呂是海鮮寶庫。以下介紹冬季也營業的店家。冬季多為不定休或縮短營業，建議事先確認。", cta:"在Google地圖查看 →",
+      f1:{ name:"波飛沫（Namishibuki）", body:"中午是拉麵店，晚上則是供應知床雞串燒與在地料理的居酒屋，深受當地常客喜愛。" },
+      f2:{ name:"海鮮料理 番屋", body:"宇登呂港附近的海鮮料理店，生魚片、烤魚等港町菜色齊全。冬季（11〜2月）僅晚間營業。" },
+      f3:{ name:"荒磯料理 Kumanoya", body:"使用在地魚貝的定食與海鮮丼專門店，是嚴冬中也能吃到熱騰騰定食的珍貴存在。" },
+      f4:{ name:"Bon's Home（ボンズホーム）", body:"以馬鈴薯焗烤與咖哩聞名的老字號咖啡館，使用斜里產馬鈴薯，樸實溫暖的好味道。" },
+      note:"※「宇登呂漁協婦人部食堂」（例年4月下旬〜11月中旬）等名店僅於夏季營業。各飯店的晚餐自助餐也十分豐富。" },
+    more:{ eyebrow:"MORE", title:"其他冬季活動",
+      m1:{ title:"流冰漫步（Drift Ice Walk）", body:"穿上專用乾式防寒衣，在流冰上行走、漂浮於冰海之間的人氣行程。無需證照即可參加，當地多家嚮導公司皆有舉辦（需預約）。" },
+      m2:{ title:"冬季知床五湖", body:"冬季的知床五湖僅能參加由認證嚮導帶領的雪鞋行程進入。走在無人足跡的雪原與結冰的湖面上，是非常特別的體驗。" },
+      m3:{ title:"野生動物觀察", body:"冬季知床是虎頭海鵰與白尾海鵰的度冬地，在路邊也常能遇見蝦夷鹿與北狐。開車時請小心動物竄出。" } },
+    cta:{ title:"冰下與冰上，一次擁有。", body:"潛水每天13:30結束，下午可以盡情享受知床的冬天。交通與住宿資訊請一併參考。", cta1:"關於2027年活動", cta2:"交通・住宿資訊" }
   }
 },
 
@@ -395,9 +476,10 @@ ko: {
     event: { title:"2027년 이벤트 | Ice Freediving Shiretoko", desc:"유빙 프리다이빙 컵 2027 개최 개요, 참가 자격, 일정, 신청 방법." },
     gallery: { title:"실적・갤러리 | Ice Freediving Shiretoko", desc:"2024년 세계 기록 수립, 미디어 보도, 유빙 아래에서 촬영한 사진과 영상 갤러리." },
     access: { title:"오시는 길 | Ice Freediving Shiretoko", desc:"시레토코 우토로로 오시는 방법과 유빙 시즌 정보." },
-    contact: { title:"문의・참가 신청 | Ice Freediving Shiretoko", desc:"2027년 이벤트 참가 상담이나 취재・미디어 문의는 이쪽으로 연락해 주세요." }
+    contact: { title:"문의・참가 신청 | Ice Freediving Shiretoko", desc:"2027년 이벤트 참가 상담이나 취재・미디어 문의는 이쪽으로 연락해 주세요." },
+    around: { title:"주변 관광・액티비티 | Ice Freediving Shiretoko", desc:"동행자와 다이빙 전후의 자유 시간을 위해: 겨울 우토로의 온천, 시레토코 자연센터, 후레페 폭포, 석양 명소, 홋카이도 맛집을 소개합니다." }
   },
-  nav: { home:"홈", about:"시레토코와 유빙 프리다이빙", event:"2027년 이벤트", gallery:"실적・갤러리", access:"오시는 길", contact:"문의하기", cta:"참가 신청" },
+  nav: { home:"홈", about:"시레토코와 유빙 프리다이빙", event:"2027년 이벤트", gallery:"실적・갤러리", access:"오시는 길", around:"주변 관광", contact:"문의하기", cta:"참가 신청" },
   brand: { tagline:"유빙 프리다이빙 컵" },
   footer: {
     about:"홋카이도 시레토코 우토로에서 2013년부터 이어온, 유빙 아래를 잠수하는 프리다이빙 이벤트 '유빙 프리다이빙 컵'의 공식 사이트입니다.",
@@ -438,13 +520,17 @@ ko: {
     safety3:{ title:"저체온증 예방 대책", body:"철저한 방한 대책과 조기 대응 체계로 저체온증 등 한랭 환경 특유의 위험에 대비합니다. 국제 공인 심판과의 협력 체계도 구축하고 있습니다." },
     safety4:{ title:"경험・자격 확인", body:"참가에는 프리다이빙 자격(AIDA・CMAS 등)과 냉수역 경험이 요구됩니다. 사전에 경험과 컨디션을 확인한 후 받아들이고 있습니다." },
     safety5:{ title:"명확한 입・출수 경로", body:"유빙에 여러 개의 구멍을 뚫고 경기 라인, 시야 확보용 라인, 안전 라인을 설치합니다. 로프를 따라 안전하게 입・출수합니다." },
+    org:{ eyebrow:"ORGANIZERS", title:"주최자 소개", lead:"유빙 프리다이빙 컵은 세 명의 프리다이버가 중심이 되어 기획・운영하고 있습니다." },
+    org1:{ name:"노구치 도모히로", role:"사진가・프리다이버／창시자", body:"2013년 우토로에서 유빙 아래를 잠수하는 이벤트를 시작한 창시자입니다. 막막한 상태에서 출발해 지역의 협력을 얻으며 안전한 개최 방법을 확립해 왔습니다. 행사에서는 장소・로프 세팅 설계와 수중 촬영을 담당합니다. 수중 사진집 «Water Being»을 출간했고, 유빙 아래의 프리다이버를 흑백 필름에 담은 사진전 «바다의 구름»(2024, 시레토코 자연센터)을 여는 등 사진가로서 유빙 바다를 기록해 오고 있습니다." },
+    org2:{ name:"다카기 유이", role:"프리다이버／공동 창시자・현지 코디네이터", body:"시레토코 우토로 출신. 잠수사인 아버지 아래에서 중학생 때부터 스쿠버다이빙을 시작했고, 오키나와에서 아시아 챔피언 시노미야 류조에게 배우며 프리다이빙에 입문해 2011년 AIDA 프리다이빙 세계선수권 일본 대표로 활약했습니다. 은퇴 후에는 영화・광고의 마린 코디네이터로 활동했으며, 2013년 노구치 씨와 함께 본 이벤트를 시작했습니다. 2021년 고향으로 돌아와 샤리초 지역부흥협력대로도 활동하며, 행사에서는 어업 관계자・의료기관・소방 등 지역과의 조율을 맡고 있습니다." },
+    org3:{ name:"데라지마 다쿠야", role:"프리다이버・수중 사진가／국제 코디네이터", body:"숨참기(스태틱 앱니어) 일본 기록을 보유한 현역 프리다이버입니다. 2020년 기획팀에 합류해 세계 프리다이빙 커뮤니티와 시레토코를 잇는 역할을 하고 있습니다. 2024년 세계기록 어템프트에서는 발기인으로서 CMAS・기네스 세계기록 신청, 해외 저지 초빙, 국제 기준의 장소 설정을 주도해 아시아 최초의 아이스 프리다이빙 공식 기록 실현에 기여했습니다." },
     cta:{ title:"2027년 이벤트에 대해 자세히 보기", body:"참가 자격, 일정, 신청 방법을 안내해 드립니다.", cta1:"2027년 이벤트 상세 보기", cta2:"문의하기" }
   },
 
   event: {
     eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", lead:"시레토코 우토로의 유빙 아래를 잠수하는 펀 다이브 행사입니다. 프리다이빙 자격을 보유한 분을 대상으로 소규모・안전 중시로 개최합니다.",
     table:{ dates:"개최 일정", datesVal:"2027년 2월 20일(얼음구멍 작업・준비일) / 2월 21일~28일(이벤트 진행). 참가일은 이 중 2일을 자유롭게 선택하실 수 있습니다(연속 일정・분산 일정 모두 가능).", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로(오호츠크해). 유빙 상황에 따라 우토로 내에서 포인트가 변경될 수 있습니다.", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). CWT・DYN 두 종목 모두 공식 기록은 남지 않는 펀 다이브로 진행합니다. 유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다.", capacity:"정원", capacityVal:"1일 최대 약 20명. 안전 운영을 위해 소규모로 안내해 드립니다.", fee:"참가비", feeVal:"2일: 45,000엔(보험료 포함, 1일만 참가하셔도 동일 요금) / 추가 1일당: 20,000엔 / 견학만: 12,000엔(1일). 유빙 상황으로 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
-    req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA3 상당 이상) 권장", tag2:"냉수역 잠수 경험이 있으면 좋음", tag3:"건강 상태에 문제가 없는 분", tag4:"사전 인터뷰 협조 가능자", tag5:"자격이 없어도 강사 동행 시 참가 가능",
+    req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA3 상당 이상) 권장", tag2:"냉수역 잠수 경험이 있으면 좋음", tag3:"건강 상태에 문제가 없는 분",
       card1:{ title:"자격・경험에 대하여", body:"AIDA3 상당 이상의 프리다이빙 자격을 보유하신 분을 우선적으로 안내해 드립니다. 자격이 없으신 분도 강사가 동행하는 형태로 참가하실 수 있습니다(상담 필요). 냉수역 잠수 경험은 필수는 아니지만, 경험이 있는 분을 우선적으로 안내해 드리는 경우가 있습니다. 사전에 경력을 확인해 드립니다." },
       card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 기본적으로 장비 대여는 진행하지 않으므로 핀・마스크 등 개인 장비는 지참해 주십시오. 장갑・핀 삭스만 대여 가능합니다." }
     },
@@ -512,6 +598,28 @@ ko: {
     form:{ name:"성함", email:"이메일 주소", country:"국가・지역", cert:"프리다이빙 자격・단체", type:"문의 내용", type1:"2027년 이벤트 참가 상담", type2:"참가 자격・경험에 대한 질문", type3:"취재・미디어 문의", type4:"기타", message:"메시지", messageNote:"잠수 경력 연수, 그동안의 잠수 환경(냉수 경험 유무) 등을 함께 적어 주시면 원활하게 진행됩니다.", submit:"보내기", privacy:"입력하신 내용은 문의 대응 목적 외에는 사용하지 않습니다." },
     direct:{ title:"직접 연락을 원하시는 경우", body:"양식 이용이 어려우신 경우, 인스타그램 DM으로도 문의하실 수 있습니다." },
     reply:{ title:"회신에 대하여", body:"내용 확인 후 통상 영업일 기준 5일 이내에 회신해 드립니다. 유빙 시즌 중(1~3월)에는 현지 대응으로 인해 시간이 걸릴 수 있습니다. 양해 부탁드립니다." }
+  },
+
+  around: {
+    eyebrow:"AROUND SHIRETOKO", title:"다이빙 전후에 즐기는 겨울 시레토코", lead:"이벤트는 매일 13:30에 종료되어 오후는 자유 시간입니다. 잠수하지 않는 동행자분들께도, 세계자연유산 시레토코의 겨울은 볼거리가 가득합니다. 온천, 유빙 절경, 얼어붙은 폭포, 그리고 홋카이도의 맛있는 음식——우토로 주변의 추천 명소를 소개합니다.",
+    nature:{ eyebrow:"NATURE", title:"시레토코 자연센터와 후레페 폭포", body1:"우토로 시내에서 차로 약 5분 거리의 '시레토코 자연센터'는 시레토코 국립공원의 정보 거점으로, 대형 스크린 영상관과 카페・숍이 있습니다. 겨울철(10월 하순~4월 중순)에는 9:00~16:00에 개관하며, 스노슈와 장화 대여도 이곳에서 가능합니다.", body2:"센터에서 이어지는 왕복 약 2km의 산책로 끝에 '후레페 폭포'가 있습니다. 절벽에서 흘러내리는 지하수가 겨울에는 푸르스름하게 얼어붙고, 전망대에서는 유빙으로 뒤덮인 오호츠크해가 한눈에 내려다보입니다. 에조사슴이나 참수리를 만날 수도 있습니다. 겨울에는 설원을 스노슈로 걷는 코스가 되므로, 현지 가이드 투어(시레토코 네이처 오피스, SHINRA, 피키오 시레토코 등) 참가를 추천합니다.", cta:"시레토코 자연센터 공식 사이트 →" },
+    onsen:{ eyebrow:"ONSEN", title:"우토로 온천에서 몸 녹이기", lead:"영하의 바다에서 차가워진 몸에는 온천이 최고의 보상입니다. 우토로는 도동 지역 유수의 온천지로, 리조트 호텔의 당일 입욕과 사우나를 이용할 수 있습니다.", cta:"공식 사이트 →",
+      o1:{ name:"시레토코 다이이치 호텔", body:"오호츠크해와 시레토코 연산을 바라보는 대욕장이 자랑인 노포 호텔. 당일 입욕은 보통 15:00~17:00(성인 1,250엔). 사우나도 있습니다." },
+      o2:{ name:"기타코부시 시레토코 호텔&리조트", body:"우토로항 바로 옆의 온천 리조트. 유빙을 모티브로 한 디자인 사우나 'KAKUUNA' 'UNEUNA'로 유명하며, 대욕장에서 바다가 내려다보입니다." },
+      o3:{ name:"KIKI 시레토코 내추럴 리조트", body:"개성 넘치는 사우나가 모여 있는 숲속 리조트. 시기에 따라 당일 입욕(보통 15:00~20:00)을 운영합니다." },
+      note:"※당일 입욕의 이용 시간・요금은 계절과 호텔 상황에 따라 달라집니다. 이용 당일 각 시설에 확인해 주세요. 공중목욕탕 '유히다이노유'는 겨울철 휴업(예년 6월~10월 영업)입니다." },
+    sunset:{ eyebrow:"SUNSET", title:"유빙 바다로 지는 석양", body1:"우토로는 '석양의 마을'로도 불립니다. 2월에는 16시 반쯤, 유빙으로 덮인 오호츠크해로 해가 지며 하얀 빙원이 붉게 물듭니다. 다이빙이 끝난 후에도 충분히 볼 수 있는, 하루를 마무리하기에 완벽한 절경입니다.", body2:"추천 명소는 온천가에서 걸어갈 수 있는 전망지 '유히다이', 시레토코 5호 방면으로 차로 약 5분 거리의 '푸유니곶'(우토로에서 가장 먼저 유빙이 보이는 곳), 우토로항 옆에 솟은 높이 60m의 '오론코 바위'. 모두 '시레토코 8경'에 꼽히는 명소입니다. 겨울에는 눈과 빙판이 있으니 발밑을 조심하세요." },
+    food:{ eyebrow:"FOOD", title:"맛있는 홋카이도 음식", lead:"어항 마을 우토로는 해산물의 보고입니다. 겨울에도 영업하는 가게를 소개합니다. 겨울철에는 부정기 휴무나 단축 영업이 많으므로 사전 확인을 추천합니다.", cta:"Google 지도에서 보기 →",
+      f1:{ name:"나미시부키(波飛沫)", body:"낮에는 라멘, 밤에는 시레토코 닭꼬치와 현지 요리를 즐길 수 있는 이자카야. 현지 단골도 많은 인기 가게입니다." },
+      f2:{ name:"해산물 요리 반야(番屋)", body:"우토로항 근처의 해산물 요리점. 회, 생선구이 등 항구 마을다운 메뉴가 갖춰져 있습니다. 겨울철(11~2월)에는 저녁만 영업합니다." },
+      f3:{ name:"아라이소 요리 구마노야", body:"현지 해산물을 사용한 정식과 해산물 덮밥 가게. 한겨울에도 따뜻한 정식을 먹을 수 있는 귀한 곳입니다." },
+      f4:{ name:"본즈홈(Bon's Home)", body:"명물 감자 그라탕과 카레의 노포 카페. 샤리산 감자를 사용한 소박하고 따뜻한 맛이 매력입니다." },
+      note:"※항구의 신선한 생선이 자랑인 '우토로 어협 부인부 식당'(예년 4월 하순~11월 중순) 등 여름철에만 영업하는 명소도 있습니다. 각 호텔의 저녁 뷔페도 훌륭합니다." },
+    more:{ eyebrow:"MORE", title:"그 밖의 겨울 액티비티",
+      m1:{ title:"유빙 워크", body:"전용 드라이슈트를 입고 유빙 위를 걷고, 얼음 바다에 떠보는 인기 투어. 자격증 없이 참가할 수 있으며 현지 가이드 회사들이 운영합니다(예약 필수)." },
+      m2:{ title:"겨울 시레토코 5호", body:"겨울철 시레토코 5호는 인증 가이드가 동행하는 스노슈 투어로만 입장할 수 있습니다. 아무 발자국도 없는 설원과 얼어붙은 호수 위를 걷는 특별한 체험입니다." },
+      m3:{ title:"야생동물 관찰", body:"겨울 시레토코는 참수리・흰꼬리수리의 월동지입니다. 에조사슴과 북방여우는 도로변에서도 만날 수 있습니다. 운전 시 동물 출현에 주의하세요." } },
+    cta:{ title:"얼음 아래도, 얼음 위도.", body:"다이빙은 매일 13:30에 끝나 오후에는 시레토코의 겨울을 마음껏 즐길 수 있습니다. 교통・숙박 정보도 함께 확인해 보세요.", cta1:"2027년 이벤트 안내", cta2:"오시는 길・숙박 정보" }
   }
 }
 

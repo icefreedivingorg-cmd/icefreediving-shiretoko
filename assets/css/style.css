@@ -366,6 +366,15 @@ section{padding:104px 0;position:relative;}
 }
 .section-alt .card .card-icon{background:var(--ice-deep);}
 
+.org-role{
+  font-size:.82rem;
+  letter-spacing:.04em;
+  color:var(--sea-700);
+  margin:6px 0 14px;
+  padding-bottom:12px;
+  border-bottom:1px solid var(--line);
+}
+
 .photo-card{
   border-radius:var(--radius-md);
   overflow:hidden;
