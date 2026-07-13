@@ -25,7 +25,7 @@ ja: {
   },
 
   home: {
-    hero:{ dates:"2027年 2月21日〜28日", datesLoc:"・北海道 知床ウトロ", title:"流氷の下で、<br>世界でここだけの一息を。", sub:"オホーツク海の流氷が接岸する知床ウトロ。氷の下に広がる静寂の海へ、息だけを頼りに潜る——日本で唯一、この場所だけの体験です。", cta1:"2027年イベントについて", cta2:"流氷フリーダイビングとは", scroll:"SCROLL" },
+    hero:{ dates:"2027年 2月20日〜28日", datesLoc:"・北海道 知床ウトロ", title:"流氷の下で、<br>世界でここだけの一息を。", sub:"オホーツク海の流氷が接岸する知床ウトロ。氷の下に広がる静寂の海へ、息だけを頼りに潜る——日本で唯一、この場所だけの体験です。", cta1:"2027年イベントについて", cta2:"流氷フリーダイビングとは", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"知床ウトロだけの、特別な流氷体験", body:"私たちは2013年から、北海道・知床ウトロで「流氷フリーダイビングカップ」を開催してきました。分厚い流氷に穴を開け、氷点下の海へ素潜りで挑む——ヨーロッパの凍った湖で行われるアイスダイビングとは異なり、知床では塩分を含む海水と、ゴツゴツと起伏に富んだ流氷の下という、世界でも類を見ない環境で潜ることができます。地元の特別な許可と11年以上の運営実績のもと、国内外のフリーダイバーが集うイベントへと育ってきました。" },
     stats:{ since:"活動開始", years:"年の運営実績", record:"世界記録樹立（2024）", countries:"参加国・地域" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"知床が「世界でここだけ」である理由" },
@@ -34,7 +34,7 @@ ja: {
     h3:{ title:"世界記録が生まれた海", body:"2024年2月、知床ウトロの流氷下でCMAS・ギネス世界記録公認のアイスフリーダイビング世界記録が樹立されました。台湾・韓国など海外からのファンダイブ参加者も増え、国際色豊かなコミュニティに育っています。" },
     record:{ badge:"WORLD RECORD 2024", title:"尾関靖子選手、流氷下126mの世界記録を達成", body:"2024年2月22日、知床ウトロの流氷下にて、フリーダイバー尾関靖子選手がダイナミックウィズフィン種目で126mを泳ぎきり、CMAS公認・ギネス世界記録に認定されました。氷点下の海水、分厚く不揃いな流氷、限られた浮上ポイントという過酷な条件のもとで実現した記録です。", cta:"詳しく見る →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"世界自然遺産・知床という場所", body:"知床半島は2005年に世界自然遺産に登録された、原生的な自然が残る北海道最東端の地。冬になるとオホーツク海を流氷が覆い、豊かな海の生態系と、流氷の下でしか出会えない生き物たちの世界が広がります。私たちの活動拠点は、その玄関口であるウトロです。", cta:"知床と流氷フリーダイビングについて →" },
-    event:{ eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", body:"2027年も知床ウトロにて開催します。フリーダイビング資格をお持ちの方を対象に、ファンダイブ形式でご参加いただけます。安全運営の都合上、受け入れ人数には限りがあります。", tag1:"2027年2月21日〜28日", tag2:"フリーダイビング資格（AIDA3相当以上）推奨", tag3:"1日最大 約20名", cta:"イベント詳細・参加について →" },
+    event:{ eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", body:"2027年も知床ウトロにて開催します。フリーダイビング資格をお持ちの方を対象に、ファンダイブ形式でご参加いただけます。安全運営の都合上、受け入れ人数には限りがあります。", tag1:"2027年2月20日〜28日", tag2:"フリーダイビング資格（AIDA3相当以上）推奨", tag3:"1日最大 約20名", cta:"イベント詳細・参加について →" },
     gallery:{ eyebrow:"GALLERY", title:"流氷の下の世界", cta:"ギャラリーをすべて見る →" },
     cta:{ title:"2027年、知床の流氷の下で会いましょう。", body:"参加のご相談、資格・経験についてのご質問、取材・メディアのお問い合わせなど、お気軽にご連絡ください。", cta1:"お問い合わせ・エントリー", cta2:"Instagramをフォロー" }
   },
@@ -64,20 +64,20 @@ ja: {
 
   event: {
     eyebrow:"2027 EVENT", title:"流氷フリーダイビングカップ 2027", lead:"知床ウトロの流氷下を潜るファンダイブイベント。フリーダイビング資格をお持ちの方を対象に、少人数・安全重視で開催します。",
-    table:{ dates:"開催日程", datesVal:"2027年2月20日（穴あけ・準備日）／2月21日〜28日（イベント実施）。参加日は2日間からお選びいただけます（連続日程・分割日程どちらも可）。", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ（オホーツク海）。流氷の状況により、ポイントはウトロ内で変更になる場合があります。", format:"形式", formatVal:"ファンダイブ（記録が公式に残らない体験潜水）。コンスタントウェイト（CWT）・ダイナミック（DYN）の2種目とも、公式記録のつかないファンダイブとして実施します。流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。", capacity:"定員", capacityVal:"1日最大 約20名。安全運営の都合上、少人数制でのご案内となります。", fee:"参加費", feeVal:"2日間 45,000円（保険代込み・1日のみのご参加でも同額）／＋1日ごとに20,000円／見学のみ12,000円（1日）。流氷の状況で潜水自体ができない場合は、1日あたり10,000円を返金します。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
+    table:{ dates:"開催日程", datesVal:"2027年2月20日〜28日。参加日は2日間からお選びいただけます（連続日程・分割日程どちらも可）。※2月20日は穴あけ・準備が中心のため、潜水時間は短めです。", place:"開催場所", placeVal:"北海道 斜里郡斜里町 ウトロ（オホーツク海）。流氷の状況により、ポイントはウトロ内で変更になる場合があります。", format:"形式", formatVal:"ファンダイブ（記録が公式に残らない体験潜水）。コンスタントウェイト（CWT）・ダイナミック（DYN）の2種目とも、公式記録のつかないファンダイブとして実施します。流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。", capacity:"定員", capacityVal:"1日最大 約20名。安全運営の都合上、少人数制でのご案内となります。", fee:"参加費", feeVal:"2日間 45,000円（保険代込み・1日のみのご参加でも同額）／＋1日ごとに20,000円／見学のみ12,000円（1日）。流氷の状況で潜水自体ができない場合は、1日あたり10,000円を返金します。", apply:"申込方法", applyVal:"下記フォームまたはメールよりお問い合わせください。折り返しご案内いたします。" },
     req:{ eyebrow:"REQUIREMENTS", title:"参加資格", tag1:"フリーダイビング資格（AIDA3相当以上）推奨", tag2:"冷水域での潜水経験があれば尚可", tag3:"健康状態に問題がない方",
       card1:{ title:"資格・経験について", body:"AIDA3相当以上のフリーダイビング資格をお持ちの方を優先的にご案内します。資格をお持ちでない方も、インストラクターが同行する形であればご参加いただけます（要相談）。冷水域での潜水経験は必須ではありませんが、経験がある方を優先的にご案内する場合があります。事前にご経歴を確認させていただきます。" },
-      card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。基本的にレンタル装備はございませんので、フィン・マスク等の個人装備はご持参ください。グローブ・フィンソックスのみレンタルがございます。" }
+      card2:{ title:"装備について", body:"ウェットスーツ（厚さ5mm以上推奨）を着用いただきます。マスク等の個人装備はご持参ください。グローブ・フィン・フィンソックスはレンタルがございます（一式2,000円・期間中1回のみ）。ウェイトは無料ですが、ウェイトベルトはご持参ください。" }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"1日の流れ", note:"参加日程は2日間からお選びください。連続日程でも、間に別のアクティビティを挟む分割日程でも構いません。", t1:"10:00", t1Title:"集合・穴あけ作業・ブリーフィング", t2:"10:30", t2Title:"ダイビング開始", t3:"13:30", t3Title:"終了・自由解散" },
     activities:{ eyebrow:"ACTIVITIES", title:"実施可能な種目", cwt:{ title:"CWT（コンスタントウェイト）", body:"最大深度は約13m。安全のため、必ずバディと一緒に潜水してください。" }, dyn:{ title:"DYN（ダイナミック）", body:"約20m間隔で開けた2つの穴の間を移動する種目です。穴と穴の間にはロープを設置し、ラニヤードを使用して潜水します。水中はスキューバダイバーが安全管理を行います。" } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"必要な装備", note:"ウェットスーツ・マスク・シュノーケル・ラニヤードはご自身でご用意ください。グローブ・フィン・フィンソックスは有料レンタル、ウェイトは無料でご用意しています。",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"必要な装備", note:"ウェットスーツ・マスク・シュノーケル・ラニヤードはご自身でご用意ください。グローブ・フィン・フィンソックスは有料レンタル（一式2,000円・期間中1回のみ）、ウェイトは無料でご用意しています。",
       item1:{ title:"ウェットスーツ", body:"厚さ5mm以上を推奨します（水温0度前後）。1〜3mmでも潜水は可能ですが、保温性の面で初心者や長時間の潜水には不向きです。" },
-      item2:{ title:"グローブ／フィンソックス", body:"手足の保護のため必須です。レンタルもございます（グローブ1,000円・フィンソックス1,000円、各1日）。" },
-      item3:{ title:"フィン", body:"種類は問いません。フィンソックスを着用したまま履けるか、事前にご確認ください。有料レンタルもございます（1,000円／1日）。" },
+      item2:{ title:"グローブ／フィンソックス", body:"手足の保護のため必須です。レンタルもございます（フィンと合わせて一式2,000円・期間中1回のみ）。" },
+      item3:{ title:"フィン", body:"種類は問いません。フィンソックスを着用したまま履けるか、事前にご確認ください。有料レンタルもございます（グローブ・フィンソックスと合わせて一式2,000円・期間中1回のみ）。" },
       item4:{ title:"マスク・シュノーケル", body:"通常のもので問題ありません。" },
       item5:{ title:"ラニヤード", body:"通常のもので問題ありません。" },
-      item6:{ title:"ウェイト", body:"無料でご用意しています。" }
+      item6:{ title:"ウェイト", body:"無料でご用意しています。参加人数が多い日はシェアをお願いする場合があります。ウェイトベルトはご持参ください。" }
     },
     fee:{ eyebrow:"FEE", title:"参加費（保険代込み）", plan1:{ label:"2日間", val:"45,000円" }, plan2:{ label:"＋1日ごと", val:"20,000円" }, plan3:{ label:"見学のみ（1日）", val:"12,000円" }, note1:"1日のみのご参加でも料金は2日間と同額です。", note2:"流氷がない・少ない場合は寒中シュノーケリングまたはファンダイビングに振り替えます。潜水自体が実施できない場合は、1日あたり10,000円を返金します。" },
     cancel:{ eyebrow:"CANCELLATION POLICY", title:"キャンセルポリシー", r1:{ label:"90日前まで", val:"100%返金" }, r2:{ label:"45日前まで", val:"50%返金" }, r3:{ label:"それ以降", val:"返金なし" } },
@@ -180,7 +180,7 @@ en: {
   },
 
   home: {
-    hero:{ dates:"Feb 21–28, 2027", datesLoc:"· Utoro, Shiretoko, Hokkaido, Japan", title:"One breath, beneath the ice.<br>Nowhere else on Earth.", sub:"In Utoro, Shiretoko, where Okhotsk drift ice meets the shore, we freedive into the silent sea beneath the ice — with nothing but a single breath. It's an experience found nowhere else in Japan.", cta1:"About the 2027 event", cta2:"What is drift ice freediving?", scroll:"SCROLL" },
+    hero:{ dates:"Feb 20–28, 2027", datesLoc:"· Utoro, Shiretoko, Hokkaido, Japan", title:"One breath, beneath the ice.<br>Nowhere else on Earth.", sub:"In Utoro, Shiretoko, where Okhotsk drift ice meets the shore, we freedive into the silent sea beneath the ice — with nothing but a single breath. It's an experience found nowhere else in Japan.", cta1:"About the 2027 event", cta2:"What is drift ice freediving?", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"A drift-ice experience unique to Utoro, Shiretoko", body:"Since 2013 we've run the Drift Ice Freediving Cup in Utoro, on Japan's Shiretoko Peninsula. Holes are cut through thick sea ice and divers freedive into sub-zero seawater beneath it. Unlike ice diving on Europe's frozen lakes, Shiretoko offers something found nowhere else in the world: salt water and the rugged, uneven underside of true sea ice. Built on special local permission and more than a decade of operating experience, it has grown into a gathering for freedivers from Japan and abroad." },
     stats:{ since:"Since", years:"years of operation", record:"world record set (2024)", countries:"countries represented" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"Why Shiretoko is the only place of its kind" },
@@ -189,7 +189,7 @@ en: {
     h3:{ title:"The sea where a world record was born", body:"In February 2024, a CMAS- and Guinness-certified ice freediving world record was set beneath the drift ice of Utoro, Shiretoko. Fun-dive participants from Taiwan, Korea and beyond continue to join, making this an increasingly international community." },
     record:{ badge:"WORLD RECORD 2024", title:"Yasuko Ozeki sets a 126m world record beneath the drift ice", body:"On February 22, 2024, freediver Yasuko Ozeki swam 126m in the Dynamic With Fins discipline beneath the drift ice of Utoro, Shiretoko — officially certified by CMAS and recognized as a Guinness World Record. It was achieved under brutally demanding conditions: sub-zero seawater, thick and uneven sea ice, and only a handful of surfacing points.", cta:"Learn more →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"Shiretoko, a UNESCO World Heritage site", body:"The Shiretoko Peninsula, at the easternmost tip of Hokkaido, was inscribed as a UNESCO World Natural Heritage site in 2005. Each winter, drift ice blankets the Sea of Okhotsk, revealing a rich marine ecosystem and creatures found only beneath the ice. Utoro, our home base, is the gateway to this wilderness.", cta:"About Shiretoko & drift ice freediving →" },
-    event:{ eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", body:"We're holding the event again in Utoro, Shiretoko in 2027. Certified freedivers are welcome to join as fun divers. Due to the scale of our safety operation, spots are limited.", tag1:"Feb 21–28, 2027", tag2:"Certification recommended (AIDA 3+)", tag3:"Up to ~20 people/day", cta:"Event details & how to join →" },
+    event:{ eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", body:"We're holding the event again in Utoro, Shiretoko in 2027. Certified freedivers are welcome to join as fun divers. Due to the scale of our safety operation, spots are limited.", tag1:"Feb 20–28, 2027", tag2:"Certification recommended (AIDA 3+)", tag3:"Up to ~20 people/day", cta:"Event details & how to join →" },
     gallery:{ eyebrow:"GALLERY", title:"The world beneath the ice", cta:"View the full gallery →" },
     cta:{ title:"See you beneath the ice of Shiretoko in 2027.", body:"Whether you're considering joining, have a question about certification and experience, or are reaching out from the press, we'd love to hear from you.", cta1:"Contact & entry", cta2:"Follow us on Instagram" }
   },
@@ -219,20 +219,20 @@ en: {
 
   event: {
     eyebrow:"2027 EVENT", title:"Drift Ice Freediving Cup 2027", lead:"A fun-dive event beneath the drift ice of Utoro, Shiretoko, open to certified freedivers. Run in small groups, with safety as our top priority.",
-    table:{ dates:"Dates", datesVal:"February 20, 2027 (ice-hole preparation day) / February 21–28, 2027 (event days). Choose any 2 days to join — consecutive or split across the week, whichever suits you.", place:"Location", placeVal:"Utoro, Shari, Hokkaido, Japan (Sea of Okhotsk). The exact dive point may change within Utoro depending on ice conditions.", format:"Format", formatVal:"Fun dive — no official records are set in either discipline. Both Constant Weight (CWT) and Dynamic (DYN) are run purely as fun dives. If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving.", capacity:"Capacity", capacityVal:"Up to about 20 people per day. Kept small for safety.", fee:"Fee", feeVal:"2 days: ¥45,000 (insurance included, same price even if you only join 1 day) / each additional day: ¥20,000 / observation only: ¥12,000 per day. If diving itself isn't possible due to ice conditions, we refund ¥10,000 per affected day.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
+    table:{ dates:"Dates", datesVal:"February 20–28, 2027. Choose any 2 days to join — consecutive or split across the week, whichever suits you. Note: Feb 20 is mainly for hole drilling and preparation, so diving time is limited.", place:"Location", placeVal:"Utoro, Shari, Hokkaido, Japan (Sea of Okhotsk). The exact dive point may change within Utoro depending on ice conditions.", format:"Format", formatVal:"Fun dive — no official records are set in either discipline. Both Constant Weight (CWT) and Dynamic (DYN) are run purely as fun dives. If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving.", capacity:"Capacity", capacityVal:"Up to about 20 people per day. Kept small for safety.", fee:"Fee", feeVal:"2 days: ¥45,000 (insurance included, same price even if you only join 1 day) / each additional day: ¥20,000 / observation only: ¥12,000 per day. If diving itself isn't possible due to ice conditions, we refund ¥10,000 per affected day.", apply:"How to apply", applyVal:"Reach out via the form below or by email, and we'll get back to you." },
     req:{ eyebrow:"REQUIREMENTS", title:"Who can join", tag1:"Freediving certification (AIDA Level 3 or equivalent) recommended", tag2:"Cold-water diving experience is a plus", tag3:"In good health",
       card1:{ title:"Certification & experience", body:"We give priority to divers holding a freediving certification of AIDA Level 3 or equivalent. If you don't hold a certification, you may still be able to join accompanied by an instructor — please get in touch to discuss. Cold-water experience isn't required, but divers with it may be given priority. We'll confirm your background beforehand." },
-      card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). We generally don't rent gear, so please bring your own fins, mask and personal equipment. Gloves and fin socks are available to rent." }
+      card2:{ title:"Equipment", body:"You'll wear a wetsuit (5mm or thicker recommended). Please bring your own mask and personal equipment. Gloves, fins and fin socks are available to rent (flat ¥2,000 for the whole event). Weights are free, but please bring your own weight belt." }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"A typical day", note:"Choose any 2 days to join — consecutive, or split with other activities in between.", t1:"10:00", t1Title:"Gathering, hole drilling & briefing", t2:"10:30", t2Title:"Diving begins", t3:"13:30", t3Title:"Finish — free to head off" },
     activities:{ eyebrow:"ACTIVITIES", title:"Disciplines available", cwt:{ title:"CWT (Constant Weight)", body:"Maximum depth is about 13m. Always dive with a buddy." }, dyn:{ title:"DYN (Dynamic)", body:"Two holes are cut about 20m apart, so you can swim dynamic between them. A rope runs between the holes — dive using your lanyard. Scuba divers monitor safety underwater." } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"What to bring", note:"Please bring your own wetsuit, mask, snorkel and lanyard. Gloves, fins and fin socks are available to rent for a fee, and weights are provided free of charge.",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"What to bring", note:"Please bring your own wetsuit, mask, snorkel and lanyard. Gloves, fins and fin socks are available to rent (flat ¥2,000 for the whole event), and weights are provided free of charge.",
       item1:{ title:"Wetsuit", body:"5mm or thicker recommended (water temperature is around 0°C). 1–3mm suits are possible but not ideal for beginners or longer dives." },
-      item2:{ title:"Gloves & fin socks", body:"Essential for protecting your hands and feet. Rentals are available (¥1,000 per day each)." },
-      item3:{ title:"Fins", body:"Any type is fine — just confirm beforehand that they fit over fin socks. Rentals are also available (¥1,000 per day)." },
+      item2:{ title:"Gloves & fin socks", body:"Essential for protecting your hands and feet. Rentals are available (flat ¥2,000 for the whole event, together with fins)." },
+      item3:{ title:"Fins", body:"Any type is fine — just confirm beforehand that they fit over fin socks. Rentals are also available (flat ¥2,000 for the whole event, together with gloves and fin socks)." },
       item4:{ title:"Mask & snorkel", body:"Standard equipment is fine." },
       item5:{ title:"Lanyard", body:"Standard lanyard is fine." },
-      item6:{ title:"Weights", body:"Provided free of charge." }
+      item6:{ title:"Weights", body:"Provided free of charge. Weights may need to be shared on busy days — please bring your own weight belt." }
     },
     fee:{ eyebrow:"FEE", title:"Participation fee (insurance included)", plan1:{ label:"2 days", val:"¥45,000" }, plan2:{ label:"Each additional day", val:"¥20,000" }, plan3:{ label:"Observation only (per day)", val:"¥12,000" }, note1:"The fee is the same even if you only join for 1 day.", note2:"If there's little or no drift ice, we switch to cold-water snorkeling or open-water fun diving. If diving itself isn't possible, we refund ¥10,000 per affected day." },
     cancel:{ eyebrow:"CANCELLATION POLICY", title:"Cancellation policy", r1:{ label:"90+ days before", val:"100% refund" }, r2:{ label:"45+ days before", val:"50% refund" }, r3:{ label:"After that", val:"No refund" } },
@@ -335,7 +335,7 @@ zh: {
   },
 
   home: {
-    hero:{ dates:"2027年2月21日〜28日", datesLoc:"・北海道知床宇登呂", title:"在流冰之下，<br>體驗全世界僅此一處的一口氣。", sub:"鄂霍次克海的流冰漂抵知床宇登呂沿岸。潛入冰下寂靜無聲的海中，僅憑一口氣——這是日本獨一無二的體驗。", cta1:"了解2027年活動", cta2:"什麼是流冰自由潛水", scroll:"SCROLL" },
+    hero:{ dates:"2027年2月20日〜28日", datesLoc:"・北海道知床宇登呂", title:"在流冰之下，<br>體驗全世界僅此一處的一口氣。", sub:"鄂霍次克海的流冰漂抵知床宇登呂沿岸。潛入冰下寂靜無聲的海中，僅憑一口氣——這是日本獨一無二的體驗。", cta1:"了解2027年活動", cta2:"什麼是流冰自由潛水", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"僅限知床宇登呂的特別流冰體驗", body:"我們自2013年起，於北海道知床宇登呂舉辦「流冰自由潛水盃」。在厚重的流冰上鑿洞，徒手潛入零下海水之中——與歐洲在結凍湖泊進行的冰潛不同，知床可以在含鹽的海水，以及凹凸起伏、厚實不平的真正海冰之下潛水，這是世界少見的環境。憑藉當地特別許可與超過11年的營運經驗，這項活動已成長為聚集國內外自由潛水者的盛會。" },
     stats:{ since:"活動起始", years:"年營運實績", record:"世界紀錄達成（2024）", countries:"參加國家・地區" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"知床為何是「世界僅此一處」" },
@@ -344,7 +344,7 @@ zh: {
     h3:{ title:"誕生世界紀錄的海域", body:"2024年2月，在知床宇登呂的流冰下創下經CMAS與金氏世界紀錄認證的冰下自由潛水世界紀錄。來自台灣、韓國等海外的體驗潛水參加者也持續增加，發展成國際色彩豐富的社群。" },
     record:{ badge:"世界紀錄 2024", title:"尾關靖子選手於流冰下創下126公尺世界紀錄", body:"2024年2月22日，自由潛水選手尾關靖子於知床宇登呂的流冰下，以雙蹼動態閉氣項目游完126公尺，經CMAS認證並獲金氏世界紀錄認證。這是在零下海水、厚實不平的流冰、以及極其有限的浮出點等嚴苛條件下達成的紀錄。", cta:"了解詳情 →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"世界自然遺產・知床這個地方", body:"知床半島於2005年登錄為世界自然遺產，是北海道最東端保留原始自然風貌的地區。每逢冬季，鄂霍次克海被流冰覆蓋，孕育出豐富的海洋生態系統，以及唯有在流冰下才能見到的生物世界。我們的活動據點宇登呂，正是這片自然的入口。", cta:"了解知床與流冰自由潛水 →" },
-    event:{ eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", body:"2027年將再度於知床宇登呂舉辦。活動以持有自由潛水證照者為對象，採體驗潛水形式進行。基於安全營運考量，接受人數有限。", tag1:"2027年2月21日〜28日", tag2:"建議持有自由潛水證照（AIDA3以上）", tag3:"每日最多約20人", cta:"活動詳情與參加方式 →" },
+    event:{ eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", body:"2027年將再度於知床宇登呂舉辦。活動以持有自由潛水證照者為對象，採體驗潛水形式進行。基於安全營運考量，接受人數有限。", tag1:"2027年2月20日〜28日", tag2:"建議持有自由潛水證照（AIDA3以上）", tag3:"每日最多約20人", cta:"活動詳情與參加方式 →" },
     gallery:{ eyebrow:"藝廊", title:"流冰下的世界", cta:"查看完整藝廊 →" },
     cta:{ title:"2027年，在知床的流冰下相見。", body:"無論是參加洽詢、資格與經驗相關問題，或是採訪與媒體聯繫，歡迎隨時與我們聯絡。", cta1:"聯絡我們・報名", cta2:"追蹤Instagram" }
   },
@@ -374,20 +374,20 @@ zh: {
 
   event: {
     eyebrow:"2027年活動", title:"流冰自由潛水盃 2027", lead:"在知床宇登呂的流冰下進行的體驗潛水活動，以持有自由潛水證照者為對象，採小人數、安全優先的方式舉辦。",
-    table:{ dates:"舉辦日期", datesVal:"2027年2月20日（鑿冰準備日）／2月21日〜28日（活動舉行）。可自由選擇其中2天參加（連續或分開日期皆可）。", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂（鄂霍次克海）。實際潛點可能依流冰狀況於宇登呂範圍內調整。", format:"形式", formatVal:"體驗潛水，CWT（定重）與DYN（動態）兩種項目皆不計正式紀錄，純粹以體驗潛水（Fun Dive）方式進行。若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。", capacity:"名額", capacityVal:"每日最多約20人。基於安全營運考量，採小人數制。", fee:"參加費用", feeVal:"2天：45,000日圓（含保險費，僅參加1天費用相同）／每加1天：20,000日圓／僅參觀：12,000日圓（1天）。若因流冰狀況無法下水，將退還每日10,000日圓。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
+    table:{ dates:"舉辦日期", datesVal:"2027年2月20日〜28日。可自由選擇其中2天參加（連續或分開日期皆可）。※2月20日以鑿冰與準備為主,潛水時間較短。", place:"舉辦地點", placeVal:"北海道斜里郡斜里町 宇登呂（鄂霍次克海）。實際潛點可能依流冰狀況於宇登呂範圍內調整。", format:"形式", formatVal:"體驗潛水，CWT（定重）與DYN（動態）兩種項目皆不計正式紀錄，純粹以體驗潛水（Fun Dive）方式進行。若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。", capacity:"名額", capacityVal:"每日最多約20人。基於安全營運考量，採小人數制。", fee:"參加費用", feeVal:"2天：45,000日圓（含保險費，僅參加1天費用相同）／每加1天：20,000日圓／僅參觀：12,000日圓（1天）。若因流冰狀況無法下水，將退還每日10,000日圓。", apply:"報名方式", applyVal:"請透過下方表單或電子郵件與我們聯絡，我們將盡快回覆。" },
     req:{ eyebrow:"參加條件", title:"參加資格", tag1:"建議持有自由潛水證照（AIDA3或同等以上）", tag2:"具備冷水域潛水經驗尤佳", tag3:"身體狀況良好",
       card1:{ title:"關於資格與經驗", body:"我們優先接受持有AIDA3或同等以上自由潛水證照的參加者。若未持有證照，經教練陪同亦有機會參加，歡迎另行洽詢。冷水域潛水經驗並非必要條件，但具備經驗者可能優先受理。我們會事前確認您的經歷。" },
-      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。基本上不提供裝備租借，蛙鏡、蛙鞋等個人裝備請自行攜帶。僅手套與蛙鞋襪提供租借。" }
+      card2:{ title:"關於裝備", body:"請穿著濕式潛水衣（建議5mm以上）。面鏡等個人裝備請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（一套2,000日圓、整個活動期間僅收1次）。配重免費,但請自備配重帶。" }
     },
     daily:{ eyebrow:"每日行程", title:"當天流程", note:"請自由選擇其中2天參加，連續日期或中間穿插其他行程皆可。", t1:"10:00", t1Title:"集合・鑿冰作業・行前說明", t2:"10:30", t2Title:"開始下水", t3:"13:30", t3Title:"結束・自由解散" },
     activities:{ eyebrow:"可進行項目", title:"可體驗的潛水項目", cwt:{ title:"CWT（定重）", body:"最大深度約13公尺。基於安全考量，請務必與潛伴一同下水。" }, dyn:{ title:"DYN（動態）", body:"於相距約20公尺的兩個洞口間進行動態潛水。洞口間設有繩索，請使用潛水繩夾潛水，水中並有水肺潛水員負責安全監控。" } },
-    gear:{ eyebrow:"必要裝備", title:"請自行攜帶的裝備", note:"濕式潛水衣、面鏡、呼吸管、潛水繩夾請自行攜帶。手套、蛙鞋、蛙鞋襪提供有料租借，配重則免費提供。",
+    gear:{ eyebrow:"必要裝備", title:"請自行攜帶的裝備", note:"濕式潛水衣、面鏡、呼吸管、潛水繩夾請自行攜帶。手套、蛙鞋、蛙鞋襪提供租借（一套2,000日圓、整個活動期間僅收1次），配重則免費提供。",
       item1:{ title:"濕式潛水衣", body:"建議厚度5mm以上（水溫約0度）。1〜3mm亦可下水，但保暖性較差，不建議初學者或長時間潛水使用。" },
-      item2:{ title:"手套／蛙鞋襪", body:"為保護手腳，屬必要裝備。提供租借（手套1,000日圓、蛙鞋襪1,000日圓，各為1天費用）。" },
-      item3:{ title:"蛙鞋", body:"款式不拘，建議事前確認搭配蛙鞋襪穿著是否合適。亦提供租借（1,000日圓／1天）。" },
+      item2:{ title:"手套／蛙鞋襪", body:"為保護手腳，屬必要裝備。提供租借（與蛙鞋合計一套2,000日圓、整個活動期間僅收1次）。" },
+      item3:{ title:"蛙鞋", body:"款式不拘，建議事前確認搭配蛙鞋襪穿著是否合適。亦提供租借（與手套、蛙鞋襪合計一套2,000日圓、整個活動期間僅收1次）。" },
       item4:{ title:"面鏡・呼吸管", body:"一般款式即可。" },
       item5:{ title:"潛水繩夾", body:"一般款式即可。" },
-      item6:{ title:"配重", body:"免費提供。" }
+      item6:{ title:"配重", body:"免費提供。參加人數較多的日子可能需要共用,請自備配重帶。" }
     },
     fee:{ eyebrow:"參加費用", title:"參加費用（含保險費）", plan1:{ label:"2天", val:"45,000日圓" }, plan2:{ label:"每加1天", val:"20,000日圓" }, plan3:{ label:"僅參觀（1天）", val:"12,000日圓" }, note1:"僅參加1天，費用亦與2天相同。", note2:"若流冰稀少或缺席，將改為寒中浮潛或一般體驗潛水。若完全無法下水，將退還每日10,000日圓。" },
     cancel:{ eyebrow:"取消政策", title:"取消政策", r1:{ label:"90天前", val:"退還100%" }, r2:{ label:"45天前", val:"退還50%" }, r3:{ label:"之後", val:"不予退款" } },
@@ -490,7 +490,7 @@ ko: {
   },
 
   home: {
-    hero:{ dates:"2027년 2월 21일~28일", datesLoc:"・홋카이도 시레토코 우토로", title:"유빙 아래에서,<br>세상에 하나뿐인 한 호흡을.", sub:"오호츠크해의 유빙이 밀려오는 시레토코 우토로. 얼음 아래 펼쳐진 고요한 바다로, 오직 숨 하나에 의지해 잠수합니다 — 일본에서 이곳에서만 가능한 특별한 체험입니다.", cta1:"2027년 이벤트 안내", cta2:"유빙 프리다이빙이란", scroll:"SCROLL" },
+    hero:{ dates:"2027년 2월 20일~28일", datesLoc:"・홋카이도 시레토코 우토로", title:"유빙 아래에서,<br>세상에 하나뿐인 한 호흡을.", sub:"오호츠크해의 유빙이 밀려오는 시레토코 우토로. 얼음 아래 펼쳐진 고요한 바다로, 오직 숨 하나에 의지해 잠수합니다 — 일본에서 이곳에서만 가능한 특별한 체험입니다.", cta1:"2027년 이벤트 안내", cta2:"유빙 프리다이빙이란", scroll:"SCROLL" },
     intro:{ eyebrow:"WELCOME", title:"시레토코 우토로에서만 만날 수 있는 특별한 유빙 체험", body:"저희는 2013년부터 홋카이도 시레토코 우토로에서 '유빙 프리다이빙 컵'을 개최해 왔습니다. 두꺼운 유빙에 구멍을 뚫고 영하의 바다로 맨몸으로 잠수하는 활동으로, 유럽의 얼어붙은 호수에서 이루어지는 아이스 다이빙과 달리 시레토코에서는 염분을 머금은 바닷물과 울퉁불퉁하게 기복이 있는 진짜 유빙 아래라는, 세계적으로도 유례를 찾기 힘든 환경에서 잠수할 수 있습니다. 현지의 특별한 허가와 11년 이상의 운영 실적을 바탕으로, 국내외 프리다이버들이 모이는 행사로 성장해 왔습니다." },
     stats:{ since:"활동 시작", years:"년간 운영 실적", record:"세계 기록 수립(2024)", countries:"참가 국가・지역" },
     highlights:{ eyebrow:"WHY SHIRETOKO", title:"시레토코가 '세계에서 이곳뿐'인 이유" },
@@ -499,7 +499,7 @@ ko: {
     h3:{ title:"세계 기록이 탄생한 바다", body:"2024년 2월, 시레토코 우토로의 유빙 아래에서 CMAS・기네스 세계 기록으로 공인된 아이스 프리다이빙 세계 기록이 수립되었습니다. 대만, 한국 등 해외에서 온 펀 다이브 참가자도 늘어나며 국제적인 색채가 풍부한 커뮤니티로 성장하고 있습니다." },
     record:{ badge:"세계 기록 2024", title:"오제키 야스코 선수, 유빙 아래 126m 세계 기록 달성", body:"2024년 2월 22일, 시레토코 우토로의 유빙 아래에서 프리다이버 오제키 야스코 선수가 다이나믹 위드 핀 종목으로 126m를 완영하며 CMAS 공인・기네스 세계 기록으로 인정받았습니다. 영하의 바닷물, 두껍고 불규칙한 유빙, 제한된 부상 지점이라는 가혹한 조건 속에서 이루어 낸 기록입니다.", cta:"자세히 보기 →" },
     about:{ eyebrow:"ABOUT SHIRETOKO", title:"세계자연유산・시레토코라는 곳", body:"시레토코 반도는 2005년 세계자연유산으로 등재된, 원시 자연이 남아 있는 홋카이도 최동단의 땅입니다. 겨울이 되면 오호츠크해가 유빙으로 뒤덮이며, 풍요로운 해양 생태계와 유빙 아래에서만 만날 수 있는 생물들의 세계가 펼쳐집니다. 저희 활동 거점인 우토로는 그 관문에 해당합니다.", cta:"시레토코와 유빙 프리다이빙 알아보기 →" },
-    event:{ eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", body:"2027년에도 시레토코 우토로에서 개최합니다. 프리다이빙 자격을 보유한 분을 대상으로 펀 다이브 형식으로 참가하실 수 있습니다. 안전 운영을 위해 수용 인원에 제한이 있습니다.", tag1:"2027년 2월 21일~28일", tag2:"프리다이빙 자격(AIDA3 이상) 권장", tag3:"1일 최대 약 20명", cta:"이벤트 상세・참가 안내 →" },
+    event:{ eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", body:"2027년에도 시레토코 우토로에서 개최합니다. 프리다이빙 자격을 보유한 분을 대상으로 펀 다이브 형식으로 참가하실 수 있습니다. 안전 운영을 위해 수용 인원에 제한이 있습니다.", tag1:"2027년 2월 20일~28일", tag2:"프리다이빙 자격(AIDA3 이상) 권장", tag3:"1일 최대 약 20명", cta:"이벤트 상세・참가 안내 →" },
     gallery:{ eyebrow:"GALLERY", title:"유빙 아래의 세계", cta:"갤러리 전체 보기 →" },
     cta:{ title:"2027년, 시레토코의 유빙 아래에서 만나요.", body:"참가 상담, 자격・경험에 대한 문의, 취재・미디어 관련 문의 등 편하게 연락해 주세요.", cta1:"문의・참가 신청", cta2:"인스타그램 팔로우" }
   },
@@ -529,20 +529,20 @@ ko: {
 
   event: {
     eyebrow:"2027 EVENT", title:"유빙 프리다이빙 컵 2027", lead:"시레토코 우토로의 유빙 아래를 잠수하는 펀 다이브 행사입니다. 프리다이빙 자격을 보유한 분을 대상으로 소규모・안전 중시로 개최합니다.",
-    table:{ dates:"개최 일정", datesVal:"2027년 2월 20일(얼음구멍 작업・준비일) / 2월 21일~28일(이벤트 진행). 참가일은 이 중 2일을 자유롭게 선택하실 수 있습니다(연속 일정・분산 일정 모두 가능).", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로(오호츠크해). 유빙 상황에 따라 우토로 내에서 포인트가 변경될 수 있습니다.", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). CWT・DYN 두 종목 모두 공식 기록은 남지 않는 펀 다이브로 진행합니다. 유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다.", capacity:"정원", capacityVal:"1일 최대 약 20명. 안전 운영을 위해 소규모로 안내해 드립니다.", fee:"참가비", feeVal:"2일: 45,000엔(보험료 포함, 1일만 참가하셔도 동일 요금) / 추가 1일당: 20,000엔 / 견학만: 12,000엔(1일). 유빙 상황으로 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
+    table:{ dates:"개최 일정", datesVal:"2027년 2월 20일~28일. 참가일은 이 중 2일을 자유롭게 선택하실 수 있습니다(연속 일정・분산 일정 모두 가능). ※2월 20일은 구멍 뚫기・준비 중심으로 다이빙 시간이 짧습니다.", place:"개최 장소", placeVal:"홋카이도 샤리군 샤리초 우토로(오호츠크해). 유빙 상황에 따라 우토로 내에서 포인트가 변경될 수 있습니다.", format:"형식", formatVal:"펀 다이브(기록을 겨루지 않는 체험 잠수). CWT・DYN 두 종목 모두 공식 기록은 남지 않는 펀 다이브로 진행합니다. 유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다.", capacity:"정원", capacityVal:"1일 최대 약 20명. 안전 운영을 위해 소규모로 안내해 드립니다.", fee:"참가비", feeVal:"2일: 45,000엔(보험료 포함, 1일만 참가하셔도 동일 요금) / 추가 1일당: 20,000엔 / 견학만: 12,000엔(1일). 유빙 상황으로 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다.", apply:"신청 방법", applyVal:"아래 양식 또는 이메일로 문의해 주시면 회신해 드리겠습니다." },
     req:{ eyebrow:"REQUIREMENTS", title:"참가 자격", tag1:"프리다이빙 자격(AIDA3 상당 이상) 권장", tag2:"냉수역 잠수 경험이 있으면 좋음", tag3:"건강 상태에 문제가 없는 분",
       card1:{ title:"자격・경험에 대하여", body:"AIDA3 상당 이상의 프리다이빙 자격을 보유하신 분을 우선적으로 안내해 드립니다. 자격이 없으신 분도 강사가 동행하는 형태로 참가하실 수 있습니다(상담 필요). 냉수역 잠수 경험은 필수는 아니지만, 경험이 있는 분을 우선적으로 안내해 드리는 경우가 있습니다. 사전에 경력을 확인해 드립니다." },
-      card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 기본적으로 장비 대여는 진행하지 않으므로 핀・마스크 등 개인 장비는 지참해 주십시오. 장갑・핀 삭스만 대여 가능합니다." }
+      card2:{ title:"장비에 대하여", body:"웨트슈트(5mm 이상 권장)를 착용해 주십니다. 마스크 등 개인 장비는 지참해 주십시오. 장갑・핀・핀 삭스는 대여 가능합니다(일괄 2,000엔・기간 중 1회만). 웨이트는 무료이지만 웨이트 벨트는 지참해 주세요." }
     },
     daily:{ eyebrow:"DAILY SCHEDULE", title:"하루의 흐름", note:"참가일은 2일을 선택해 주세요. 연속 일정이든, 사이에 다른 일정을 넣는 분산 일정이든 상관없습니다.", t1:"10:00", t1Title:"집합・얼음구멍 작업・브리핑", t2:"10:30", t2Title:"다이빙 시작", t3:"13:30", t3Title:"종료・자유 해산" },
     activities:{ eyebrow:"ACTIVITIES", title:"진행 가능한 종목", cwt:{ title:"CWT(컨스턴트 웨이트)", body:"최대 수심은 약 13m입니다. 안전을 위해 반드시 버디와 함께 잠수해 주세요." }, dyn:{ title:"DYN(다이나믹)", body:"약 20m 간격으로 뚫은 두 개의 구멍 사이를 이동하는 종목입니다. 구멍 사이에는 로프를 설치하며, 라니야드를 사용해 잠수합니다. 수중에서는 스쿠버 다이버가 안전 관리를 담당합니다." } },
-    gear:{ eyebrow:"REQUIRED GEAR", title:"필요한 장비", note:"웨트슈트・마스크・스노클・라니야드는 본인의 장비를 지참해 주세요. 장갑・핀・핀 삭스는 유료 대여가 가능하며, 웨이트는 무료로 제공해 드립니다.",
+    gear:{ eyebrow:"REQUIRED GEAR", title:"필요한 장비", note:"웨트슈트・마스크・스노클・라니야드는 본인의 장비를 지참해 주세요. 장갑・핀・핀 삭스는 유료 대여가 가능하며(일괄 2,000엔・기간 중 1회만), 웨이트는 무료로 제공해 드립니다.",
       item1:{ title:"웨트슈트", body:"두께 5mm 이상을 권장합니다(수온 0도 전후). 1~3mm로도 잠수는 가능하지만 보온성 면에서 초보자나 장시간 잠수에는 적합하지 않습니다." },
-      item2:{ title:"장갑 / 핀 삭스", body:"손발 보호를 위해 필수입니다. 대여도 가능합니다(장갑 1,000엔・핀 삭스 1,000엔, 각 1일 기준)." },
-      item3:{ title:"핀", body:"종류는 상관없습니다. 핀 삭스를 착용한 채 신을 수 있는지 사전에 확인해 주세요. 대여도 가능합니다(1,000엔/1일)." },
+      item2:{ title:"장갑 / 핀 삭스", body:"손발 보호를 위해 필수입니다. 대여도 가능합니다(핀과 합쳐 일괄 2,000엔・기간 중 1회만)." },
+      item3:{ title:"핀", body:"종류는 상관없습니다. 핀 삭스를 착용한 채 신을 수 있는지 사전에 확인해 주세요. 대여도 가능합니다(장갑・핀 삭스와 합쳐 일괄 2,000엔・기간 중 1회만)." },
       item4:{ title:"마스크・스노클", body:"일반적인 것으로 문제없습니다." },
       item5:{ title:"라니야드", body:"일반적인 것으로 문제없습니다." },
-      item6:{ title:"웨이트", body:"무료로 제공해 드립니다." }
+      item6:{ title:"웨이트", body:"무료로 제공해 드립니다. 참가 인원이 많은 날은 공유를 부탁드릴 수 있습니다. 웨이트 벨트는 지참해 주세요." }
     },
     fee:{ eyebrow:"FEE", title:"참가비(보험료 포함)", plan1:{ label:"2일", val:"45,000엔" }, plan2:{ label:"추가 1일당", val:"20,000엔" }, plan3:{ label:"견학만(1일)", val:"12,000엔" }, note1:"1일만 참가하셔도 요금은 2일 요금과 동일합니다.", note2:"유빙이 없거나 적을 경우 한중 스노클링 또는 펀 다이빙으로 대체합니다. 잠수 자체가 불가능한 경우 1일당 10,000엔을 환불해 드립니다." },
     cancel:{ eyebrow:"CANCELLATION POLICY", title:"취소 정책", r1:{ label:"90일 전까지", val:"100% 환불" }, r2:{ label:"45일 전까지", val:"50% 환불" }, r3:{ label:"그 이후", val:"환불 불가" } },
