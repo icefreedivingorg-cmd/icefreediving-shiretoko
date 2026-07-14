@@ -421,6 +421,12 @@ section{padding:104px 0;position:relative;}
 }
 .timeline-item .yr{color:var(--sea-700);font-family:var(--font-serif);font-weight:700;font-size:.95rem;margin-bottom:6px;display:block;letter-spacing:.06em;}
 .timeline-item h4{margin-bottom:6px;font-size:1.05rem;}
+.timeline-item .tl-photo{margin:12px 0 0;max-width:440px;border-radius:10px;overflow:hidden;}
+.timeline-item .tl-photo img{width:100%;height:auto;display:block;}
+.timeline-item .tl-photo figcaption{font-size:.8rem;color:var(--ink-3,#667);padding:6px 2px 0;}
+.timeline-item .tl-photo-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px;}
+.timeline-item .tl-photo-row .tl-photo{margin:0;flex:1 1 220px;max-width:none;}
+.timeline-item .tl-photo-portrait{max-width:280px;}
 
 /* safety list */
 .check-list{display:grid;gap:18px;}
