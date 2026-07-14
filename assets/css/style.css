@@ -692,3 +692,28 @@ section{padding:104px 0;position:relative;}
   z-index:998;display:none;
 }
 .nav-scrim.open{display:block;}
+
+/* =========================================================
+   MOBILE READABILITY — keep text wrapping cleanly on narrow
+   screens for every language (JA / EN / ZH / KO)
+   ========================================================= */
+/* general text must always be able to wrap */
+body{overflow-wrap:break-word;}
+h1,h2,h3,h4,h5,p,li,dd,dt,span,a,strong,em,blockquote,figcaption,label,
+.eyebrow,.tag,.lead,.hero-content h1,.hero-sub,.hero-dates,
+.schedule-row h4,.schedule-row p,.info-table th,.info-table td{
+  overflow-wrap:break-word;
+}
+/* long unbreakable strings (urls, emails, codes) break anywhere */
+a[href^="http"],a[href^="mailto"],a[href^="tel"],.break-anywhere{
+  overflow-wrap:anywhere;word-break:break-word;
+}
+/* inline-flex "pills" wrap instead of overflowing and being clipped */
+.hero-dates,.eyebrow{flex-wrap:wrap;max-width:100%;}
+
+@media (max-width:520px){
+  /* long button / CTA labels wrap rather than get cut off */
+  .btn{white-space:normal;}
+  /* date pill: let the location drop onto its own line */
+  .hero-dates{align-items:flex-start;line-height:1.5;}
+}
