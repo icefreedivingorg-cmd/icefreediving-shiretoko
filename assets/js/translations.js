@@ -58,7 +58,7 @@ ja: {
     org:{ eyebrow:"ORGANIZERS", title:"主催者紹介", lead:"流氷フリーダイビングカップは、3人のフリーダイバーが中心となって企画・運営しています。" },
     org1:{ name:"野口智弘", role:"写真家・フリーダイバー", body:"2013年、ウトロで流氷の下を潜るイベントを立ち上げ、安全に開催するための方法を確立してきました。写真集『Water Being』、流氷下のフリーダイバーを捉えた写真展『海の雲』など、写真家として流氷の海を記録し続けています。" },
     org2:{ name:"高木唯", role:"フリーダイバー", body:"知床ウトロ出身。2011年AIDAフリーダイビングワールドチャンピオンシップス日本代表。2013年に野口氏とともに本イベントを立ち上げ、地元との調整役を担っています。現在は斜里町地域おこし協力隊としても活動中。" },
-    org3:{ name:"寺嶋拓哉", role:"フリーダイバー・ビデオグラファー", body:"息止め（スタティックアプネア）日本記録を保持する現役フリーダイバー。2020年から企画チームに加わり、世界のフリーダイビングコミュニティと知床をつないでいます。2024年の世界記録アテンプトでは、CMAS・ギネスへの申請や海外ジャッジの招聘を主導しました。" },
+    org3:{ name:"寺嶋拓哉", role:"フリーダイバー・ビデオグラファー", body:"息止め（スタティックアプネア）日本記録を保持する現役フリーダイバー。2020年から企画チームに加わり、世界のフリーダイビングコミュニティと知床をつないでいます。" },
     cta:{ title:"2027年イベントについて、詳しく見る", body:"参加資格やスケジュール、お申し込み方法をご案内しています。", cta1:"2027年イベントの詳細へ", cta2:"お問い合わせ" }
   },
 
@@ -213,7 +213,7 @@ en: {
     org:{ eyebrow:"ORGANIZERS", title:"Meet the organizers", lead:"The Ice Freediving Cup is planned and run by three freedivers." },
     org1:{ name:"Tomohiro Noguchi", role:"Photographer & freediver", body:"Launched the event of diving beneath the drift ice in Utoro in 2013 and has established its safe practices ever since. As a photographer he continues to document the sea of drift ice, with the photo book \"Water Being\" and the exhibition \"Sea Clouds\"." },
     org2:{ name:"Yui Takagi", role:"Freediver", body:"Born and raised in Utoro, Shiretoko. Represented Japan at the 2011 AIDA Freediving World Championships. Co-founded the event in 2013 and coordinates with the local community; she also serves in Shari Town's regional revitalization program." },
-    org3:{ name:"Takuya Terajima", role:"Freediver & videographer", body:"An active freediver holding the Japanese national record in static apnea (breath-hold). Joined the team in 2020, connecting Shiretoko with the global freediving community, and led the CMAS and Guinness World Records applications and international judging for the 2024 world-record attempt." },
+    org3:{ name:"Takuya Terajima", role:"Freediver & videographer", body:"An active freediver holding the Japanese national record in static apnea (breath-hold). Joined the team in 2020, connecting Shiretoko with the global freediving community." },
     cta:{ title:"See the full details for the 2027 event", body:"Requirements, sample schedule and how to apply.", cta1:"2027 event details", cta2:"Contact us" }
   },
 
@@ -368,7 +368,7 @@ zh: {
     org:{ eyebrow:"ORGANIZERS", title:"主辦者介紹", lead:"流冰自由潛水盃由三位自由潛水員共同企劃與營運。" },
     org1:{ name:"野口智弘", role:"攝影師・自由潛水員", body:"2013年在宇登呂發起潛入流冰之下的活動，並逐步建立安全的舉辦方式。作為攝影師持續記錄流冰之海，著有攝影集《Water Being》、攝影展《海之雲》。" },
     org2:{ name:"高木唯", role:"自由潛水員", body:"出生於知床宇登呂。2011年AIDA自由潛水世界錦標賽日本代表。2013年與野口氏共同創辦本活動，負責與在地各方的協調，現亦擔任斜里町地域振興協力隊。" },
-    org3:{ name:"寺嶋拓哉", role:"自由潛水員・錄影師", body:"保持閉氣（靜態閉氣）日本紀錄的現役自由潛水員。2020年加入企劃團隊，串連知床與世界自由潛水社群，並在2024年世界紀錄挑戰中主導CMAS與金氏世界紀錄的申請及國際裁判邀請。" },
+    org3:{ name:"寺嶋拓哉", role:"自由潛水員・錄影師", body:"保持閉氣（靜態閉氣）日本紀錄的現役自由潛水員。2020年加入企劃團隊，串連知床與世界自由潛水社群。" },
     cta:{ title:"深入了解2027年活動詳情", body:"提供參加資格、行程安排及報名方式等資訊。", cta1:"查看2027年活動詳情", cta2:"聯絡我們" }
   },
 
@@ -523,7 +523,7 @@ ko: {
     org:{ eyebrow:"ORGANIZERS", title:"주최자 소개", lead:"유빙 프리다이빙 컵은 세 명의 프리다이버가 중심이 되어 기획・운영하고 있습니다." },
     org1:{ name:"노구치 도모히로", role:"사진가・프리다이버", body:"2013년 우토로에서 유빙 아래를 잠수하는 이벤트를 시작해 안전한 개최 방법을 확립해 왔습니다. 사진집 «Water Being», 사진전 «바다의 구름» 등 사진가로서 유빙 바다를 기록하고 있습니다." },
     org2:{ name:"다카기 유이", role:"프리다이버", body:"시레토코 우토로 출신. 2011년 AIDA 프리다이빙 세계선수권 일본 대표. 2013년 노구치 씨와 함께 본 이벤트를 시작해 지역과의 조율을 맡고 있으며, 샤리초 지역부흥협력대로도 활동 중입니다." },
-    org3:{ name:"데라지마 다쿠야", role:"프리다이버・비디오그래퍼", body:"숨참기(스태틱 앱니어) 일본 기록을 보유한 현역 프리다이버. 2020년 팀에 합류해 세계 프리다이빙 커뮤니티와 시레토코를 잇고 있으며, 2024년 세계기록 어템프트에서는 CMAS・기네스 신청과 해외 저지 초빙을 주도했습니다." },
+    org3:{ name:"데라지마 다쿠야", role:"프리다이버・비디오그래퍼", body:"숨참기(스태틱 앱니어) 일본 기록을 보유한 현역 프리다이버. 2020년 팀에 합류해 세계 프리다이빙 커뮤니티와 시레토코를 잇고 있습니다." },
     cta:{ title:"2027년 이벤트에 대해 자세히 보기", body:"참가 자격, 일정, 신청 방법을 안내해 드립니다.", cta1:"2027년 이벤트 상세 보기", cta2:"문의하기" }
   },
 
