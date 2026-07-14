@@ -53,12 +53,12 @@ ja: {
     safety1:{ title:"地元の特別な許可", body:"通常、流氷上での活動にはドライスーツの着用とガイドの同行が義務付けられています。本イベントは地元漁業関係者・関係機関の特別な許可のもとで実施しています。" },
     safety2:{ title:"複数のセーフティ体制", body:"水中セーフティダイバー、氷上セーフティ、スキューバサポートチームを配置。参加者一人ひとりの潜水を伴泳・監視します。" },
     safety3:{ title:"低体温症対策", body:"十分な防寒対策と早期発見の体制で、低体温症など寒冷環境特有のリスクに備えています。国際認定ジャッジとの連携体制も構築しています。" },
-    safety4:{ title:"経験・資格の確認", body:"参加にはフリーダイビング資格（AIDA・CMAS等）と、冷水域での経験が求められます。事前に経験・体調を確認したうえで受け入れています。" },
+    safety4:{ title:"経験・資格の確認", body:"参加にはフリーダイビング資格（AIDA等）と、冷水域での経験が求められます。事前に経験・体調を確認したうえで受け入れています。" },
     safety5:{ title:"明確な入退水ルート", body:"流氷に複数の穴を開け、競技ライン・目視ライン・セーフティラインを設置。ロープに沿って安全に入退水します。" },
     org:{ eyebrow:"ORGANIZERS", title:"主催者紹介", lead:"流氷フリーダイビングカップは、3人のフリーダイバーが中心となって企画・運営しています。" },
     org1:{ name:"野口智弘", role:"写真家・フリーダイバー", body:"2013年、ウトロで流氷の下を潜るイベントを立ち上げ、安全に開催するための方法を確立してきました。写真集『Water Being』、流氷下のフリーダイバーを捉えた写真展『海の雲』など、写真家として流氷の海を記録し続けています。" },
     org2:{ name:"高木唯", role:"フリーダイバー", body:"知床ウトロ出身。2011年AIDAフリーダイビングワールドチャンピオンシップス日本代表。2013年に野口氏とともに本イベントを立ち上げ、地元との調整役を担っています。現在は斜里町地域おこし協力隊としても活動中。" },
-    org3:{ name:"寺嶋拓哉", role:"フリーダイバー・水中写真家", body:"息止め（スタティックアプネア）日本記録を保持する現役フリーダイバー。2020年から企画チームに加わり、世界のフリーダイビングコミュニティと知床をつないでいます。2024年の世界記録アテンプトでは、CMAS・ギネスへの申請や海外ジャッジの招聘を主導しました。" },
+    org3:{ name:"寺嶋拓哉", role:"フリーダイバー・ビデオグラファー", body:"息止め（スタティックアプネア）日本記録を保持する現役フリーダイバー。2020年から企画チームに加わり、世界のフリーダイビングコミュニティと知床をつないでいます。2024年の世界記録アテンプトでは、CMAS・ギネスへの申請や海外ジャッジの招聘を主導しました。" },
     cta:{ title:"2027年イベントについて、詳しく見る", body:"参加資格やスケジュール、お申し込み方法をご案内しています。", cta1:"2027年イベントの詳細へ", cta2:"お問い合わせ" }
   },
 
@@ -208,12 +208,12 @@ en: {
     safety1:{ title:"Special local permission", body:"Activity on drift ice normally requires a dry suit and a licensed guide. This event runs under special permission granted by local fishing cooperatives and relevant authorities." },
     safety2:{ title:"Multiple layers of safety", body:"Underwater safety divers, ice-surface safety staff and a scuba support team accompany and monitor every diver's dive." },
     safety3:{ title:"Hypothermia prevention", body:"We take thorough precautions against hypothermia and other risks specific to a cold-water environment. We also maintain working relationships with internationally certified judges." },
-    safety4:{ title:"Verified experience & certification", body:"Participation requires a freediving certification (AIDA, CMAS, etc.) and cold-water experience. We confirm each participant's background and condition in advance." },
+    safety4:{ title:"Verified experience & certification", body:"Participation requires a freediving certification (AIDA, etc.) and cold-water experience. We confirm each participant's background and condition in advance." },
     safety5:{ title:"Clearly defined entry & exit routes", body:"Multiple holes are cut in the ice, with competition, sighting and safety lines all set in place. Divers move safely between holes along these ropes." },
     org:{ eyebrow:"ORGANIZERS", title:"Meet the organizers", lead:"The Ice Freediving Cup is planned and run by three freedivers." },
     org1:{ name:"Tomohiro Noguchi", role:"Photographer & freediver", body:"Launched the event of diving beneath the drift ice in Utoro in 2013 and has established its safe practices ever since. As a photographer he continues to document the sea of drift ice, with the photo book \"Water Being\" and the exhibition \"Sea Clouds\"." },
     org2:{ name:"Yui Takagi", role:"Freediver", body:"Born and raised in Utoro, Shiretoko. Represented Japan at the 2011 AIDA Freediving World Championships. Co-founded the event in 2013 and coordinates with the local community; she also serves in Shari Town's regional revitalization program." },
-    org3:{ name:"Takuya Terajima", role:"Freediver & underwater photographer", body:"An active freediver holding the Japanese national record in static apnea (breath-hold). Joined the team in 2020, connecting Shiretoko with the global freediving community, and led the CMAS and Guinness World Records applications and international judging for the 2024 world-record attempt." },
+    org3:{ name:"Takuya Terajima", role:"Freediver & videographer", body:"An active freediver holding the Japanese national record in static apnea (breath-hold). Joined the team in 2020, connecting Shiretoko with the global freediving community, and led the CMAS and Guinness World Records applications and international judging for the 2024 world-record attempt." },
     cta:{ title:"See the full details for the 2027 event", body:"Requirements, sample schedule and how to apply.", cta1:"2027 event details", cta2:"Contact us" }
   },
 
@@ -363,12 +363,12 @@ zh: {
     safety1:{ title:"當地特別許可", body:"一般而言，於流冰上活動須穿著乾式潛水衣並由嚮導陪同。本活動是在當地漁業相關人士及相關機構的特別許可下舉辦。" },
     safety2:{ title:"多重安全體制", body:"配置水中安全潛水員、冰上安全人員及水肺支援團隊，全程陪同並監控每位參加者的潛水過程。" },
     safety3:{ title:"失溫症預防措施", body:"採取充分的保暖與早期發現措施，以應對失溫症等寒冷環境特有的風險。並與國際認證裁判建立合作體制。" },
-    safety4:{ title:"確認經驗與資格", body:"參加需具備自由潛水證照（AIDA、CMAS等）及冷水域潛水經驗。我們會事前確認參加者的經驗與身體狀況後才予以接受。" },
+    safety4:{ title:"確認經驗與資格", body:"參加需具備自由潛水證照（AIDA等）及冷水域潛水經驗。我們會事前確認參加者的經驗與身體狀況後才予以接受。" },
     safety5:{ title:"明確的進出水路線", body:"在流冰上開鑿多個洞口，設置比賽線、視覺參考線及安全線，潛水者沿繩索安全地進出水面。" },
     org:{ eyebrow:"ORGANIZERS", title:"主辦者介紹", lead:"流冰自由潛水盃由三位自由潛水員共同企劃與營運。" },
     org1:{ name:"野口智弘", role:"攝影師・自由潛水員", body:"2013年在宇登呂發起潛入流冰之下的活動，並逐步建立安全的舉辦方式。作為攝影師持續記錄流冰之海，著有攝影集《Water Being》、攝影展《海之雲》。" },
     org2:{ name:"高木唯", role:"自由潛水員", body:"出生於知床宇登呂。2011年AIDA自由潛水世界錦標賽日本代表。2013年與野口氏共同創辦本活動，負責與在地各方的協調，現亦擔任斜里町地域振興協力隊。" },
-    org3:{ name:"寺嶋拓哉", role:"自由潛水員・水下攝影師", body:"保持閉氣（靜態閉氣）日本紀錄的現役自由潛水員。2020年加入企劃團隊，串連知床與世界自由潛水社群，並在2024年世界紀錄挑戰中主導CMAS與金氏世界紀錄的申請及國際裁判邀請。" },
+    org3:{ name:"寺嶋拓哉", role:"自由潛水員・錄影師", body:"保持閉氣（靜態閉氣）日本紀錄的現役自由潛水員。2020年加入企劃團隊，串連知床與世界自由潛水社群，並在2024年世界紀錄挑戰中主導CMAS與金氏世界紀錄的申請及國際裁判邀請。" },
     cta:{ title:"深入了解2027年活動詳情", body:"提供參加資格、行程安排及報名方式等資訊。", cta1:"查看2027年活動詳情", cta2:"聯絡我們" }
   },
 
@@ -518,12 +518,12 @@ ko: {
     safety1:{ title:"현지의 특별 허가", body:"일반적으로 유빙 위에서의 활동은 드라이슈트 착용과 가이드 동행이 의무화되어 있습니다. 본 행사는 지역 어업 관계자 및 관계 기관의 특별 허가 아래 진행됩니다." },
     safety2:{ title:"다중 안전 체계", body:"수중 안전 다이버, 빙상 안전 요원, 스쿠버 지원팀을 배치하여 참가자 한 사람 한 사람의 잠수를 동행하며 감시합니다." },
     safety3:{ title:"저체온증 예방 대책", body:"철저한 방한 대책과 조기 대응 체계로 저체온증 등 한랭 환경 특유의 위험에 대비합니다. 국제 공인 심판과의 협력 체계도 구축하고 있습니다." },
-    safety4:{ title:"경험・자격 확인", body:"참가에는 프리다이빙 자격(AIDA・CMAS 등)과 냉수역 경험이 요구됩니다. 사전에 경험과 컨디션을 확인한 후 받아들이고 있습니다." },
+    safety4:{ title:"경험・자격 확인", body:"참가에는 프리다이빙 자격(AIDA 등)과 냉수역 경험이 요구됩니다. 사전에 경험과 컨디션을 확인한 후 받아들이고 있습니다." },
     safety5:{ title:"명확한 입・출수 경로", body:"유빙에 여러 개의 구멍을 뚫고 경기 라인, 시야 확보용 라인, 안전 라인을 설치합니다. 로프를 따라 안전하게 입・출수합니다." },
     org:{ eyebrow:"ORGANIZERS", title:"주최자 소개", lead:"유빙 프리다이빙 컵은 세 명의 프리다이버가 중심이 되어 기획・운영하고 있습니다." },
     org1:{ name:"노구치 도모히로", role:"사진가・프리다이버", body:"2013년 우토로에서 유빙 아래를 잠수하는 이벤트를 시작해 안전한 개최 방법을 확립해 왔습니다. 사진집 «Water Being», 사진전 «바다의 구름» 등 사진가로서 유빙 바다를 기록하고 있습니다." },
     org2:{ name:"다카기 유이", role:"프리다이버", body:"시레토코 우토로 출신. 2011년 AIDA 프리다이빙 세계선수권 일본 대표. 2013년 노구치 씨와 함께 본 이벤트를 시작해 지역과의 조율을 맡고 있으며, 샤리초 지역부흥협력대로도 활동 중입니다." },
-    org3:{ name:"데라지마 다쿠야", role:"프리다이버・수중 사진가", body:"숨참기(스태틱 앱니어) 일본 기록을 보유한 현역 프리다이버. 2020년 팀에 합류해 세계 프리다이빙 커뮤니티와 시레토코를 잇고 있으며, 2024년 세계기록 어템프트에서는 CMAS・기네스 신청과 해외 저지 초빙을 주도했습니다." },
+    org3:{ name:"데라지마 다쿠야", role:"프리다이버・비디오그래퍼", body:"숨참기(스태틱 앱니어) 일본 기록을 보유한 현역 프리다이버. 2020년 팀에 합류해 세계 프리다이빙 커뮤니티와 시레토코를 잇고 있으며, 2024년 세계기록 어템프트에서는 CMAS・기네스 신청과 해외 저지 초빙을 주도했습니다." },
     cta:{ title:"2027년 이벤트에 대해 자세히 보기", body:"참가 자격, 일정, 신청 방법을 안내해 드립니다.", cta1:"2027년 이벤트 상세 보기", cta2:"문의하기" }
   },
 
