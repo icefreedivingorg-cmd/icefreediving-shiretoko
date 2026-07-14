@@ -70,9 +70,11 @@
       });
     }
 
-    /* ---- contact form (FormSubmit AJAX) ---- */
+    /* ---- contact form (予約システムと同じGAS経由。FormSubmitは2026-07-14に廃止) ---- */
     var form = document.querySelector("#entry-form");
     if(form){
+      // 予約システム(entry.html)と同じWebアプリURL。GASを再デプロイしてもURLは変わらない
+      var GAS_CONTACT_ENDPOINT = "https://script.google.com/macros/s/AKfycbwUesSz_23rABWfYXq4Fo1393-B6tCJCWKc0rrH1rwz5NbrdnlZ2iqdtxPEBSWEUWiZ/exec";
       var successBox = document.querySelector(".form-success");
       form.addEventListener("submit", function(e){
         e.preventDefault();
@@ -80,13 +82,21 @@
         var originalText = submitBtn ? submitBtn.textContent : "";
         if(submitBtn){ submitBtn.disabled = true; submitBtn.textContent = "..."; }
 
-        fetch(form.action, {
+        var fd = new FormData(form);
+        var payload = {
+          kind: "contact",
+          website: fd.get("_honey") || "",
+          name: fd.get("Name"), email: fd.get("Email"),
+          country: fd.get("Country"), cert: fd.get("Certification"),
+          inquiryType: fd.get("Inquiry Type"), message: fd.get("Message")
+        };
+        fetch(GAS_CONTACT_ENDPOINT, {
           method:"POST",
-          body:new FormData(form),
-          headers:{ "Accept":"application/json" }
+          body: JSON.stringify(payload)
         }).then(function(res){
-          return res.json().catch(function(){ return {}; });
-        }).then(function(){
+          return res.json();
+        }).then(function(res){
+          if(!res.ok) throw new Error(res.error || "server error");
           if(successBox) successBox.classList.add("show");
           form.reset();
           form.style.display = "none";
